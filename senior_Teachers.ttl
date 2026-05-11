@@ -1,0 +1,244 @@
+
+@prefix ex: <http://example.org/> .
+@prefix senior_Teachers: <http://example.org/senior_Teachers/> .
+
+
+senior_Hours:19630126-0001
+    ex:hasTeacherId "19630126-0001" ;
+    ex:hasTeacherName "Teacher 1" ;
+    ex:hasDepartmentName "D4" ;
+    ex:hasDivisionName "D4-3" .
+
+
+
+senior_Hours:19600814-0002
+    ex:hasTeacherId "19600814-0002" ;
+    ex:hasTeacherName "Teacher 2" ;
+    ex:hasDepartmentName "D7" ;
+    ex:hasDivisionName "D7-4" .
+
+
+
+senior_Hours:19600905-0003
+    ex:hasTeacherId "19600905-0003" ;
+    ex:hasTeacherName "Teacher 3" ;
+    ex:hasDepartmentName "D7" ;
+    ex:hasDivisionName "D7-1" .
+
+
+
+senior_Hours:19590129-0004
+    ex:hasTeacherId "19590129-0004" ;
+    ex:hasTeacherName "Teacher 4" ;
+    ex:hasDepartmentName "D3" ;
+    ex:hasDivisionName "D3-3" .
+
+
+
+senior_Hours:19610623-0005
+    ex:hasTeacherId "19610623-0005" ;
+    ex:hasTeacherName "Teacher 5" ;
+    ex:hasDepartmentName "D5" ;
+    ex:hasDivisionName "D5-2" .
+
+
+
+senior_Hours:19610620-0006
+    ex:hasTeacherId "19610620-0006" ;
+    ex:hasTeacherName "Teacher 6" ;
+    ex:hasDepartmentName "D5" ;
+    ex:hasDivisionName "D5-0" .
+
+
+
+senior_Hours:19580218-0007
+    ex:hasTeacherId "19580218-0007" ;
+    ex:hasTeacherName "Teacher 7" ;
+    ex:hasDepartmentName "D4" ;
+    ex:hasDivisionName "D4-1" .
+
+
+
+senior_Hours:19570828-0008
+    ex:hasTeacherId "19570828-0008" ;
+    ex:hasTeacherName "Teacher 8" ;
+    ex:hasDepartmentName "D4" ;
+    ex:hasDivisionName "D4-0" .
+
+
+
+senior_Hours:19690408-0009
+    ex:hasTeacherId "19690408-0009" ;
+    ex:hasTeacherName "Teacher 9" ;
+    ex:hasDepartmentName "D3" ;
+    ex:hasDivisionName "D3-5" .
+
+
+
+senior_Hours:19560612-0010
+    ex:hasTeacherId "19560612-0010" ;
+    ex:hasTeacherName "Teacher 10" ;
+    ex:hasDepartmentName "D3" ;
+    ex:hasDivisionName "D3-2" .
+
+
+
+senior_Hours:19570615-0011
+    ex:hasTeacherId "19570615-0011" ;
+    ex:hasTeacherName "Teacher 11" ;
+    ex:hasDepartmentName "D5" ;
+    ex:hasDivisionName "D5-3" .
+
+
+
+senior_Hours:19570826-0012
+    ex:hasTeacherId "19570826-0012" ;
+    ex:hasTeacherName "Teacher 12" ;
+    ex:hasDepartmentName "D7" ;
+    ex:hasDivisionName "D7-5" .
+
+
+
+senior_Hours:19640414-0013
+    ex:hasTeacherId "19640414-0013" ;
+    ex:hasTeacherName "Teacher 13" ;
+    ex:hasDepartmentName "D4" ;
+    ex:hasDivisionName "D4-1" .
+
+
+
+senior_Hours:19611219-0014
+    ex:hasTeacherId "19611219-0014" ;
+    ex:hasTeacherName "Teacher 14" ;
+    ex:hasDepartmentName "D6" ;
+    ex:hasDivisionName "D6-3" .
+
+
+
+senior_Hours:19690513-0015
+    ex:hasTeacherId "19690513-0015" ;
+    ex:hasTeacherName "Teacher 15" ;
+    ex:hasDepartmentName "D7" ;
+    ex:hasDivisionName "D7-5" .
+
+
+
+senior_Hours:19560812-0016
+    ex:hasTeacherId "19560812-0016" ;
+    ex:hasTeacherName "Teacher 16" ;
+    ex:hasDepartmentName "D3" ;
+    ex:hasDivisionName "D3-1" .
+
+
+
+senior_Hours:19580515-0017
+    ex:hasTeacherId "19580515-0017" ;
+    ex:hasTeacherName "Teacher 17" ;
+    ex:hasDepartmentName "D6" ;
+    ex:hasDivisionName "D6-3" .
+
+
+
+senior_Hours:19601021-0018
+    ex:hasTeacherId "19601021-0018" ;
+    ex:hasTeacherName "Teacher 18" ;
+    ex:hasDepartmentName "D1" ;
+    ex:hasDivisionName "D1-3" .
+
+
+
+senior_Hours:19650303-0019
+    ex:hasTeacherId "19650303-0019" ;
+    ex:hasTeacherName "Teacher 19" ;
+    ex:hasDepartmentName "D6" ;
+    ex:hasDivisionName "D6-4" .
+
+
+
+senior_Hours:19660630-0020
+    ex:hasTeacherId "19660630-0020" ;
+    ex:hasTeacherName "Teacher 20" ;
+    ex:hasDepartmentName "D7" ;
+    ex:hasDivisionName "D7-5" .
+
+
+
+senior_Hours:19600529-0021
+    ex:hasTeacherId "19600529-0021" ;
+    ex:hasTeacherName "Teacher 21" ;
+    ex:hasDepartmentName "D3" ;
+    ex:hasDivisionName "D3-5" .
+
+
+
+senior_Hours:19690917-0022
+    ex:hasTeacherId "19690917-0022" ;
+    ex:hasTeacherName "Teacher 22" ;
+    ex:hasDepartmentName "D1" ;
+    ex:hasDivisionName "D1-3" .
+
+
+
+senior_Hours:19620522-0023
+    ex:hasTeacherId "19620522-0023" ;
+    ex:hasTeacherName "Teacher 23" ;
+    ex:hasDepartmentName "D2" ;
+    ex:hasDivisionName "D2-2" .
+
+
+
+senior_Hours:19620831-0024
+    ex:hasTeacherId "19620831-0024" ;
+    ex:hasTeacherName "Teacher 24" ;
+    ex:hasDepartmentName "D6" ;
+    ex:hasDivisionName "D6-0" .
+
+
+
+senior_Hours:19560705-0025
+    ex:hasTeacherId "19560705-0025" ;
+    ex:hasTeacherName "Teacher 25" ;
+    ex:hasDepartmentName "D7" ;
+    ex:hasDivisionName "D7-4" .
+
+
+
+senior_Hours:19620424-0026
+    ex:hasTeacherId "19620424-0026" ;
+    ex:hasTeacherName "Teacher 26" ;
+    ex:hasDepartmentName "D7" ;
+    ex:hasDivisionName "D7-1" .
+
+
+
+senior_Hours:19610918-0027
+    ex:hasTeacherId "19610918-0027" ;
+    ex:hasTeacherName "Teacher 27" ;
+    ex:hasDepartmentName "D4" ;
+    ex:hasDivisionName "D4-3" .
+
+
+
+senior_Hours:19680712-0028
+    ex:hasTeacherId "19680712-0028" ;
+    ex:hasTeacherName "Teacher 28" ;
+    ex:hasDepartmentName "D6" ;
+    ex:hasDivisionName "D6-0" .
+
+
+
+senior_Hours:19640220-0029
+    ex:hasTeacherId "19640220-0029" ;
+    ex:hasTeacherName "Teacher 29" ;
+    ex:hasDepartmentName "D6" ;
+    ex:hasDivisionName "D6-5" .
+
+
+
+senior_Hours:19561222-0030
+    ex:hasTeacherId "19561222-0030" ;
+    ex:hasTeacherName "Teacher 30" ;
+    ex:hasDepartmentName "D2" ;
+    ex:hasDivisionName "D2-2" .
+
+

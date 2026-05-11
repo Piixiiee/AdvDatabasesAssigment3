@@ -1,0 +1,884 @@
+
+@prefix ex: <http://example.org/> .
+@prefix teacher_Assistants: <http://example.org/teacher_Assistants/> .
+
+
+teaching_Assistants:19781125-0031
+    ex:hasTeacherId "19781125-0031" ;
+    ex:hasTeacherName "TA 31" ;
+    ex:hasDepartmentName "D6" ;
+    ex:hasDivisionName "D6-0" .
+
+
+
+teaching_Assistants:19750906-0032
+    ex:hasTeacherId "19750906-0032" ;
+    ex:hasTeacherName "TA 32" ;
+    ex:hasDepartmentName "D3" ;
+    ex:hasDivisionName "D3-2" .
+
+
+
+teaching_Assistants:19750705-0033
+    ex:hasTeacherId "19750705-0033" ;
+    ex:hasTeacherName "TA 33" ;
+    ex:hasDepartmentName "D6" ;
+    ex:hasDivisionName "D6-1" .
+
+
+
+teaching_Assistants:19761024-0034
+    ex:hasTeacherId "19761024-0034" ;
+    ex:hasTeacherName "TA 34" ;
+    ex:hasDepartmentName "D5" ;
+    ex:hasDivisionName "D5-1" .
+
+
+
+teaching_Assistants:19780602-0035
+    ex:hasTeacherId "19780602-0035" ;
+    ex:hasTeacherName "TA 35" ;
+    ex:hasDepartmentName "D8" ;
+    ex:hasDivisionName "D8-2" .
+
+
+
+teaching_Assistants:19750331-0036
+    ex:hasTeacherId "19750331-0036" ;
+    ex:hasTeacherName "TA 36" ;
+    ex:hasDepartmentName "D3" ;
+    ex:hasDivisionName "D3-3" .
+
+
+
+teaching_Assistants:19750220-0037
+    ex:hasTeacherId "19750220-0037" ;
+    ex:hasTeacherName "TA 37" ;
+    ex:hasDepartmentName "D5" ;
+    ex:hasDivisionName "D5-3" .
+
+
+
+teaching_Assistants:19790702-0038
+    ex:hasTeacherId "19790702-0038" ;
+    ex:hasTeacherName "TA 38" ;
+    ex:hasDepartmentName "D3" ;
+    ex:hasDivisionName "D3-4" .
+
+
+
+teaching_Assistants:19751018-0039
+    ex:hasTeacherId "19751018-0039" ;
+    ex:hasTeacherName "TA 39" ;
+    ex:hasDepartmentName "D6" ;
+    ex:hasDivisionName "D6-4" .
+
+
+
+teaching_Assistants:19771013-0040
+    ex:hasTeacherId "19771013-0040" ;
+    ex:hasTeacherName "TA 40" ;
+    ex:hasDepartmentName "D2" ;
+    ex:hasDivisionName "D2-4" .
+
+
+
+teaching_Assistants:19790708-0041
+    ex:hasTeacherId "19790708-0041" ;
+    ex:hasTeacherName "TA 41" ;
+    ex:hasDepartmentName "D5" ;
+    ex:hasDivisionName "D5-2" .
+
+
+
+teaching_Assistants:19770713-0042
+    ex:hasTeacherId "19770713-0042" ;
+    ex:hasTeacherName "TA 42" ;
+    ex:hasDepartmentName "D6" ;
+    ex:hasDivisionName "D6-1" .
+
+
+
+teaching_Assistants:19750512-0043
+    ex:hasTeacherId "19750512-0043" ;
+    ex:hasTeacherName "TA 43" ;
+    ex:hasDepartmentName "D5" ;
+    ex:hasDivisionName "D5-0" .
+
+
+
+teaching_Assistants:19761020-0044
+    ex:hasTeacherId "19761020-0044" ;
+    ex:hasTeacherName "TA 44" ;
+    ex:hasDepartmentName "D6" ;
+    ex:hasDivisionName "D6-5" .
+
+
+
+teaching_Assistants:19790717-0045
+    ex:hasTeacherId "19790717-0045" ;
+    ex:hasTeacherName "TA 45" ;
+    ex:hasDepartmentName "D1" ;
+    ex:hasDivisionName "D1-2" .
+
+
+
+teaching_Assistants:19760524-0046
+    ex:hasTeacherId "19760524-0046" ;
+    ex:hasTeacherName "TA 46" ;
+    ex:hasDepartmentName "D4" ;
+    ex:hasDivisionName "D4-1" .
+
+
+
+teaching_Assistants:19780815-0047
+    ex:hasTeacherId "19780815-0047" ;
+    ex:hasTeacherName "TA 47" ;
+    ex:hasDepartmentName "D7" ;
+    ex:hasDivisionName "D7-2" .
+
+
+
+teaching_Assistants:19790618-0048
+    ex:hasTeacherId "19790618-0048" ;
+    ex:hasTeacherName "TA 48" ;
+    ex:hasDepartmentName "D2" ;
+    ex:hasDivisionName "D2-5" .
+
+
+
+teaching_Assistants:19790426-0049
+    ex:hasTeacherId "19790426-0049" ;
+    ex:hasTeacherName "TA 49" ;
+    ex:hasDepartmentName "D8" ;
+    ex:hasDivisionName "D8-3" .
+
+
+
+teaching_Assistants:19760108-0050
+    ex:hasTeacherId "19760108-0050" ;
+    ex:hasTeacherName "TA 50" ;
+    ex:hasDepartmentName "D1" ;
+    ex:hasDivisionName "D1-1" .
+
+
+
+teaching_Assistants:19750417-0051
+    ex:hasTeacherId "19750417-0051" ;
+    ex:hasTeacherName "TA 51" ;
+    ex:hasDepartmentName "D3" ;
+    ex:hasDivisionName "D3-1" .
+
+
+
+teaching_Assistants:19780317-0052
+    ex:hasTeacherId "19780317-0052" ;
+    ex:hasTeacherName "TA 52" ;
+    ex:hasDepartmentName "D5" ;
+    ex:hasDivisionName "D5-3" .
+
+
+
+teaching_Assistants:19781217-0053
+    ex:hasTeacherId "19781217-0053" ;
+    ex:hasTeacherName "TA 53" ;
+    ex:hasDepartmentName "D1" ;
+    ex:hasDivisionName "D1-3" .
+
+
+
+teaching_Assistants:19781130-0054
+    ex:hasTeacherId "19781130-0054" ;
+    ex:hasTeacherName "TA 54" ;
+    ex:hasDepartmentName "D6" ;
+    ex:hasDivisionName "D6-1" .
+
+
+
+teaching_Assistants:19761009-0055
+    ex:hasTeacherId "19761009-0055" ;
+    ex:hasTeacherName "TA 55" ;
+    ex:hasDepartmentName "D5" ;
+    ex:hasDivisionName "D5-2" .
+
+
+
+teaching_Assistants:19750122-0056
+    ex:hasTeacherId "19750122-0056" ;
+    ex:hasTeacherName "TA 56" ;
+    ex:hasDepartmentName "D3" ;
+    ex:hasDivisionName "D3-3" .
+
+
+
+teaching_Assistants:19780424-0057
+    ex:hasTeacherId "19780424-0057" ;
+    ex:hasTeacherName "TA 57" ;
+    ex:hasDepartmentName "D1" ;
+    ex:hasDivisionName "D1-4" .
+
+
+
+teaching_Assistants:19770224-0058
+    ex:hasTeacherId "19770224-0058" ;
+    ex:hasTeacherName "TA 58" ;
+    ex:hasDepartmentName "D4" ;
+    ex:hasDivisionName "D4-4" .
+
+
+
+teaching_Assistants:19750102-0059
+    ex:hasTeacherId "19750102-0059" ;
+    ex:hasTeacherName "TA 59" ;
+    ex:hasDepartmentName "D3" ;
+    ex:hasDivisionName "D3-0" .
+
+
+
+teaching_Assistants:19750722-0060
+    ex:hasTeacherId "19750722-0060" ;
+    ex:hasTeacherName "TA 60" ;
+    ex:hasDepartmentName "D4" ;
+    ex:hasDivisionName "D4-1" .
+
+
+
+teaching_Assistants:19930508-0061
+    ex:hasTeacherId "19930508-0061" ;
+    ex:hasTeacherName "TA 61" ;
+    ex:hasDepartmentName "D1" ;
+    ex:hasDivisionName "D1-4" .
+
+
+
+teaching_Assistants:19931118-0062
+    ex:hasTeacherId "19931118-0062" ;
+    ex:hasTeacherName "TA 62" ;
+    ex:hasDepartmentName "D1" ;
+    ex:hasDivisionName "D1-5" .
+
+
+
+teaching_Assistants:19900520-0063
+    ex:hasTeacherId "19900520-0063" ;
+    ex:hasTeacherName "TA 63" ;
+    ex:hasDepartmentName "D2" ;
+    ex:hasDivisionName "D2-1" .
+
+
+
+teaching_Assistants:19900124-0064
+    ex:hasTeacherId "19900124-0064" ;
+    ex:hasTeacherName "TA 64" ;
+    ex:hasDepartmentName "D7" ;
+    ex:hasDivisionName "D7-4" .
+
+
+
+teaching_Assistants:19920122-0065
+    ex:hasTeacherId "19920122-0065" ;
+    ex:hasTeacherName "TA 65" ;
+    ex:hasDepartmentName "D8" ;
+    ex:hasDivisionName "D8-4" .
+
+
+
+teaching_Assistants:19931203-0066
+    ex:hasTeacherId "19931203-0066" ;
+    ex:hasTeacherName "TA 66" ;
+    ex:hasDepartmentName "D2" ;
+    ex:hasDivisionName "D2-4" .
+
+
+
+teaching_Assistants:19910421-0067
+    ex:hasTeacherId "19910421-0067" ;
+    ex:hasTeacherName "TA 67" ;
+    ex:hasDepartmentName "D4" ;
+    ex:hasDivisionName "D4-3" .
+
+
+
+teaching_Assistants:19910514-0068
+    ex:hasTeacherId "19910514-0068" ;
+    ex:hasTeacherName "TA 68" ;
+    ex:hasDepartmentName "D7" ;
+    ex:hasDivisionName "D7-1" .
+
+
+
+teaching_Assistants:19911116-0069
+    ex:hasTeacherId "19911116-0069" ;
+    ex:hasTeacherName "TA 69" ;
+    ex:hasDepartmentName "D7" ;
+    ex:hasDivisionName "D7-2" .
+
+
+
+teaching_Assistants:19920828-0070
+    ex:hasTeacherId "19920828-0070" ;
+    ex:hasTeacherName "TA 70" ;
+    ex:hasDepartmentName "D7" ;
+    ex:hasDivisionName "D7-4" .
+
+
+
+teaching_Assistants:19901029-0071
+    ex:hasTeacherId "19901029-0071" ;
+    ex:hasTeacherName "TA 71" ;
+    ex:hasDepartmentName "D4" ;
+    ex:hasDivisionName "D4-2" .
+
+
+
+teaching_Assistants:19920206-0072
+    ex:hasTeacherId "19920206-0072" ;
+    ex:hasTeacherName "TA 72" ;
+    ex:hasDepartmentName "D5" ;
+    ex:hasDivisionName "D5-0" .
+
+
+
+teaching_Assistants:19920602-0073
+    ex:hasTeacherId "19920602-0073" ;
+    ex:hasTeacherName "TA 73" ;
+    ex:hasDepartmentName "D4" ;
+    ex:hasDivisionName "D4-5" .
+
+
+
+teaching_Assistants:19900201-0074
+    ex:hasTeacherId "19900201-0074" ;
+    ex:hasTeacherName "TA 74" ;
+    ex:hasDepartmentName "D2" ;
+    ex:hasDivisionName "D2-5" .
+
+
+
+teaching_Assistants:19920226-0075
+    ex:hasTeacherId "19920226-0075" ;
+    ex:hasTeacherName "TA 75" ;
+    ex:hasDepartmentName "D7" ;
+    ex:hasDivisionName "D7-3" .
+
+
+
+teaching_Assistants:19900619-0076
+    ex:hasTeacherId "19900619-0076" ;
+    ex:hasTeacherName "TA 76" ;
+    ex:hasDepartmentName "D4" ;
+    ex:hasDivisionName "D4-3" .
+
+
+
+teaching_Assistants:19910122-0077
+    ex:hasTeacherId "19910122-0077" ;
+    ex:hasTeacherName "TA 77" ;
+    ex:hasDepartmentName "D3" ;
+    ex:hasDivisionName "D3-0" .
+
+
+
+teaching_Assistants:19910820-0078
+    ex:hasTeacherId "19910820-0078" ;
+    ex:hasTeacherName "TA 78" ;
+    ex:hasDepartmentName "D6" ;
+    ex:hasDivisionName "D6-2" .
+
+
+
+teaching_Assistants:19931212-0079
+    ex:hasTeacherId "19931212-0079" ;
+    ex:hasTeacherName "TA 79" ;
+    ex:hasDepartmentName "D4" ;
+    ex:hasDivisionName "D4-2" .
+
+
+
+teaching_Assistants:19900321-0080
+    ex:hasTeacherId "19900321-0080" ;
+    ex:hasTeacherName "TA 80" ;
+    ex:hasDepartmentName "D4" ;
+    ex:hasDivisionName "D4-3" .
+
+
+
+teaching_Assistants:19910206-0081
+    ex:hasTeacherId "19910206-0081" ;
+    ex:hasTeacherName "TA 81" ;
+    ex:hasDepartmentName "D2" ;
+    ex:hasDivisionName "D2-1" .
+
+
+
+teaching_Assistants:19930829-0082
+    ex:hasTeacherId "19930829-0082" ;
+    ex:hasTeacherName "TA 82" ;
+    ex:hasDepartmentName "D3" ;
+    ex:hasDivisionName "D3-5" .
+
+
+
+teaching_Assistants:19900317-0083
+    ex:hasTeacherId "19900317-0083" ;
+    ex:hasTeacherName "TA 83" ;
+    ex:hasDepartmentName "D2" ;
+    ex:hasDivisionName "D2-5" .
+
+
+
+teaching_Assistants:19910214-0084
+    ex:hasTeacherId "19910214-0084" ;
+    ex:hasTeacherName "TA 84" ;
+    ex:hasDepartmentName "D6" ;
+    ex:hasDivisionName "D6-1" .
+
+
+
+teaching_Assistants:19901002-0085
+    ex:hasTeacherId "19901002-0085" ;
+    ex:hasTeacherName "TA 85" ;
+    ex:hasDepartmentName "D2" ;
+    ex:hasDivisionName "D2-0" .
+
+
+
+teaching_Assistants:19930228-0086
+    ex:hasTeacherId "19930228-0086" ;
+    ex:hasTeacherName "TA 86" ;
+    ex:hasDepartmentName "D8" ;
+    ex:hasDivisionName "D8-0" .
+
+
+
+teaching_Assistants:19901108-0087
+    ex:hasTeacherId "19901108-0087" ;
+    ex:hasTeacherName "TA 87" ;
+    ex:hasDepartmentName "D7" ;
+    ex:hasDivisionName "D7-4" .
+
+
+
+teaching_Assistants:19920826-0088
+    ex:hasTeacherId "19920826-0088" ;
+    ex:hasTeacherName "TA 88" ;
+    ex:hasDepartmentName "D8" ;
+    ex:hasDivisionName "D8-5" .
+
+
+
+teaching_Assistants:19900426-0089
+    ex:hasTeacherId "19900426-0089" ;
+    ex:hasTeacherName "TA 89" ;
+    ex:hasDepartmentName "D7" ;
+    ex:hasDivisionName "D7-0" .
+
+
+
+teaching_Assistants:19900902-0090
+    ex:hasTeacherId "19900902-0090" ;
+    ex:hasTeacherName "TA 90" ;
+    ex:hasDepartmentName "D5" ;
+    ex:hasDivisionName "D5-3" .
+
+
+
+teaching_Assistants:19911025-0091
+    ex:hasTeacherId "19911025-0091" ;
+    ex:hasTeacherName "TA 91" ;
+    ex:hasDepartmentName "D4" ;
+    ex:hasDivisionName "D4-3" .
+
+
+
+teaching_Assistants:19910817-0092
+    ex:hasTeacherId "19910817-0092" ;
+    ex:hasTeacherName "TA 92" ;
+    ex:hasDepartmentName "D3" ;
+    ex:hasDivisionName "D3-4" .
+
+
+
+teaching_Assistants:19920504-0093
+    ex:hasTeacherId "19920504-0093" ;
+    ex:hasTeacherName "TA 93" ;
+    ex:hasDepartmentName "D6" ;
+    ex:hasDivisionName "D6-2" .
+
+
+
+teaching_Assistants:19921201-0094
+    ex:hasTeacherId "19921201-0094" ;
+    ex:hasTeacherName "TA 94" ;
+    ex:hasDepartmentName "D8" ;
+    ex:hasDivisionName "D8-3" .
+
+
+
+teaching_Assistants:19900128-0095
+    ex:hasTeacherId "19900128-0095" ;
+    ex:hasTeacherName "TA 95" ;
+    ex:hasDepartmentName "D8" ;
+    ex:hasDivisionName "D8-5" .
+
+
+
+teaching_Assistants:19910327-0096
+    ex:hasTeacherId "19910327-0096" ;
+    ex:hasTeacherName "TA 96" ;
+    ex:hasDepartmentName "D8" ;
+    ex:hasDivisionName "D8-4" .
+
+
+
+teaching_Assistants:19921208-0097
+    ex:hasTeacherId "19921208-0097" ;
+    ex:hasTeacherName "TA 97" ;
+    ex:hasDepartmentName "D7" ;
+    ex:hasDivisionName "D7-4" .
+
+
+
+teaching_Assistants:19920217-0098
+    ex:hasTeacherId "19920217-0098" ;
+    ex:hasTeacherName "TA 98" ;
+    ex:hasDepartmentName "D7" ;
+    ex:hasDivisionName "D7-4" .
+
+
+
+teaching_Assistants:19931231-0099
+    ex:hasTeacherId "19931231-0099" ;
+    ex:hasTeacherName "TA 99" ;
+    ex:hasDepartmentName "D2" ;
+    ex:hasDivisionName "D2-5" .
+
+
+
+teaching_Assistants:19930709-0100
+    ex:hasTeacherId "19930709-0100" ;
+    ex:hasTeacherName "TA 100" ;
+    ex:hasDepartmentName "D1" ;
+    ex:hasDivisionName "D1-4" .
+
+
+
+teaching_Assistants:19921218-0101
+    ex:hasTeacherId "19921218-0101" ;
+    ex:hasTeacherName "TA 101" ;
+    ex:hasDepartmentName "D5" ;
+    ex:hasDivisionName "D5-2" .
+
+
+
+teaching_Assistants:19910404-0102
+    ex:hasTeacherId "19910404-0102" ;
+    ex:hasTeacherName "TA 102" ;
+    ex:hasDepartmentName "D1" ;
+    ex:hasDivisionName "D1-4" .
+
+
+
+teaching_Assistants:19910403-0103
+    ex:hasTeacherId "19910403-0103" ;
+    ex:hasTeacherName "TA 103" ;
+    ex:hasDepartmentName "D7" ;
+    ex:hasDivisionName "D7-2" .
+
+
+
+teaching_Assistants:19900119-0104
+    ex:hasTeacherId "19900119-0104" ;
+    ex:hasTeacherName "TA 104" ;
+    ex:hasDepartmentName "D6" ;
+    ex:hasDivisionName "D6-5" .
+
+
+
+teaching_Assistants:19900307-0105
+    ex:hasTeacherId "19900307-0105" ;
+    ex:hasTeacherName "TA 105" ;
+    ex:hasDepartmentName "D2" ;
+    ex:hasDivisionName "D2-3" .
+
+
+
+teaching_Assistants:19930414-0106
+    ex:hasTeacherId "19930414-0106" ;
+    ex:hasTeacherName "TA 106" ;
+    ex:hasDepartmentName "D7" ;
+    ex:hasDivisionName "D7-4" .
+
+
+
+teaching_Assistants:19920316-0107
+    ex:hasTeacherId "19920316-0107" ;
+    ex:hasTeacherName "TA 107" ;
+    ex:hasDepartmentName "D7" ;
+    ex:hasDivisionName "D7-4" .
+
+
+
+teaching_Assistants:19921123-0108
+    ex:hasTeacherId "19921123-0108" ;
+    ex:hasTeacherName "TA 108" ;
+    ex:hasDepartmentName "D2" ;
+    ex:hasDivisionName "D2-4" .
+
+
+
+teaching_Assistants:19920917-0109
+    ex:hasTeacherId "19920917-0109" ;
+    ex:hasTeacherName "TA 109" ;
+    ex:hasDepartmentName "D4" ;
+    ex:hasDivisionName "D4-5" .
+
+
+
+teaching_Assistants:19930906-0110
+    ex:hasTeacherId "19930906-0110" ;
+    ex:hasTeacherName "TA 110" ;
+    ex:hasDepartmentName "D3" ;
+    ex:hasDivisionName "D3-0" .
+
+
+
+teaching_Assistants:19901026-0111
+    ex:hasTeacherId "19901026-0111" ;
+    ex:hasTeacherName "TA 111" ;
+    ex:hasDepartmentName "D3" ;
+    ex:hasDivisionName "D3-5" .
+
+
+
+teaching_Assistants:19900430-0112
+    ex:hasTeacherId "19900430-0112" ;
+    ex:hasTeacherName "TA 112" ;
+    ex:hasDepartmentName "D6" ;
+    ex:hasDivisionName "D6-0" .
+
+
+
+teaching_Assistants:19900701-0113
+    ex:hasTeacherId "19900701-0113" ;
+    ex:hasTeacherName "TA 113" ;
+    ex:hasDepartmentName "D1" ;
+    ex:hasDivisionName "D1-0" .
+
+
+
+teaching_Assistants:19900902-0114
+    ex:hasTeacherId "19900902-0114" ;
+    ex:hasTeacherName "TA 114" ;
+    ex:hasDepartmentName "D6" ;
+    ex:hasDivisionName "D6-0" .
+
+
+
+teaching_Assistants:19920505-0115
+    ex:hasTeacherId "19920505-0115" ;
+    ex:hasTeacherName "TA 115" ;
+    ex:hasDepartmentName "D3" ;
+    ex:hasDivisionName "D3-3" .
+
+
+
+teaching_Assistants:19900818-0116
+    ex:hasTeacherId "19900818-0116" ;
+    ex:hasTeacherName "TA 116" ;
+    ex:hasDepartmentName "D4" ;
+    ex:hasDivisionName "D4-5" .
+
+
+
+teaching_Assistants:19930512-0117
+    ex:hasTeacherId "19930512-0117" ;
+    ex:hasTeacherName "TA 117" ;
+    ex:hasDepartmentName "D4" ;
+    ex:hasDivisionName "D4-2" .
+
+
+
+teaching_Assistants:19931226-0118
+    ex:hasTeacherId "19931226-0118" ;
+    ex:hasTeacherName "TA 118" ;
+    ex:hasDepartmentName "D8" ;
+    ex:hasDivisionName "D8-4" .
+
+
+
+teaching_Assistants:19901011-0119
+    ex:hasTeacherId "19901011-0119" ;
+    ex:hasTeacherName "TA 119" ;
+    ex:hasDepartmentName "D2" ;
+    ex:hasDivisionName "D2-1" .
+
+
+
+teaching_Assistants:19921127-0120
+    ex:hasTeacherId "19921127-0120" ;
+    ex:hasTeacherName "TA 120" ;
+    ex:hasDepartmentName "D4" ;
+    ex:hasDivisionName "D4-3" .
+
+
+
+teaching_Assistants:19920320-0121
+    ex:hasTeacherId "19920320-0121" ;
+    ex:hasTeacherName "TA 121" ;
+    ex:hasDepartmentName "D2" ;
+    ex:hasDivisionName "D2-2" .
+
+
+
+teaching_Assistants:19910822-0122
+    ex:hasTeacherId "19910822-0122" ;
+    ex:hasTeacherName "TA 122" ;
+    ex:hasDepartmentName "D5" ;
+    ex:hasDivisionName "D5-4" .
+
+
+
+teaching_Assistants:19900909-0123
+    ex:hasTeacherId "19900909-0123" ;
+    ex:hasTeacherName "TA 123" ;
+    ex:hasDepartmentName "D6" ;
+    ex:hasDivisionName "D6-0" .
+
+
+
+teaching_Assistants:19900616-0124
+    ex:hasTeacherId "19900616-0124" ;
+    ex:hasTeacherName "TA 124" ;
+    ex:hasDepartmentName "D6" ;
+    ex:hasDivisionName "D6-2" .
+
+
+
+teaching_Assistants:19901219-0125
+    ex:hasTeacherId "19901219-0125" ;
+    ex:hasTeacherName "TA 125" ;
+    ex:hasDepartmentName "D7" ;
+    ex:hasDivisionName "D7-1" .
+
+
+
+teaching_Assistants:19900723-0126
+    ex:hasTeacherId "19900723-0126" ;
+    ex:hasTeacherName "TA 126" ;
+    ex:hasDepartmentName "D1" ;
+    ex:hasDivisionName "D1-2" .
+
+
+
+teaching_Assistants:19930616-0127
+    ex:hasTeacherId "19930616-0127" ;
+    ex:hasTeacherName "TA 127" ;
+    ex:hasDepartmentName "D3" ;
+    ex:hasDivisionName "D3-1" .
+
+
+
+teaching_Assistants:19910927-0128
+    ex:hasTeacherId "19910927-0128" ;
+    ex:hasTeacherName "TA 128" ;
+    ex:hasDepartmentName "D7" ;
+    ex:hasDivisionName "D7-3" .
+
+
+
+teaching_Assistants:19921002-0129
+    ex:hasTeacherId "19921002-0129" ;
+    ex:hasTeacherName "TA 129" ;
+    ex:hasDepartmentName "D1" ;
+    ex:hasDivisionName "D1-1" .
+
+
+
+teaching_Assistants:19900801-0130
+    ex:hasTeacherId "19900801-0130" ;
+    ex:hasTeacherName "TA 130" ;
+    ex:hasDepartmentName "D2" ;
+    ex:hasDivisionName "D2-2" .
+
+
+
+teaching_Assistants:19910403-0131
+    ex:hasTeacherId "19910403-0131" ;
+    ex:hasTeacherName "TA 131" ;
+    ex:hasDepartmentName "D8" ;
+    ex:hasDivisionName "D8-4" .
+
+
+
+teaching_Assistants:19930326-0132
+    ex:hasTeacherId "19930326-0132" ;
+    ex:hasTeacherName "TA 132" ;
+    ex:hasDepartmentName "D4" ;
+    ex:hasDivisionName "D4-0" .
+
+
+
+teaching_Assistants:19910101-0133
+    ex:hasTeacherId "19910101-0133" ;
+    ex:hasTeacherName "TA 133" ;
+    ex:hasDepartmentName "D7" ;
+    ex:hasDivisionName "D7-3" .
+
+
+
+teaching_Assistants:19900511-0134
+    ex:hasTeacherId "19900511-0134" ;
+    ex:hasTeacherName "TA 134" ;
+    ex:hasDepartmentName "D6" ;
+    ex:hasDivisionName "D6-2" .
+
+
+
+teaching_Assistants:19930302-0135
+    ex:hasTeacherId "19930302-0135" ;
+    ex:hasTeacherName "TA 135" ;
+    ex:hasDepartmentName "D6" ;
+    ex:hasDivisionName "D6-2" .
+
+
+
+teaching_Assistants:19910921-0136
+    ex:hasTeacherId "19910921-0136" ;
+    ex:hasTeacherName "TA 136" ;
+    ex:hasDepartmentName "D3" ;
+    ex:hasDivisionName "D3-1" .
+
+
+
+teaching_Assistants:19930919-0137
+    ex:hasTeacherId "19930919-0137" ;
+    ex:hasTeacherName "TA 137" ;
+    ex:hasDepartmentName "D8" ;
+    ex:hasDivisionName "D8-2" .
+
+
+
+teaching_Assistants:19900701-0138
+    ex:hasTeacherId "19900701-0138" ;
+    ex:hasTeacherName "TA 138" ;
+    ex:hasDepartmentName "D5" ;
+    ex:hasDivisionName "D5-1" .
+
+
+
+teaching_Assistants:19930221-0139
+    ex:hasTeacherId "19930221-0139" ;
+    ex:hasTeacherName "TA 139" ;
+    ex:hasDepartmentName "D3" ;
+    ex:hasDivisionName "D3-5" .
+
+
+
+teaching_Assistants:19900211-0140
+    ex:hasTeacherId "19900211-0140" ;
+    ex:hasTeacherName "TA 140" ;
+    ex:hasDepartmentName "D5" ;
+    ex:hasDivisionName "D5-0" .
+
+
