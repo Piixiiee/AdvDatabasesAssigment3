@@ -1,0 +1,42 @@
+import csv
+
+# Input CSV file
+csv_file = "teachers.csv"
+
+# Output TTL file
+ttl_file = "teachers.ttl"
+
+# Prefixes
+prefixes = """
+@prefix ex: <http://example.org/> .
+@prefix teacher: <http://example.org/teacher/> .
+
+"""
+
+with open(csv_file, newline='', encoding='utf-8') as infile, \
+     open(ttl_file, 'w', encoding='utf-8') as outfile:
+
+    # Write prefixes
+    outfile.write(prefixes)
+
+    reader = csv.DictReader(infile)
+
+    for row in reader:
+
+        teacher_id = row["Teacher id"]
+        teacher_name = row["Teacher name"]
+        department = row["Department name"]
+        division = row["Division name"]
+
+        ttl_entry = f"""
+teacher:{teacher_id}
+    ex:hasTeacherName "{teacher_name}" ;
+    ex:hasTeacherId "{teacher_id}" ;
+    ex:hasDepartment "{department}" ;
+    ex:hasDivision "{division}" .
+
+"""
+
+        outfile.write(ttl_entry)
+
+print("TTL file created successfully!")

@@ -1,0 +1,172 @@
+
+@prefix ex: <http://example.org/> .
+@prefix programmes: <http://example.org/programmes/> .
+
+
+programme:10001
+    ex:hasProgrammeCode "10001" ;
+    ex:hasProgrammeName "P-01" ;
+    ex:hasDepartmentName "D1" ;
+    ex:hasDirector "19620522-0023" .
+
+
+
+programme:10011
+    ex:hasProgrammeCode "10011" ;
+    ex:hasProgrammeName "P-11" ;
+    ex:hasDepartmentName "D2" ;
+    ex:hasDirector "19620424-0026" .
+
+
+
+programme:10012
+    ex:hasProgrammeCode "10012" ;
+    ex:hasProgrammeName "P-12" ;
+    ex:hasDepartmentName "D2" ;
+    ex:hasDirector "19610623-0005" .
+
+
+
+programme:10013
+    ex:hasProgrammeCode "10013" ;
+    ex:hasProgrammeName "P-13" ;
+    ex:hasDepartmentName "D2" ;
+    ex:hasDirector "19690408-0009" .
+
+
+
+programme:10014
+    ex:hasProgrammeCode "10014" ;
+    ex:hasProgrammeName "P-14" ;
+    ex:hasDepartmentName "D2" ;
+    ex:hasDirector "19560812-0016" .
+
+
+
+programme:10021
+    ex:hasProgrammeCode "10021" ;
+    ex:hasProgrammeName "P-21" ;
+    ex:hasDepartmentName "D3" ;
+    ex:hasDirector "19570615-0011" .
+
+
+
+programme:10031
+    ex:hasProgrammeCode "10031" ;
+    ex:hasProgrammeName "P-31" ;
+    ex:hasDepartmentName "D4" ;
+    ex:hasDirector "19650303-0019" .
+
+
+
+programme:10032
+    ex:hasProgrammeCode "10032" ;
+    ex:hasProgrammeName "P-32" ;
+    ex:hasDepartmentName "D4" ;
+    ex:hasDirector "19570826-0012" .
+
+
+
+programme:10033
+    ex:hasProgrammeCode "10033" ;
+    ex:hasProgrammeName "P-33" ;
+    ex:hasDepartmentName "D4" ;
+    ex:hasDirector "19570828-0008" .
+
+
+
+programme:10034
+    ex:hasProgrammeCode "10034" ;
+    ex:hasProgrammeName "P-34" ;
+    ex:hasDepartmentName "D4" ;
+    ex:hasDirector "19610918-0027" .
+
+
+
+programme:10041
+    ex:hasProgrammeCode "10041" ;
+    ex:hasProgrammeName "P-41" ;
+    ex:hasDepartmentName "D5" ;
+    ex:hasDirector "19580218-0007" .
+
+
+
+programme:10042
+    ex:hasProgrammeCode "10042" ;
+    ex:hasProgrammeName "P-42" ;
+    ex:hasDepartmentName "D5" ;
+    ex:hasDirector "19620831-0024" .
+
+
+
+programme:10051
+    ex:hasProgrammeCode "10051" ;
+    ex:hasProgrammeName "P-51" ;
+    ex:hasDepartmentName "D6" ;
+    ex:hasDirector "19580515-0017" .
+
+
+
+programme:10052
+    ex:hasProgrammeCode "10052" ;
+    ex:hasProgrammeName "P-52" ;
+    ex:hasDepartmentName "D6" ;
+    ex:hasDirector "19611219-0014" .
+
+
+
+programme:10053
+    ex:hasProgrammeCode "10053" ;
+    ex:hasProgrammeName "P-53" ;
+    ex:hasDepartmentName "D6" ;
+    ex:hasDirector "19600905-0003" .
+
+
+
+programme:10054
+    ex:hasProgrammeCode "10054" ;
+    ex:hasProgrammeName "P-54" ;
+    ex:hasDepartmentName "D6" ;
+    ex:hasDirector "19630126-0001" .
+
+
+
+programme:10061
+    ex:hasProgrammeCode "10061" ;
+    ex:hasProgrammeName "P-61" ;
+    ex:hasDepartmentName "D7" ;
+    ex:hasDirector "19680712-0028" .
+
+
+
+programme:10071
+    ex:hasProgrammeCode "10071" ;
+    ex:hasProgrammeName "P-71" ;
+    ex:hasDepartmentName "D8" ;
+    ex:hasDirector "19610620-0006" .
+
+
+
+programme:10072
+    ex:hasProgrammeCode "10072" ;
+    ex:hasProgrammeName "P-72" ;
+    ex:hasDepartmentName "D8" ;
+    ex:hasDirector "19660630-0020" .
+
+
+
+programme:10073
+    ex:hasProgrammeCode "10073" ;
+    ex:hasProgrammeName "P-73" ;
+    ex:hasDepartmentName "D8" ;
+    ex:hasDirector "19600814-0002" .
+
+
+
+programme:10074
+    ex:hasProgrammeCode "10074" ;
+    ex:hasProgrammeName "P-74" ;
+    ex:hasDepartmentName "D8" ;
+    ex:hasDirector "19601021-0018" .
+
+

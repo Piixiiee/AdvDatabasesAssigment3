@@ -1,0 +1,3694 @@
+
+@prefix ex: <http://example.org/> .
+@prefix student: <http://example.org/student/> .
+
+
+student:19970308-0000
+    ex:hasStudentId "19970308-0000" ;
+    ex:hasStudentName "Student 1" ;
+    ex:hasProgramme "10054" ;
+    ex:hasGraduated "False" ;
+    ex:hasAdmissionYear "2017" .
+
+
+
+student:19960213-0001
+    ex:hasStudentId "19960213-0001" ;
+    ex:hasStudentName "Student 2" ;
+    ex:hasProgramme "10011" ;
+    ex:hasGraduated "False" ;
+    ex:hasAdmissionYear "2016" .
+
+
+
+student:19960328-0002
+    ex:hasStudentId "19960328-0002" ;
+    ex:hasStudentName "Student 3" ;
+    ex:hasProgramme "10013" ;
+    ex:hasGraduated "False" ;
+    ex:hasAdmissionYear "2019" .
+
+
+
+student:19980905-0003
+    ex:hasStudentId "19980905-0003" ;
+    ex:hasStudentName "Student 4" ;
+    ex:hasProgramme "10012" ;
+    ex:hasGraduated "False" ;
+    ex:hasAdmissionYear "2021" .
+
+
+
+student:19970413-0004
+    ex:hasStudentId "19970413-0004" ;
+    ex:hasStudentName "Student 5" ;
+    ex:hasProgramme "10052" ;
+    ex:hasGraduated "False" ;
+    ex:hasAdmissionYear "2017" .
+
+
+
+student:19990816-0005
+    ex:hasStudentId "19990816-0005" ;
+    ex:hasStudentName "Student 6" ;
+    ex:hasProgramme "10021" ;
+    ex:hasGraduated "False" ;
+    ex:hasAdmissionYear "2021" .
+
+
+
+student:19990626-0006
+    ex:hasStudentId "19990626-0006" ;
+    ex:hasStudentName "Student 7" ;
+    ex:hasProgramme "10074" ;
+    ex:hasGraduated "False" ;
+    ex:hasAdmissionYear "2020" .
+
+
+
+student:19950304-0007
+    ex:hasStudentId "19950304-0007" ;
+    ex:hasStudentName "Student 8" ;
+    ex:hasProgramme "10071" ;
+    ex:hasGraduated "False" ;
+    ex:hasAdmissionYear "2019" .
+
+
+
+student:19991025-0008
+    ex:hasStudentId "19991025-0008" ;
+    ex:hasStudentName "Student 9" ;
+    ex:hasProgramme "10033" ;
+    ex:hasGraduated "False" ;
+    ex:hasAdmissionYear "2018" .
+
+
+
+student:19950606-0009
+    ex:hasStudentId "19950606-0009" ;
+    ex:hasStudentName "Student 10" ;
+    ex:hasProgramme "10042" ;
+    ex:hasGraduated "False" ;
+    ex:hasAdmissionYear "2019" .
+
+
+
+student:19951026-0010
+    ex:hasStudentId "19951026-0010" ;
+    ex:hasStudentName "Student 11" ;
+    ex:hasProgramme "10011" ;
+    ex:hasGraduated "False" ;
+    ex:hasAdmissionYear "2021" .
+
+
+
+student:19990305-0011
+    ex:hasStudentId "19990305-0011" ;
+    ex:hasStudentName "Student 12" ;
+    ex:hasProgramme "10041" ;
+    ex:hasGraduated "False" ;
+    ex:hasAdmissionYear "2020" .
+
+
+
+student:19970727-0012
+    ex:hasStudentId "19970727-0012" ;
+    ex:hasStudentName "Student 13" ;
+    ex:hasProgramme "10052" ;
+    ex:hasGraduated "False" ;
+    ex:hasAdmissionYear "2020" .
+
+
+
+student:19990219-0013
+    ex:hasStudentId "19990219-0013" ;
+    ex:hasStudentName "Student 14" ;
+    ex:hasProgramme "10012" ;
+    ex:hasGraduated "False" ;
+    ex:hasAdmissionYear "2017" .
+
+
+
+student:19970318-0014
+    ex:hasStudentId "19970318-0014" ;
+    ex:hasStudentName "Student 15" ;
+    ex:hasProgramme "10051" ;
+    ex:hasGraduated "False" ;
+    ex:hasAdmissionYear "2016" .
+
+
+
+student:19970109-0015
+    ex:hasStudentId "19970109-0015" ;
+    ex:hasStudentName "Student 16" ;
+    ex:hasProgramme "10021" ;
+    ex:hasGraduated "False" ;
+    ex:hasAdmissionYear "2016" .
+
+
+
+student:19950717-0016
+    ex:hasStudentId "19950717-0016" ;
+    ex:hasStudentName "Student 17" ;
+    ex:hasProgramme "10042" ;
+    ex:hasGraduated "False" ;
+    ex:hasAdmissionYear "2016" .
+
+
+
+student:19990705-0017
+    ex:hasStudentId "19990705-0017" ;
+    ex:hasStudentName "Student 18" ;
+    ex:hasProgramme "10053" ;
+    ex:hasGraduated "False" ;
+    ex:hasAdmissionYear "2019" .
+
+
+
+student:19971007-0018
+    ex:hasStudentId "19971007-0018" ;
+    ex:hasStudentName "Student 19" ;
+    ex:hasProgramme "10072" ;
+    ex:hasGraduated "False" ;
+    ex:hasAdmissionYear "2018" .
+
+
+
+student:19990124-0019
+    ex:hasStudentId "19990124-0019" ;
+    ex:hasStudentName "Student 20" ;
+    ex:hasProgramme "10041" ;
+    ex:hasGraduated "False" ;
+    ex:hasAdmissionYear "2017" .
+
+
+
+student:19990831-0020
+    ex:hasStudentId "19990831-0020" ;
+    ex:hasStudentName "Student 21" ;
+    ex:hasProgramme "10061" ;
+    ex:hasGraduated "False" ;
+    ex:hasAdmissionYear "2016" .
+
+
+
+student:19971122-0021
+    ex:hasStudentId "19971122-0021" ;
+    ex:hasStudentName "Student 22" ;
+    ex:hasProgramme "10054" ;
+    ex:hasGraduated "False" ;
+    ex:hasAdmissionYear "2021" .
+
+
+
+student:19980414-0022
+    ex:hasStudentId "19980414-0022" ;
+    ex:hasStudentName "Student 23" ;
+    ex:hasProgramme "10073" ;
+    ex:hasGraduated "False" ;
+    ex:hasAdmissionYear "2016" .
+
+
+
+student:19980609-0023
+    ex:hasStudentId "19980609-0023" ;
+    ex:hasStudentName "Student 24" ;
+    ex:hasProgramme "10042" ;
+    ex:hasGraduated "False" ;
+    ex:hasAdmissionYear "2016" .
+
+
+
+student:19980212-0024
+    ex:hasStudentId "19980212-0024" ;
+    ex:hasStudentName "Student 25" ;
+    ex:hasProgramme "10042" ;
+    ex:hasGraduated "False" ;
+    ex:hasAdmissionYear "2016" .
+
+
+
+student:19990805-0025
+    ex:hasStudentId "19990805-0025" ;
+    ex:hasStudentName "Student 26" ;
+    ex:hasProgramme "10051" ;
+    ex:hasGraduated "False" ;
+    ex:hasAdmissionYear "2017" .
+
+
+
+student:19970609-0026
+    ex:hasStudentId "19970609-0026" ;
+    ex:hasStudentName "Student 27" ;
+    ex:hasProgramme "10061" ;
+    ex:hasGraduated "False" ;
+    ex:hasAdmissionYear "2016" .
+
+
+
+student:19951123-0027
+    ex:hasStudentId "19951123-0027" ;
+    ex:hasStudentName "Student 28" ;
+    ex:hasProgramme "10073" ;
+    ex:hasGraduated "False" ;
+    ex:hasAdmissionYear "2016" .
+
+
+
+student:19960701-0028
+    ex:hasStudentId "19960701-0028" ;
+    ex:hasStudentName "Student 29" ;
+    ex:hasProgramme "10021" ;
+    ex:hasGraduated "False" ;
+    ex:hasAdmissionYear "2019" .
+
+
+
+student:19960220-0029
+    ex:hasStudentId "19960220-0029" ;
+    ex:hasStudentName "Student 30" ;
+    ex:hasProgramme "10061" ;
+    ex:hasGraduated "False" ;
+    ex:hasAdmissionYear "2016" .
+
+
+
+student:19990211-0030
+    ex:hasStudentId "19990211-0030" ;
+    ex:hasStudentName "Student 31" ;
+    ex:hasProgramme "10051" ;
+    ex:hasGraduated "False" ;
+    ex:hasAdmissionYear "2021" .
+
+
+
+student:19961018-0031
+    ex:hasStudentId "19961018-0031" ;
+    ex:hasStudentName "Student 32" ;
+    ex:hasProgramme "10041" ;
+    ex:hasGraduated "False" ;
+    ex:hasAdmissionYear "2019" .
+
+
+
+student:19960307-0032
+    ex:hasStudentId "19960307-0032" ;
+    ex:hasStudentName "Student 33" ;
+    ex:hasProgramme "10034" ;
+    ex:hasGraduated "False" ;
+    ex:hasAdmissionYear "2018" .
+
+
+
+student:19960822-0033
+    ex:hasStudentId "19960822-0033" ;
+    ex:hasStudentName "Student 34" ;
+    ex:hasProgramme "10014" ;
+    ex:hasGraduated "False" ;
+    ex:hasAdmissionYear "2021" .
+
+
+
+student:19961012-0034
+    ex:hasStudentId "19961012-0034" ;
+    ex:hasStudentName "Student 35" ;
+    ex:hasProgramme "10042" ;
+    ex:hasGraduated "False" ;
+    ex:hasAdmissionYear "2021" .
+
+
+
+student:19960610-0035
+    ex:hasStudentId "19960610-0035" ;
+    ex:hasStudentName "Student 36" ;
+    ex:hasProgramme "10032" ;
+    ex:hasGraduated "False" ;
+    ex:hasAdmissionYear "2016" .
+
+
+
+student:19990302-0036
+    ex:hasStudentId "19990302-0036" ;
+    ex:hasStudentName "Student 37" ;
+    ex:hasProgramme "10061" ;
+    ex:hasGraduated "False" ;
+    ex:hasAdmissionYear "2020" .
+
+
+
+student:19950801-0037
+    ex:hasStudentId "19950801-0037" ;
+    ex:hasStudentName "Student 38" ;
+    ex:hasProgramme "10072" ;
+    ex:hasGraduated "False" ;
+    ex:hasAdmissionYear "2018" .
+
+
+
+student:19960222-0038
+    ex:hasStudentId "19960222-0038" ;
+    ex:hasStudentName "Student 39" ;
+    ex:hasProgramme "10051" ;
+    ex:hasGraduated "False" ;
+    ex:hasAdmissionYear "2021" .
+
+
+
+student:19960828-0039
+    ex:hasStudentId "19960828-0039" ;
+    ex:hasStudentName "Student 40" ;
+    ex:hasProgramme "10031" ;
+    ex:hasGraduated "False" ;
+    ex:hasAdmissionYear "2021" .
+
+
+
+student:19960118-0040
+    ex:hasStudentId "19960118-0040" ;
+    ex:hasStudentName "Student 41" ;
+    ex:hasProgramme "10012" ;
+    ex:hasGraduated "False" ;
+    ex:hasAdmissionYear "2020" .
+
+
+
+student:19980206-0041
+    ex:hasStudentId "19980206-0041" ;
+    ex:hasStudentName "Student 42" ;
+    ex:hasProgramme "10012" ;
+    ex:hasGraduated "False" ;
+    ex:hasAdmissionYear "2016" .
+
+
+
+student:19991130-0042
+    ex:hasStudentId "19991130-0042" ;
+    ex:hasStudentName "Student 43" ;
+    ex:hasProgramme "10074" ;
+    ex:hasGraduated "False" ;
+    ex:hasAdmissionYear "2018" .
+
+
+
+student:19981023-0043
+    ex:hasStudentId "19981023-0043" ;
+    ex:hasStudentName "Student 44" ;
+    ex:hasProgramme "10041" ;
+    ex:hasGraduated "False" ;
+    ex:hasAdmissionYear "2020" .
+
+
+
+student:19950824-0044
+    ex:hasStudentId "19950824-0044" ;
+    ex:hasStudentName "Student 45" ;
+    ex:hasProgramme "10033" ;
+    ex:hasGraduated "False" ;
+    ex:hasAdmissionYear "2019" .
+
+
+
+student:19961220-0045
+    ex:hasStudentId "19961220-0045" ;
+    ex:hasStudentName "Student 46" ;
+    ex:hasProgramme "10012" ;
+    ex:hasGraduated "False" ;
+    ex:hasAdmissionYear "2020" .
+
+
+
+student:19950308-0046
+    ex:hasStudentId "19950308-0046" ;
+    ex:hasStudentName "Student 47" ;
+    ex:hasProgramme "10041" ;
+    ex:hasGraduated "False" ;
+    ex:hasAdmissionYear "2018" .
+
+
+
+student:19990824-0047
+    ex:hasStudentId "19990824-0047" ;
+    ex:hasStudentName "Student 48" ;
+    ex:hasProgramme "10071" ;
+    ex:hasGraduated "False" ;
+    ex:hasAdmissionYear "2016" .
+
+
+
+student:19970301-0048
+    ex:hasStudentId "19970301-0048" ;
+    ex:hasStudentName "Student 49" ;
+    ex:hasProgramme "10034" ;
+    ex:hasGraduated "False" ;
+    ex:hasAdmissionYear "2018" .
+
+
+
+student:19980102-0049
+    ex:hasStudentId "19980102-0049" ;
+    ex:hasStudentName "Student 50" ;
+    ex:hasProgramme "10014" ;
+    ex:hasGraduated "False" ;
+    ex:hasAdmissionYear "2021" .
+
+
+
+student:19970918-0050
+    ex:hasStudentId "19970918-0050" ;
+    ex:hasStudentName "Student 51" ;
+    ex:hasProgramme "10061" ;
+    ex:hasGraduated "False" ;
+    ex:hasAdmissionYear "2021" .
+
+
+
+student:19981214-0051
+    ex:hasStudentId "19981214-0051" ;
+    ex:hasStudentName "Student 52" ;
+    ex:hasProgramme "10072" ;
+    ex:hasGraduated "False" ;
+    ex:hasAdmissionYear "2020" .
+
+
+
+student:19970721-0052
+    ex:hasStudentId "19970721-0052" ;
+    ex:hasStudentName "Student 53" ;
+    ex:hasProgramme "10041" ;
+    ex:hasGraduated "False" ;
+    ex:hasAdmissionYear "2019" .
+
+
+
+student:19951006-0053
+    ex:hasStudentId "19951006-0053" ;
+    ex:hasStudentName "Student 54" ;
+    ex:hasProgramme "10071" ;
+    ex:hasGraduated "False" ;
+    ex:hasAdmissionYear "2017" .
+
+
+
+student:19990720-0054
+    ex:hasStudentId "19990720-0054" ;
+    ex:hasStudentName "Student 55" ;
+    ex:hasProgramme "10033" ;
+    ex:hasGraduated "False" ;
+    ex:hasAdmissionYear "2016" .
+
+
+
+student:19971008-0055
+    ex:hasStudentId "19971008-0055" ;
+    ex:hasStudentName "Student 56" ;
+    ex:hasProgramme "10032" ;
+    ex:hasGraduated "False" ;
+    ex:hasAdmissionYear "2017" .
+
+
+
+student:19980524-0056
+    ex:hasStudentId "19980524-0056" ;
+    ex:hasStudentName "Student 57" ;
+    ex:hasProgramme "10072" ;
+    ex:hasGraduated "False" ;
+    ex:hasAdmissionYear "2020" .
+
+
+
+student:19961122-0057
+    ex:hasStudentId "19961122-0057" ;
+    ex:hasStudentName "Student 58" ;
+    ex:hasProgramme "10013" ;
+    ex:hasGraduated "False" ;
+    ex:hasAdmissionYear "2019" .
+
+
+
+student:19950522-0058
+    ex:hasStudentId "19950522-0058" ;
+    ex:hasStudentName "Student 59" ;
+    ex:hasProgramme "10031" ;
+    ex:hasGraduated "False" ;
+    ex:hasAdmissionYear "2021" .
+
+
+
+student:19970711-0059
+    ex:hasStudentId "19970711-0059" ;
+    ex:hasStudentName "Student 60" ;
+    ex:hasProgramme "10034" ;
+    ex:hasGraduated "False" ;
+    ex:hasAdmissionYear "2021" .
+
+
+
+student:19950829-0060
+    ex:hasStudentId "19950829-0060" ;
+    ex:hasStudentName "Student 61" ;
+    ex:hasProgramme "10021" ;
+    ex:hasGraduated "False" ;
+    ex:hasAdmissionYear "2016" .
+
+
+
+student:19980221-0061
+    ex:hasStudentId "19980221-0061" ;
+    ex:hasStudentName "Student 62" ;
+    ex:hasProgramme "10054" ;
+    ex:hasGraduated "False" ;
+    ex:hasAdmissionYear "2019" .
+
+
+
+student:19960928-0062
+    ex:hasStudentId "19960928-0062" ;
+    ex:hasStudentName "Student 63" ;
+    ex:hasProgramme "10033" ;
+    ex:hasGraduated "False" ;
+    ex:hasAdmissionYear "2021" .
+
+
+
+student:19950319-0063
+    ex:hasStudentId "19950319-0063" ;
+    ex:hasStudentName "Student 64" ;
+    ex:hasProgramme "10053" ;
+    ex:hasGraduated "False" ;
+    ex:hasAdmissionYear "2019" .
+
+
+
+student:19970309-0064
+    ex:hasStudentId "19970309-0064" ;
+    ex:hasStudentName "Student 65" ;
+    ex:hasProgramme "10001" ;
+    ex:hasGraduated "False" ;
+    ex:hasAdmissionYear "2021" .
+
+
+
+student:19960315-0065
+    ex:hasStudentId "19960315-0065" ;
+    ex:hasStudentName "Student 66" ;
+    ex:hasProgramme "10073" ;
+    ex:hasGraduated "False" ;
+    ex:hasAdmissionYear "2019" .
+
+
+
+student:19980425-0066
+    ex:hasStudentId "19980425-0066" ;
+    ex:hasStudentName "Student 67" ;
+    ex:hasProgramme "10054" ;
+    ex:hasGraduated "False" ;
+    ex:hasAdmissionYear "2018" .
+
+
+
+student:19960924-0067
+    ex:hasStudentId "19960924-0067" ;
+    ex:hasStudentName "Student 68" ;
+    ex:hasProgramme "10021" ;
+    ex:hasGraduated "False" ;
+    ex:hasAdmissionYear "2018" .
+
+
+
+student:19951121-0068
+    ex:hasStudentId "19951121-0068" ;
+    ex:hasStudentName "Student 69" ;
+    ex:hasProgramme "10014" ;
+    ex:hasGraduated "False" ;
+    ex:hasAdmissionYear "2019" .
+
+
+
+student:19980719-0069
+    ex:hasStudentId "19980719-0069" ;
+    ex:hasStudentName "Student 70" ;
+    ex:hasProgramme "10061" ;
+    ex:hasGraduated "False" ;
+    ex:hasAdmissionYear "2020" .
+
+
+
+student:19950124-0070
+    ex:hasStudentId "19950124-0070" ;
+    ex:hasStudentName "Student 71" ;
+    ex:hasProgramme "10054" ;
+    ex:hasGraduated "False" ;
+    ex:hasAdmissionYear "2018" .
+
+
+
+student:19990301-0071
+    ex:hasStudentId "19990301-0071" ;
+    ex:hasStudentName "Student 72" ;
+    ex:hasProgramme "10042" ;
+    ex:hasGraduated "False" ;
+    ex:hasAdmissionYear "2018" .
+
+
+
+student:19990313-0072
+    ex:hasStudentId "19990313-0072" ;
+    ex:hasStudentName "Student 73" ;
+    ex:hasProgramme "10051" ;
+    ex:hasGraduated "False" ;
+    ex:hasAdmissionYear "2016" .
+
+
+
+student:19990702-0073
+    ex:hasStudentId "19990702-0073" ;
+    ex:hasStudentName "Student 74" ;
+    ex:hasProgramme "10041" ;
+    ex:hasGraduated "False" ;
+    ex:hasAdmissionYear "2016" .
+
+
+
+student:19950309-0074
+    ex:hasStudentId "19950309-0074" ;
+    ex:hasStudentName "Student 75" ;
+    ex:hasProgramme "10031" ;
+    ex:hasGraduated "False" ;
+    ex:hasAdmissionYear "2018" .
+
+
+
+student:19990711-0075
+    ex:hasStudentId "19990711-0075" ;
+    ex:hasStudentName "Student 76" ;
+    ex:hasProgramme "10012" ;
+    ex:hasGraduated "False" ;
+    ex:hasAdmissionYear "2020" .
+
+
+
+student:19961023-0076
+    ex:hasStudentId "19961023-0076" ;
+    ex:hasStudentName "Student 77" ;
+    ex:hasProgramme "10033" ;
+    ex:hasGraduated "False" ;
+    ex:hasAdmissionYear "2021" .
+
+
+
+student:19981204-0077
+    ex:hasStudentId "19981204-0077" ;
+    ex:hasStudentName "Student 78" ;
+    ex:hasProgramme "10001" ;
+    ex:hasGraduated "False" ;
+    ex:hasAdmissionYear "2019" .
+
+
+
+student:19960414-0078
+    ex:hasStudentId "19960414-0078" ;
+    ex:hasStudentName "Student 79" ;
+    ex:hasProgramme "10033" ;
+    ex:hasGraduated "False" ;
+    ex:hasAdmissionYear "2016" .
+
+
+
+student:19950404-0079
+    ex:hasStudentId "19950404-0079" ;
+    ex:hasStudentName "Student 80" ;
+    ex:hasProgramme "10033" ;
+    ex:hasGraduated "False" ;
+    ex:hasAdmissionYear "2018" .
+
+
+
+student:19950321-0080
+    ex:hasStudentId "19950321-0080" ;
+    ex:hasStudentName "Student 81" ;
+    ex:hasProgramme "10042" ;
+    ex:hasGraduated "False" ;
+    ex:hasAdmissionYear "2018" .
+
+
+
+student:19970428-0081
+    ex:hasStudentId "19970428-0081" ;
+    ex:hasStudentName "Student 82" ;
+    ex:hasProgramme "10054" ;
+    ex:hasGraduated "False" ;
+    ex:hasAdmissionYear "2021" .
+
+
+
+student:19980418-0082
+    ex:hasStudentId "19980418-0082" ;
+    ex:hasStudentName "Student 83" ;
+    ex:hasProgramme "10013" ;
+    ex:hasGraduated "False" ;
+    ex:hasAdmissionYear "2016" .
+
+
+
+student:19970820-0083
+    ex:hasStudentId "19970820-0083" ;
+    ex:hasStudentName "Student 84" ;
+    ex:hasProgramme "10041" ;
+    ex:hasGraduated "False" ;
+    ex:hasAdmissionYear "2017" .
+
+
+
+student:19950907-0084
+    ex:hasStudentId "19950907-0084" ;
+    ex:hasStudentName "Student 85" ;
+    ex:hasProgramme "10021" ;
+    ex:hasGraduated "False" ;
+    ex:hasAdmissionYear "2020" .
+
+
+
+student:19950703-0085
+    ex:hasStudentId "19950703-0085" ;
+    ex:hasStudentName "Student 86" ;
+    ex:hasProgramme "10061" ;
+    ex:hasGraduated "False" ;
+    ex:hasAdmissionYear "2016" .
+
+
+
+student:19961124-0086
+    ex:hasStudentId "19961124-0086" ;
+    ex:hasStudentName "Student 87" ;
+    ex:hasProgramme "10032" ;
+    ex:hasGraduated "False" ;
+    ex:hasAdmissionYear "2021" .
+
+
+
+student:19980805-0087
+    ex:hasStudentId "19980805-0087" ;
+    ex:hasStudentName "Student 88" ;
+    ex:hasProgramme "10071" ;
+    ex:hasGraduated "False" ;
+    ex:hasAdmissionYear "2019" .
+
+
+
+student:19970721-0088
+    ex:hasStudentId "19970721-0088" ;
+    ex:hasStudentName "Student 89" ;
+    ex:hasProgramme "10061" ;
+    ex:hasGraduated "False" ;
+    ex:hasAdmissionYear "2017" .
+
+
+
+student:19970904-0089
+    ex:hasStudentId "19970904-0089" ;
+    ex:hasStudentName "Student 90" ;
+    ex:hasProgramme "10011" ;
+    ex:hasGraduated "False" ;
+    ex:hasAdmissionYear "2016" .
+
+
+
+student:19960609-0090
+    ex:hasStudentId "19960609-0090" ;
+    ex:hasStudentName "Student 91" ;
+    ex:hasProgramme "10014" ;
+    ex:hasGraduated "False" ;
+    ex:hasAdmissionYear "2018" .
+
+
+
+student:19990918-0091
+    ex:hasStudentId "19990918-0091" ;
+    ex:hasStudentName "Student 92" ;
+    ex:hasProgramme "10073" ;
+    ex:hasGraduated "False" ;
+    ex:hasAdmissionYear "2019" .
+
+
+
+student:19980925-0092
+    ex:hasStudentId "19980925-0092" ;
+    ex:hasStudentName "Student 93" ;
+    ex:hasProgramme "10074" ;
+    ex:hasGraduated "False" ;
+    ex:hasAdmissionYear "2017" .
+
+
+
+student:19960227-0093
+    ex:hasStudentId "19960227-0093" ;
+    ex:hasStudentName "Student 94" ;
+    ex:hasProgramme "10071" ;
+    ex:hasGraduated "False" ;
+    ex:hasAdmissionYear "2021" .
+
+
+
+student:19990531-0094
+    ex:hasStudentId "19990531-0094" ;
+    ex:hasStudentName "Student 95" ;
+    ex:hasProgramme "10054" ;
+    ex:hasGraduated "False" ;
+    ex:hasAdmissionYear "2017" .
+
+
+
+student:19970408-0095
+    ex:hasStudentId "19970408-0095" ;
+    ex:hasStudentName "Student 96" ;
+    ex:hasProgramme "10011" ;
+    ex:hasGraduated "False" ;
+    ex:hasAdmissionYear "2019" .
+
+
+
+student:19990427-0096
+    ex:hasStudentId "19990427-0096" ;
+    ex:hasStudentName "Student 97" ;
+    ex:hasProgramme "10033" ;
+    ex:hasGraduated "False" ;
+    ex:hasAdmissionYear "2019" .
+
+
+
+student:19990518-0097
+    ex:hasStudentId "19990518-0097" ;
+    ex:hasStudentName "Student 98" ;
+    ex:hasProgramme "10074" ;
+    ex:hasGraduated "False" ;
+    ex:hasAdmissionYear "2019" .
+
+
+
+student:19960704-0098
+    ex:hasStudentId "19960704-0098" ;
+    ex:hasStudentName "Student 99" ;
+    ex:hasProgramme "10001" ;
+    ex:hasGraduated "False" ;
+    ex:hasAdmissionYear "2016" .
+
+
+
+student:19960621-0099
+    ex:hasStudentId "19960621-0099" ;
+    ex:hasStudentName "Student 100" ;
+    ex:hasProgramme "10014" ;
+    ex:hasGraduated "False" ;
+    ex:hasAdmissionYear "2019" .
+
+
+
+student:19980203-0100
+    ex:hasStudentId "19980203-0100" ;
+    ex:hasStudentName "Student 101" ;
+    ex:hasProgramme "10074" ;
+    ex:hasGraduated "False" ;
+    ex:hasAdmissionYear "2016" .
+
+
+
+student:19960101-0101
+    ex:hasStudentId "19960101-0101" ;
+    ex:hasStudentName "Student 102" ;
+    ex:hasProgramme "10034" ;
+    ex:hasGraduated "False" ;
+    ex:hasAdmissionYear "2019" .
+
+
+
+student:19950821-0102
+    ex:hasStudentId "19950821-0102" ;
+    ex:hasStudentName "Student 103" ;
+    ex:hasProgramme "10011" ;
+    ex:hasGraduated "False" ;
+    ex:hasAdmissionYear "2019" .
+
+
+
+student:19970806-0103
+    ex:hasStudentId "19970806-0103" ;
+    ex:hasStudentName "Student 104" ;
+    ex:hasProgramme "10032" ;
+    ex:hasGraduated "False" ;
+    ex:hasAdmissionYear "2020" .
+
+
+
+student:19960123-0104
+    ex:hasStudentId "19960123-0104" ;
+    ex:hasStudentName "Student 105" ;
+    ex:hasProgramme "10061" ;
+    ex:hasGraduated "False" ;
+    ex:hasAdmissionYear "2021" .
+
+
+
+student:19970630-0105
+    ex:hasStudentId "19970630-0105" ;
+    ex:hasStudentName "Student 106" ;
+    ex:hasProgramme "10041" ;
+    ex:hasGraduated "False" ;
+    ex:hasAdmissionYear "2020" .
+
+
+
+student:19950316-0106
+    ex:hasStudentId "19950316-0106" ;
+    ex:hasStudentName "Student 107" ;
+    ex:hasProgramme "10042" ;
+    ex:hasGraduated "False" ;
+    ex:hasAdmissionYear "2019" .
+
+
+
+student:19981226-0107
+    ex:hasStudentId "19981226-0107" ;
+    ex:hasStudentName "Student 108" ;
+    ex:hasProgramme "10032" ;
+    ex:hasGraduated "False" ;
+    ex:hasAdmissionYear "2017" .
+
+
+
+student:19960818-0108
+    ex:hasStudentId "19960818-0108" ;
+    ex:hasStudentName "Student 109" ;
+    ex:hasProgramme "10054" ;
+    ex:hasGraduated "False" ;
+    ex:hasAdmissionYear "2021" .
+
+
+
+student:19970805-0109
+    ex:hasStudentId "19970805-0109" ;
+    ex:hasStudentName "Student 110" ;
+    ex:hasProgramme "10042" ;
+    ex:hasGraduated "False" ;
+    ex:hasAdmissionYear "2016" .
+
+
+
+student:19960118-0110
+    ex:hasStudentId "19960118-0110" ;
+    ex:hasStudentName "Student 111" ;
+    ex:hasProgramme "10072" ;
+    ex:hasGraduated "False" ;
+    ex:hasAdmissionYear "2019" .
+
+
+
+student:19950511-0111
+    ex:hasStudentId "19950511-0111" ;
+    ex:hasStudentName "Student 112" ;
+    ex:hasProgramme "10021" ;
+    ex:hasGraduated "False" ;
+    ex:hasAdmissionYear "2017" .
+
+
+
+student:19990530-0112
+    ex:hasStudentId "19990530-0112" ;
+    ex:hasStudentName "Student 113" ;
+    ex:hasProgramme "10073" ;
+    ex:hasGraduated "False" ;
+    ex:hasAdmissionYear "2021" .
+
+
+
+student:19961117-0113
+    ex:hasStudentId "19961117-0113" ;
+    ex:hasStudentName "Student 114" ;
+    ex:hasProgramme "10001" ;
+    ex:hasGraduated "False" ;
+    ex:hasAdmissionYear "2020" .
+
+
+
+student:19981221-0114
+    ex:hasStudentId "19981221-0114" ;
+    ex:hasStudentName "Student 115" ;
+    ex:hasProgramme "10013" ;
+    ex:hasGraduated "False" ;
+    ex:hasAdmissionYear "2017" .
+
+
+
+student:19950924-0115
+    ex:hasStudentId "19950924-0115" ;
+    ex:hasStudentName "Student 116" ;
+    ex:hasProgramme "10053" ;
+    ex:hasGraduated "False" ;
+    ex:hasAdmissionYear "2019" .
+
+
+
+student:19970112-0116
+    ex:hasStudentId "19970112-0116" ;
+    ex:hasStudentName "Student 117" ;
+    ex:hasProgramme "10072" ;
+    ex:hasGraduated "False" ;
+    ex:hasAdmissionYear "2021" .
+
+
+
+student:19960911-0117
+    ex:hasStudentId "19960911-0117" ;
+    ex:hasStudentName "Student 118" ;
+    ex:hasProgramme "10012" ;
+    ex:hasGraduated "False" ;
+    ex:hasAdmissionYear "2019" .
+
+
+
+student:19970925-0118
+    ex:hasStudentId "19970925-0118" ;
+    ex:hasStudentName "Student 119" ;
+    ex:hasProgramme "10013" ;
+    ex:hasGraduated "False" ;
+    ex:hasAdmissionYear "2018" .
+
+
+
+student:19961108-0119
+    ex:hasStudentId "19961108-0119" ;
+    ex:hasStudentName "Student 120" ;
+    ex:hasProgramme "10041" ;
+    ex:hasGraduated "False" ;
+    ex:hasAdmissionYear "2020" .
+
+
+
+student:19960829-0120
+    ex:hasStudentId "19960829-0120" ;
+    ex:hasStudentName "Student 121" ;
+    ex:hasProgramme "10054" ;
+    ex:hasGraduated "False" ;
+    ex:hasAdmissionYear "2019" .
+
+
+
+student:19990317-0121
+    ex:hasStudentId "19990317-0121" ;
+    ex:hasStudentName "Student 122" ;
+    ex:hasProgramme "10033" ;
+    ex:hasGraduated "False" ;
+    ex:hasAdmissionYear "2021" .
+
+
+
+student:19990521-0122
+    ex:hasStudentId "19990521-0122" ;
+    ex:hasStudentName "Student 123" ;
+    ex:hasProgramme "10073" ;
+    ex:hasGraduated "False" ;
+    ex:hasAdmissionYear "2017" .
+
+
+
+student:19950709-0123
+    ex:hasStudentId "19950709-0123" ;
+    ex:hasStudentName "Student 124" ;
+    ex:hasProgramme "10013" ;
+    ex:hasGraduated "False" ;
+    ex:hasAdmissionYear "2021" .
+
+
+
+student:19950214-0124
+    ex:hasStudentId "19950214-0124" ;
+    ex:hasStudentName "Student 125" ;
+    ex:hasProgramme "10074" ;
+    ex:hasGraduated "False" ;
+    ex:hasAdmissionYear "2020" .
+
+
+
+student:19950817-0125
+    ex:hasStudentId "19950817-0125" ;
+    ex:hasStudentName "Student 126" ;
+    ex:hasProgramme "10054" ;
+    ex:hasGraduated "False" ;
+    ex:hasAdmissionYear "2018" .
+
+
+
+student:19990405-0126
+    ex:hasStudentId "19990405-0126" ;
+    ex:hasStudentName "Student 127" ;
+    ex:hasProgramme "10054" ;
+    ex:hasGraduated "False" ;
+    ex:hasAdmissionYear "2020" .
+
+
+
+student:19970422-0127
+    ex:hasStudentId "19970422-0127" ;
+    ex:hasStudentName "Student 128" ;
+    ex:hasProgramme "10014" ;
+    ex:hasGraduated "False" ;
+    ex:hasAdmissionYear "2018" .
+
+
+
+student:19950225-0128
+    ex:hasStudentId "19950225-0128" ;
+    ex:hasStudentName "Student 129" ;
+    ex:hasProgramme "10033" ;
+    ex:hasGraduated "False" ;
+    ex:hasAdmissionYear "2016" .
+
+
+
+student:19980410-0129
+    ex:hasStudentId "19980410-0129" ;
+    ex:hasStudentName "Student 130" ;
+    ex:hasProgramme "10054" ;
+    ex:hasGraduated "False" ;
+    ex:hasAdmissionYear "2016" .
+
+
+
+student:19980617-0130
+    ex:hasStudentId "19980617-0130" ;
+    ex:hasStudentName "Student 131" ;
+    ex:hasProgramme "10033" ;
+    ex:hasGraduated "False" ;
+    ex:hasAdmissionYear "2019" .
+
+
+
+student:19970117-0131
+    ex:hasStudentId "19970117-0131" ;
+    ex:hasStudentName "Student 132" ;
+    ex:hasProgramme "10011" ;
+    ex:hasGraduated "False" ;
+    ex:hasAdmissionYear "2020" .
+
+
+
+student:19950225-0132
+    ex:hasStudentId "19950225-0132" ;
+    ex:hasStudentName "Student 133" ;
+    ex:hasProgramme "10012" ;
+    ex:hasGraduated "False" ;
+    ex:hasAdmissionYear "2019" .
+
+
+
+student:19961005-0133
+    ex:hasStudentId "19961005-0133" ;
+    ex:hasStudentName "Student 134" ;
+    ex:hasProgramme "10031" ;
+    ex:hasGraduated "False" ;
+    ex:hasAdmissionYear "2016" .
+
+
+
+student:19960809-0134
+    ex:hasStudentId "19960809-0134" ;
+    ex:hasStudentName "Student 135" ;
+    ex:hasProgramme "10001" ;
+    ex:hasGraduated "False" ;
+    ex:hasAdmissionYear "2017" .
+
+
+
+student:19990713-0135
+    ex:hasStudentId "19990713-0135" ;
+    ex:hasStudentName "Student 136" ;
+    ex:hasProgramme "10012" ;
+    ex:hasGraduated "False" ;
+    ex:hasAdmissionYear "2019" .
+
+
+
+student:19990626-0136
+    ex:hasStudentId "19990626-0136" ;
+    ex:hasStudentName "Student 137" ;
+    ex:hasProgramme "10074" ;
+    ex:hasGraduated "False" ;
+    ex:hasAdmissionYear "2018" .
+
+
+
+student:19980203-0137
+    ex:hasStudentId "19980203-0137" ;
+    ex:hasStudentName "Student 138" ;
+    ex:hasProgramme "10014" ;
+    ex:hasGraduated "False" ;
+    ex:hasAdmissionYear "2016" .
+
+
+
+student:19980720-0138
+    ex:hasStudentId "19980720-0138" ;
+    ex:hasStudentName "Student 139" ;
+    ex:hasProgramme "10042" ;
+    ex:hasGraduated "False" ;
+    ex:hasAdmissionYear "2016" .
+
+
+
+student:19951130-0139
+    ex:hasStudentId "19951130-0139" ;
+    ex:hasStudentName "Student 140" ;
+    ex:hasProgramme "10073" ;
+    ex:hasGraduated "False" ;
+    ex:hasAdmissionYear "2018" .
+
+
+
+student:19950317-0140
+    ex:hasStudentId "19950317-0140" ;
+    ex:hasStudentName "Student 141" ;
+    ex:hasProgramme "10013" ;
+    ex:hasGraduated "False" ;
+    ex:hasAdmissionYear "2018" .
+
+
+
+student:19980421-0141
+    ex:hasStudentId "19980421-0141" ;
+    ex:hasStudentName "Student 142" ;
+    ex:hasProgramme "10032" ;
+    ex:hasGraduated "False" ;
+    ex:hasAdmissionYear "2016" .
+
+
+
+student:19960406-0142
+    ex:hasStudentId "19960406-0142" ;
+    ex:hasStudentName "Student 143" ;
+    ex:hasProgramme "10072" ;
+    ex:hasGraduated "False" ;
+    ex:hasAdmissionYear "2020" .
+
+
+
+student:19950604-0143
+    ex:hasStudentId "19950604-0143" ;
+    ex:hasStudentName "Student 144" ;
+    ex:hasProgramme "10072" ;
+    ex:hasGraduated "False" ;
+    ex:hasAdmissionYear "2021" .
+
+
+
+student:19971113-0144
+    ex:hasStudentId "19971113-0144" ;
+    ex:hasStudentName "Student 145" ;
+    ex:hasProgramme "10071" ;
+    ex:hasGraduated "False" ;
+    ex:hasAdmissionYear "2017" .
+
+
+
+student:19980928-0145
+    ex:hasStudentId "19980928-0145" ;
+    ex:hasStudentName "Student 146" ;
+    ex:hasProgramme "10071" ;
+    ex:hasGraduated "False" ;
+    ex:hasAdmissionYear "2021" .
+
+
+
+student:19970619-0146
+    ex:hasStudentId "19970619-0146" ;
+    ex:hasStudentName "Student 147" ;
+    ex:hasProgramme "10072" ;
+    ex:hasGraduated "False" ;
+    ex:hasAdmissionYear "2018" .
+
+
+
+student:19980920-0147
+    ex:hasStudentId "19980920-0147" ;
+    ex:hasStudentName "Student 148" ;
+    ex:hasProgramme "10013" ;
+    ex:hasGraduated "False" ;
+    ex:hasAdmissionYear "2019" .
+
+
+
+student:19950818-0148
+    ex:hasStudentId "19950818-0148" ;
+    ex:hasStudentName "Student 149" ;
+    ex:hasProgramme "10061" ;
+    ex:hasGraduated "False" ;
+    ex:hasAdmissionYear "2021" .
+
+
+
+student:19980804-0149
+    ex:hasStudentId "19980804-0149" ;
+    ex:hasStudentName "Student 150" ;
+    ex:hasProgramme "10041" ;
+    ex:hasGraduated "False" ;
+    ex:hasAdmissionYear "2019" .
+
+
+
+student:19950331-0150
+    ex:hasStudentId "19950331-0150" ;
+    ex:hasStudentName "Student 151" ;
+    ex:hasProgramme "10073" ;
+    ex:hasGraduated "False" ;
+    ex:hasAdmissionYear "2019" .
+
+
+
+student:19960607-0151
+    ex:hasStudentId "19960607-0151" ;
+    ex:hasStudentName "Student 152" ;
+    ex:hasProgramme "10052" ;
+    ex:hasGraduated "False" ;
+    ex:hasAdmissionYear "2019" .
+
+
+
+student:19961024-0152
+    ex:hasStudentId "19961024-0152" ;
+    ex:hasStudentName "Student 153" ;
+    ex:hasProgramme "10072" ;
+    ex:hasGraduated "False" ;
+    ex:hasAdmissionYear "2018" .
+
+
+
+student:19961222-0153
+    ex:hasStudentId "19961222-0153" ;
+    ex:hasStudentName "Student 154" ;
+    ex:hasProgramme "10074" ;
+    ex:hasGraduated "False" ;
+    ex:hasAdmissionYear "2017" .
+
+
+
+student:19990226-0154
+    ex:hasStudentId "19990226-0154" ;
+    ex:hasStudentName "Student 155" ;
+    ex:hasProgramme "10052" ;
+    ex:hasGraduated "False" ;
+    ex:hasAdmissionYear "2017" .
+
+
+
+student:19980329-0155
+    ex:hasStudentId "19980329-0155" ;
+    ex:hasStudentName "Student 156" ;
+    ex:hasProgramme "10054" ;
+    ex:hasGraduated "False" ;
+    ex:hasAdmissionYear "2017" .
+
+
+
+student:19990116-0156
+    ex:hasStudentId "19990116-0156" ;
+    ex:hasStudentName "Student 157" ;
+    ex:hasProgramme "10074" ;
+    ex:hasGraduated "False" ;
+    ex:hasAdmissionYear "2020" .
+
+
+
+student:19980709-0157
+    ex:hasStudentId "19980709-0157" ;
+    ex:hasStudentName "Student 158" ;
+    ex:hasProgramme "10021" ;
+    ex:hasGraduated "False" ;
+    ex:hasAdmissionYear "2018" .
+
+
+
+student:19970510-0158
+    ex:hasStudentId "19970510-0158" ;
+    ex:hasStudentName "Student 159" ;
+    ex:hasProgramme "10033" ;
+    ex:hasGraduated "False" ;
+    ex:hasAdmissionYear "2016" .
+
+
+
+student:19951130-0159
+    ex:hasStudentId "19951130-0159" ;
+    ex:hasStudentName "Student 160" ;
+    ex:hasProgramme "10034" ;
+    ex:hasGraduated "False" ;
+    ex:hasAdmissionYear "2020" .
+
+
+
+student:19960901-0160
+    ex:hasStudentId "19960901-0160" ;
+    ex:hasStudentName "Student 161" ;
+    ex:hasProgramme "10012" ;
+    ex:hasGraduated "False" ;
+    ex:hasAdmissionYear "2019" .
+
+
+
+student:19960912-0161
+    ex:hasStudentId "19960912-0161" ;
+    ex:hasStudentName "Student 162" ;
+    ex:hasProgramme "10014" ;
+    ex:hasGraduated "False" ;
+    ex:hasAdmissionYear "2018" .
+
+
+
+student:19971106-0162
+    ex:hasStudentId "19971106-0162" ;
+    ex:hasStudentName "Student 163" ;
+    ex:hasProgramme "10042" ;
+    ex:hasGraduated "False" ;
+    ex:hasAdmissionYear "2021" .
+
+
+
+student:19990518-0163
+    ex:hasStudentId "19990518-0163" ;
+    ex:hasStudentName "Student 164" ;
+    ex:hasProgramme "10061" ;
+    ex:hasGraduated "False" ;
+    ex:hasAdmissionYear "2017" .
+
+
+
+student:19960523-0164
+    ex:hasStudentId "19960523-0164" ;
+    ex:hasStudentName "Student 165" ;
+    ex:hasProgramme "10034" ;
+    ex:hasGraduated "False" ;
+    ex:hasAdmissionYear "2016" .
+
+
+
+student:19980712-0165
+    ex:hasStudentId "19980712-0165" ;
+    ex:hasStudentName "Student 166" ;
+    ex:hasProgramme "10012" ;
+    ex:hasGraduated "False" ;
+    ex:hasAdmissionYear "2021" .
+
+
+
+student:19970524-0166
+    ex:hasStudentId "19970524-0166" ;
+    ex:hasStudentName "Student 167" ;
+    ex:hasProgramme "10032" ;
+    ex:hasGraduated "False" ;
+    ex:hasAdmissionYear "2019" .
+
+
+
+student:19990307-0167
+    ex:hasStudentId "19990307-0167" ;
+    ex:hasStudentName "Student 168" ;
+    ex:hasProgramme "10032" ;
+    ex:hasGraduated "False" ;
+    ex:hasAdmissionYear "2021" .
+
+
+
+student:19960221-0168
+    ex:hasStudentId "19960221-0168" ;
+    ex:hasStudentName "Student 169" ;
+    ex:hasProgramme "10054" ;
+    ex:hasGraduated "False" ;
+    ex:hasAdmissionYear "2017" .
+
+
+
+student:19970404-0169
+    ex:hasStudentId "19970404-0169" ;
+    ex:hasStudentName "Student 170" ;
+    ex:hasProgramme "10014" ;
+    ex:hasGraduated "False" ;
+    ex:hasAdmissionYear "2021" .
+
+
+
+student:19970318-0170
+    ex:hasStudentId "19970318-0170" ;
+    ex:hasStudentName "Student 171" ;
+    ex:hasProgramme "10031" ;
+    ex:hasGraduated "False" ;
+    ex:hasAdmissionYear "2016" .
+
+
+
+student:19950925-0171
+    ex:hasStudentId "19950925-0171" ;
+    ex:hasStudentName "Student 172" ;
+    ex:hasProgramme "10052" ;
+    ex:hasGraduated "False" ;
+    ex:hasAdmissionYear "2017" .
+
+
+
+student:19950427-0172
+    ex:hasStudentId "19950427-0172" ;
+    ex:hasStudentName "Student 173" ;
+    ex:hasProgramme "10073" ;
+    ex:hasGraduated "False" ;
+    ex:hasAdmissionYear "2018" .
+
+
+
+student:19970118-0173
+    ex:hasStudentId "19970118-0173" ;
+    ex:hasStudentName "Student 174" ;
+    ex:hasProgramme "10014" ;
+    ex:hasGraduated "False" ;
+    ex:hasAdmissionYear "2020" .
+
+
+
+student:19990708-0174
+    ex:hasStudentId "19990708-0174" ;
+    ex:hasStudentName "Student 175" ;
+    ex:hasProgramme "10072" ;
+    ex:hasGraduated "False" ;
+    ex:hasAdmissionYear "2017" .
+
+
+
+student:19960216-0175
+    ex:hasStudentId "19960216-0175" ;
+    ex:hasStudentName "Student 176" ;
+    ex:hasProgramme "10031" ;
+    ex:hasGraduated "False" ;
+    ex:hasAdmissionYear "2020" .
+
+
+
+student:19950913-0176
+    ex:hasStudentId "19950913-0176" ;
+    ex:hasStudentName "Student 177" ;
+    ex:hasProgramme "10052" ;
+    ex:hasGraduated "False" ;
+    ex:hasAdmissionYear "2019" .
+
+
+
+student:19970822-0177
+    ex:hasStudentId "19970822-0177" ;
+    ex:hasStudentName "Student 178" ;
+    ex:hasProgramme "10011" ;
+    ex:hasGraduated "False" ;
+    ex:hasAdmissionYear "2021" .
+
+
+
+student:19960224-0178
+    ex:hasStudentId "19960224-0178" ;
+    ex:hasStudentName "Student 179" ;
+    ex:hasProgramme "10074" ;
+    ex:hasGraduated "False" ;
+    ex:hasAdmissionYear "2021" .
+
+
+
+student:19950831-0179
+    ex:hasStudentId "19950831-0179" ;
+    ex:hasStudentName "Student 180" ;
+    ex:hasProgramme "10053" ;
+    ex:hasGraduated "False" ;
+    ex:hasAdmissionYear "2016" .
+
+
+
+student:19961009-0180
+    ex:hasStudentId "19961009-0180" ;
+    ex:hasStudentName "Student 181" ;
+    ex:hasProgramme "10071" ;
+    ex:hasGraduated "False" ;
+    ex:hasAdmissionYear "2021" .
+
+
+
+student:19950912-0181
+    ex:hasStudentId "19950912-0181" ;
+    ex:hasStudentName "Student 182" ;
+    ex:hasProgramme "10073" ;
+    ex:hasGraduated "False" ;
+    ex:hasAdmissionYear "2016" .
+
+
+
+student:19980926-0182
+    ex:hasStudentId "19980926-0182" ;
+    ex:hasStudentName "Student 183" ;
+    ex:hasProgramme "10041" ;
+    ex:hasGraduated "False" ;
+    ex:hasAdmissionYear "2021" .
+
+
+
+student:19950707-0183
+    ex:hasStudentId "19950707-0183" ;
+    ex:hasStudentName "Student 184" ;
+    ex:hasProgramme "10042" ;
+    ex:hasGraduated "False" ;
+    ex:hasAdmissionYear "2020" .
+
+
+
+student:19980628-0184
+    ex:hasStudentId "19980628-0184" ;
+    ex:hasStudentName "Student 185" ;
+    ex:hasProgramme "10041" ;
+    ex:hasGraduated "False" ;
+    ex:hasAdmissionYear "2019" .
+
+
+
+student:19950212-0185
+    ex:hasStudentId "19950212-0185" ;
+    ex:hasStudentName "Student 186" ;
+    ex:hasProgramme "10042" ;
+    ex:hasGraduated "False" ;
+    ex:hasAdmissionYear "2016" .
+
+
+
+student:19970907-0186
+    ex:hasStudentId "19970907-0186" ;
+    ex:hasStudentName "Student 187" ;
+    ex:hasProgramme "10071" ;
+    ex:hasGraduated "False" ;
+    ex:hasAdmissionYear "2018" .
+
+
+
+student:19980219-0187
+    ex:hasStudentId "19980219-0187" ;
+    ex:hasStudentName "Student 188" ;
+    ex:hasProgramme "10014" ;
+    ex:hasGraduated "False" ;
+    ex:hasAdmissionYear "2017" .
+
+
+
+student:19970601-0188
+    ex:hasStudentId "19970601-0188" ;
+    ex:hasStudentName "Student 189" ;
+    ex:hasProgramme "10041" ;
+    ex:hasGraduated "False" ;
+    ex:hasAdmissionYear "2020" .
+
+
+
+student:19980928-0189
+    ex:hasStudentId "19980928-0189" ;
+    ex:hasStudentName "Student 190" ;
+    ex:hasProgramme "10013" ;
+    ex:hasGraduated "False" ;
+    ex:hasAdmissionYear "2018" .
+
+
+
+student:19980617-0190
+    ex:hasStudentId "19980617-0190" ;
+    ex:hasStudentName "Student 191" ;
+    ex:hasProgramme "10072" ;
+    ex:hasGraduated "False" ;
+    ex:hasAdmissionYear "2020" .
+
+
+
+student:19990709-0191
+    ex:hasStudentId "19990709-0191" ;
+    ex:hasStudentName "Student 192" ;
+    ex:hasProgramme "10041" ;
+    ex:hasGraduated "False" ;
+    ex:hasAdmissionYear "2017" .
+
+
+
+student:19990624-0192
+    ex:hasStudentId "19990624-0192" ;
+    ex:hasStudentName "Student 193" ;
+    ex:hasProgramme "10052" ;
+    ex:hasGraduated "False" ;
+    ex:hasAdmissionYear "2019" .
+
+
+
+student:19951001-0193
+    ex:hasStudentId "19951001-0193" ;
+    ex:hasStudentName "Student 194" ;
+    ex:hasProgramme "10013" ;
+    ex:hasGraduated "False" ;
+    ex:hasAdmissionYear "2016" .
+
+
+
+student:19980906-0194
+    ex:hasStudentId "19980906-0194" ;
+    ex:hasStudentName "Student 195" ;
+    ex:hasProgramme "10041" ;
+    ex:hasGraduated "False" ;
+    ex:hasAdmissionYear "2019" .
+
+
+
+student:19980824-0195
+    ex:hasStudentId "19980824-0195" ;
+    ex:hasStudentName "Student 196" ;
+    ex:hasProgramme "10011" ;
+    ex:hasGraduated "False" ;
+    ex:hasAdmissionYear "2018" .
+
+
+
+student:19970416-0196
+    ex:hasStudentId "19970416-0196" ;
+    ex:hasStudentName "Student 197" ;
+    ex:hasProgramme "10033" ;
+    ex:hasGraduated "False" ;
+    ex:hasAdmissionYear "2018" .
+
+
+
+student:19970121-0197
+    ex:hasStudentId "19970121-0197" ;
+    ex:hasStudentName "Student 198" ;
+    ex:hasProgramme "10021" ;
+    ex:hasGraduated "False" ;
+    ex:hasAdmissionYear "2021" .
+
+
+
+student:19981018-0198
+    ex:hasStudentId "19981018-0198" ;
+    ex:hasStudentName "Student 199" ;
+    ex:hasProgramme "10042" ;
+    ex:hasGraduated "False" ;
+    ex:hasAdmissionYear "2019" .
+
+
+
+student:19990323-0199
+    ex:hasStudentId "19990323-0199" ;
+    ex:hasStudentName "Student 200" ;
+    ex:hasProgramme "10012" ;
+    ex:hasGraduated "False" ;
+    ex:hasAdmissionYear "2017" .
+
+
+
+student:19891205-0000
+    ex:hasStudentId "19891205-0000" ;
+    ex:hasStudentName "Student 1" ;
+    ex:hasProgramme "10012" ;
+    ex:hasGraduated "True" ;
+    ex:hasAdmissionYear "2010" .
+
+
+
+student:19880117-0001
+    ex:hasStudentId "19880117-0001" ;
+    ex:hasStudentName "Student 2" ;
+    ex:hasProgramme "10021" ;
+    ex:hasGraduated "True" ;
+    ex:hasAdmissionYear "2010" .
+
+
+
+student:19860309-0002
+    ex:hasStudentId "19860309-0002" ;
+    ex:hasStudentName "Student 3" ;
+    ex:hasProgramme "10021" ;
+    ex:hasGraduated "True" ;
+    ex:hasAdmissionYear "2014" .
+
+
+
+student:19850305-0003
+    ex:hasStudentId "19850305-0003" ;
+    ex:hasStudentName "Student 4" ;
+    ex:hasProgramme "10032" ;
+    ex:hasGraduated "True" ;
+    ex:hasAdmissionYear "2015" .
+
+
+
+student:19860211-0004
+    ex:hasStudentId "19860211-0004" ;
+    ex:hasStudentName "Student 5" ;
+    ex:hasProgramme "10042" ;
+    ex:hasGraduated "True" ;
+    ex:hasAdmissionYear "2012" .
+
+
+
+student:19880122-0005
+    ex:hasStudentId "19880122-0005" ;
+    ex:hasStudentName "Student 6" ;
+    ex:hasProgramme "10053" ;
+    ex:hasGraduated "True" ;
+    ex:hasAdmissionYear "2014" .
+
+
+
+student:19850603-0006
+    ex:hasStudentId "19850603-0006" ;
+    ex:hasStudentName "Student 7" ;
+    ex:hasProgramme "10041" ;
+    ex:hasGraduated "True" ;
+    ex:hasAdmissionYear "2013" .
+
+
+
+student:19860222-0007
+    ex:hasStudentId "19860222-0007" ;
+    ex:hasStudentName "Student 8" ;
+    ex:hasProgramme "10054" ;
+    ex:hasGraduated "True" ;
+    ex:hasAdmissionYear "2014" .
+
+
+
+student:19860330-0008
+    ex:hasStudentId "19860330-0008" ;
+    ex:hasStudentName "Student 9" ;
+    ex:hasProgramme "10012" ;
+    ex:hasGraduated "True" ;
+    ex:hasAdmissionYear "2010" .
+
+
+
+student:19861018-0009
+    ex:hasStudentId "19861018-0009" ;
+    ex:hasStudentName "Student 10" ;
+    ex:hasProgramme "10074" ;
+    ex:hasGraduated "True" ;
+    ex:hasAdmissionYear "2012" .
+
+
+
+student:19860829-0010
+    ex:hasStudentId "19860829-0010" ;
+    ex:hasStudentName "Student 11" ;
+    ex:hasProgramme "10074" ;
+    ex:hasGraduated "True" ;
+    ex:hasAdmissionYear "2013" .
+
+
+
+student:19850527-0011
+    ex:hasStudentId "19850527-0011" ;
+    ex:hasStudentName "Student 12" ;
+    ex:hasProgramme "10013" ;
+    ex:hasGraduated "True" ;
+    ex:hasAdmissionYear "2012" .
+
+
+
+student:19891217-0012
+    ex:hasStudentId "19891217-0012" ;
+    ex:hasStudentName "Student 13" ;
+    ex:hasProgramme "10051" ;
+    ex:hasGraduated "True" ;
+    ex:hasAdmissionYear "2014" .
+
+
+
+student:19870613-0013
+    ex:hasStudentId "19870613-0013" ;
+    ex:hasStudentName "Student 14" ;
+    ex:hasProgramme "10051" ;
+    ex:hasGraduated "True" ;
+    ex:hasAdmissionYear "2010" .
+
+
+
+student:19861017-0014
+    ex:hasStudentId "19861017-0014" ;
+    ex:hasStudentName "Student 15" ;
+    ex:hasProgramme "10011" ;
+    ex:hasGraduated "True" ;
+    ex:hasAdmissionYear "2012" .
+
+
+
+student:19860125-0015
+    ex:hasStudentId "19860125-0015" ;
+    ex:hasStudentName "Student 16" ;
+    ex:hasProgramme "10042" ;
+    ex:hasGraduated "True" ;
+    ex:hasAdmissionYear "2011" .
+
+
+
+student:19871102-0016
+    ex:hasStudentId "19871102-0016" ;
+    ex:hasStudentName "Student 17" ;
+    ex:hasProgramme "10014" ;
+    ex:hasGraduated "True" ;
+    ex:hasAdmissionYear "2011" .
+
+
+
+student:19870714-0017
+    ex:hasStudentId "19870714-0017" ;
+    ex:hasStudentName "Student 18" ;
+    ex:hasProgramme "10013" ;
+    ex:hasGraduated "True" ;
+    ex:hasAdmissionYear "2012" .
+
+
+
+student:19850426-0018
+    ex:hasStudentId "19850426-0018" ;
+    ex:hasStudentName "Student 19" ;
+    ex:hasProgramme "10071" ;
+    ex:hasGraduated "True" ;
+    ex:hasAdmissionYear "2012" .
+
+
+
+student:19870816-0019
+    ex:hasStudentId "19870816-0019" ;
+    ex:hasStudentName "Student 20" ;
+    ex:hasProgramme "10071" ;
+    ex:hasGraduated "True" ;
+    ex:hasAdmissionYear "2011" .
+
+
+
+student:19880404-0020
+    ex:hasStudentId "19880404-0020" ;
+    ex:hasStudentName "Student 21" ;
+    ex:hasProgramme "10074" ;
+    ex:hasGraduated "True" ;
+    ex:hasAdmissionYear "2014" .
+
+
+
+student:19860729-0021
+    ex:hasStudentId "19860729-0021" ;
+    ex:hasStudentName "Student 22" ;
+    ex:hasProgramme "10011" ;
+    ex:hasGraduated "True" ;
+    ex:hasAdmissionYear "2010" .
+
+
+
+student:19850205-0022
+    ex:hasStudentId "19850205-0022" ;
+    ex:hasStudentName "Student 23" ;
+    ex:hasProgramme "10053" ;
+    ex:hasGraduated "True" ;
+    ex:hasAdmissionYear "2011" .
+
+
+
+student:19891130-0023
+    ex:hasStudentId "19891130-0023" ;
+    ex:hasStudentName "Student 24" ;
+    ex:hasProgramme "10072" ;
+    ex:hasGraduated "True" ;
+    ex:hasAdmissionYear "2014" .
+
+
+
+student:19860208-0024
+    ex:hasStudentId "19860208-0024" ;
+    ex:hasStudentName "Student 25" ;
+    ex:hasProgramme "10073" ;
+    ex:hasGraduated "True" ;
+    ex:hasAdmissionYear "2011" .
+
+
+
+student:19851213-0025
+    ex:hasStudentId "19851213-0025" ;
+    ex:hasStudentName "Student 26" ;
+    ex:hasProgramme "10071" ;
+    ex:hasGraduated "True" ;
+    ex:hasAdmissionYear "2014" .
+
+
+
+student:19870624-0026
+    ex:hasStudentId "19870624-0026" ;
+    ex:hasStudentName "Student 27" ;
+    ex:hasProgramme "10072" ;
+    ex:hasGraduated "True" ;
+    ex:hasAdmissionYear "2010" .
+
+
+
+student:19870406-0027
+    ex:hasStudentId "19870406-0027" ;
+    ex:hasStudentName "Student 28" ;
+    ex:hasProgramme "10052" ;
+    ex:hasGraduated "True" ;
+    ex:hasAdmissionYear "2011" .
+
+
+
+student:19870512-0028
+    ex:hasStudentId "19870512-0028" ;
+    ex:hasStudentName "Student 29" ;
+    ex:hasProgramme "10052" ;
+    ex:hasGraduated "True" ;
+    ex:hasAdmissionYear "2013" .
+
+
+
+student:19890225-0029
+    ex:hasStudentId "19890225-0029" ;
+    ex:hasStudentName "Student 30" ;
+    ex:hasProgramme "10021" ;
+    ex:hasGraduated "True" ;
+    ex:hasAdmissionYear "2010" .
+
+
+
+student:19880205-0030
+    ex:hasStudentId "19880205-0030" ;
+    ex:hasStudentName "Student 31" ;
+    ex:hasProgramme "10042" ;
+    ex:hasGraduated "True" ;
+    ex:hasAdmissionYear "2011" .
+
+
+
+student:19870215-0031
+    ex:hasStudentId "19870215-0031" ;
+    ex:hasStudentName "Student 32" ;
+    ex:hasProgramme "10073" ;
+    ex:hasGraduated "True" ;
+    ex:hasAdmissionYear "2015" .
+
+
+
+student:19890513-0032
+    ex:hasStudentId "19890513-0032" ;
+    ex:hasStudentName "Student 33" ;
+    ex:hasProgramme "10021" ;
+    ex:hasGraduated "True" ;
+    ex:hasAdmissionYear "2011" .
+
+
+
+student:19881204-0033
+    ex:hasStudentId "19881204-0033" ;
+    ex:hasStudentName "Student 34" ;
+    ex:hasProgramme "10041" ;
+    ex:hasGraduated "True" ;
+    ex:hasAdmissionYear "2014" .
+
+
+
+student:19890416-0034
+    ex:hasStudentId "19890416-0034" ;
+    ex:hasStudentName "Student 35" ;
+    ex:hasProgramme "10051" ;
+    ex:hasGraduated "True" ;
+    ex:hasAdmissionYear "2015" .
+
+
+
+student:19891011-0035
+    ex:hasStudentId "19891011-0035" ;
+    ex:hasStudentName "Student 36" ;
+    ex:hasProgramme "10052" ;
+    ex:hasGraduated "True" ;
+    ex:hasAdmissionYear "2013" .
+
+
+
+student:19890927-0036
+    ex:hasStudentId "19890927-0036" ;
+    ex:hasStudentName "Student 37" ;
+    ex:hasProgramme "10051" ;
+    ex:hasGraduated "True" ;
+    ex:hasAdmissionYear "2014" .
+
+
+
+student:19870422-0037
+    ex:hasStudentId "19870422-0037" ;
+    ex:hasStudentName "Student 38" ;
+    ex:hasProgramme "10032" ;
+    ex:hasGraduated "True" ;
+    ex:hasAdmissionYear "2013" .
+
+
+
+student:19871023-0038
+    ex:hasStudentId "19871023-0038" ;
+    ex:hasStudentName "Student 39" ;
+    ex:hasProgramme "10034" ;
+    ex:hasGraduated "True" ;
+    ex:hasAdmissionYear "2010" .
+
+
+
+student:19881020-0039
+    ex:hasStudentId "19881020-0039" ;
+    ex:hasStudentName "Student 40" ;
+    ex:hasProgramme "10012" ;
+    ex:hasGraduated "True" ;
+    ex:hasAdmissionYear "2015" .
+
+
+
+student:19881216-0040
+    ex:hasStudentId "19881216-0040" ;
+    ex:hasStudentName "Student 41" ;
+    ex:hasProgramme "10014" ;
+    ex:hasGraduated "True" ;
+    ex:hasAdmissionYear "2015" .
+
+
+
+student:19870720-0041
+    ex:hasStudentId "19870720-0041" ;
+    ex:hasStudentName "Student 42" ;
+    ex:hasProgramme "10042" ;
+    ex:hasGraduated "True" ;
+    ex:hasAdmissionYear "2015" .
+
+
+
+student:19870421-0042
+    ex:hasStudentId "19870421-0042" ;
+    ex:hasStudentName "Student 43" ;
+    ex:hasProgramme "10033" ;
+    ex:hasGraduated "True" ;
+    ex:hasAdmissionYear "2011" .
+
+
+
+student:19880818-0043
+    ex:hasStudentId "19880818-0043" ;
+    ex:hasStudentName "Student 44" ;
+    ex:hasProgramme "10073" ;
+    ex:hasGraduated "True" ;
+    ex:hasAdmissionYear "2012" .
+
+
+
+student:19870414-0044
+    ex:hasStudentId "19870414-0044" ;
+    ex:hasStudentName "Student 45" ;
+    ex:hasProgramme "10011" ;
+    ex:hasGraduated "True" ;
+    ex:hasAdmissionYear "2010" .
+
+
+
+student:19880204-0045
+    ex:hasStudentId "19880204-0045" ;
+    ex:hasStudentName "Student 46" ;
+    ex:hasProgramme "10011" ;
+    ex:hasGraduated "True" ;
+    ex:hasAdmissionYear "2014" .
+
+
+
+student:19880807-0046
+    ex:hasStudentId "19880807-0046" ;
+    ex:hasStudentName "Student 47" ;
+    ex:hasProgramme "10041" ;
+    ex:hasGraduated "True" ;
+    ex:hasAdmissionYear "2012" .
+
+
+
+student:19890219-0047
+    ex:hasStudentId "19890219-0047" ;
+    ex:hasStudentName "Student 48" ;
+    ex:hasProgramme "10034" ;
+    ex:hasGraduated "True" ;
+    ex:hasAdmissionYear "2013" .
+
+
+
+student:19870412-0048
+    ex:hasStudentId "19870412-0048" ;
+    ex:hasStudentName "Student 49" ;
+    ex:hasProgramme "10012" ;
+    ex:hasGraduated "True" ;
+    ex:hasAdmissionYear "2013" .
+
+
+
+student:19860119-0049
+    ex:hasStudentId "19860119-0049" ;
+    ex:hasStudentName "Student 50" ;
+    ex:hasProgramme "10001" ;
+    ex:hasGraduated "True" ;
+    ex:hasAdmissionYear "2014" .
+
+
+
+student:19880522-0050
+    ex:hasStudentId "19880522-0050" ;
+    ex:hasStudentName "Student 51" ;
+    ex:hasProgramme "10012" ;
+    ex:hasGraduated "True" ;
+    ex:hasAdmissionYear "2015" .
+
+
+
+student:19851109-0051
+    ex:hasStudentId "19851109-0051" ;
+    ex:hasStudentName "Student 52" ;
+    ex:hasProgramme "10034" ;
+    ex:hasGraduated "True" ;
+    ex:hasAdmissionYear "2013" .
+
+
+
+student:19890611-0052
+    ex:hasStudentId "19890611-0052" ;
+    ex:hasStudentName "Student 53" ;
+    ex:hasProgramme "10031" ;
+    ex:hasGraduated "True" ;
+    ex:hasAdmissionYear "2014" .
+
+
+
+student:19860118-0053
+    ex:hasStudentId "19860118-0053" ;
+    ex:hasStudentName "Student 54" ;
+    ex:hasProgramme "10073" ;
+    ex:hasGraduated "True" ;
+    ex:hasAdmissionYear "2010" .
+
+
+
+student:19850504-0054
+    ex:hasStudentId "19850504-0054" ;
+    ex:hasStudentName "Student 55" ;
+    ex:hasProgramme "10053" ;
+    ex:hasGraduated "True" ;
+    ex:hasAdmissionYear "2011" .
+
+
+
+student:19890302-0055
+    ex:hasStudentId "19890302-0055" ;
+    ex:hasStudentName "Student 56" ;
+    ex:hasProgramme "10032" ;
+    ex:hasGraduated "True" ;
+    ex:hasAdmissionYear "2010" .
+
+
+
+student:19870427-0056
+    ex:hasStudentId "19870427-0056" ;
+    ex:hasStudentName "Student 57" ;
+    ex:hasProgramme "10073" ;
+    ex:hasGraduated "True" ;
+    ex:hasAdmissionYear "2013" .
+
+
+
+student:19861117-0057
+    ex:hasStudentId "19861117-0057" ;
+    ex:hasStudentName "Student 58" ;
+    ex:hasProgramme "10073" ;
+    ex:hasGraduated "True" ;
+    ex:hasAdmissionYear "2014" .
+
+
+
+student:19891109-0058
+    ex:hasStudentId "19891109-0058" ;
+    ex:hasStudentName "Student 59" ;
+    ex:hasProgramme "10041" ;
+    ex:hasGraduated "True" ;
+    ex:hasAdmissionYear "2013" .
+
+
+
+student:19890705-0059
+    ex:hasStudentId "19890705-0059" ;
+    ex:hasStudentName "Student 60" ;
+    ex:hasProgramme "10053" ;
+    ex:hasGraduated "True" ;
+    ex:hasAdmissionYear "2015" .
+
+
+
+student:19891221-0060
+    ex:hasStudentId "19891221-0060" ;
+    ex:hasStudentName "Student 61" ;
+    ex:hasProgramme "10033" ;
+    ex:hasGraduated "True" ;
+    ex:hasAdmissionYear "2010" .
+
+
+
+student:19860128-0061
+    ex:hasStudentId "19860128-0061" ;
+    ex:hasStudentName "Student 62" ;
+    ex:hasProgramme "10033" ;
+    ex:hasGraduated "True" ;
+    ex:hasAdmissionYear "2014" .
+
+
+
+student:19850704-0062
+    ex:hasStudentId "19850704-0062" ;
+    ex:hasStudentName "Student 63" ;
+    ex:hasProgramme "10021" ;
+    ex:hasGraduated "True" ;
+    ex:hasAdmissionYear "2014" .
+
+
+
+student:19860412-0063
+    ex:hasStudentId "19860412-0063" ;
+    ex:hasStudentName "Student 64" ;
+    ex:hasProgramme "10031" ;
+    ex:hasGraduated "True" ;
+    ex:hasAdmissionYear "2012" .
+
+
+
+student:19870918-0064
+    ex:hasStudentId "19870918-0064" ;
+    ex:hasStudentName "Student 65" ;
+    ex:hasProgramme "10042" ;
+    ex:hasGraduated "True" ;
+    ex:hasAdmissionYear "2012" .
+
+
+
+student:19880307-0065
+    ex:hasStudentId "19880307-0065" ;
+    ex:hasStudentName "Student 66" ;
+    ex:hasProgramme "10072" ;
+    ex:hasGraduated "True" ;
+    ex:hasAdmissionYear "2015" .
+
+
+
+student:19861216-0066
+    ex:hasStudentId "19861216-0066" ;
+    ex:hasStudentName "Student 67" ;
+    ex:hasProgramme "10031" ;
+    ex:hasGraduated "True" ;
+    ex:hasAdmissionYear "2015" .
+
+
+
+student:19850124-0067
+    ex:hasStudentId "19850124-0067" ;
+    ex:hasStudentName "Student 68" ;
+    ex:hasProgramme "10052" ;
+    ex:hasGraduated "True" ;
+    ex:hasAdmissionYear "2015" .
+
+
+
+student:19880118-0068
+    ex:hasStudentId "19880118-0068" ;
+    ex:hasStudentName "Student 69" ;
+    ex:hasProgramme "10051" ;
+    ex:hasGraduated "True" ;
+    ex:hasAdmissionYear "2014" .
+
+
+
+student:19870727-0069
+    ex:hasStudentId "19870727-0069" ;
+    ex:hasStudentName "Student 70" ;
+    ex:hasProgramme "10014" ;
+    ex:hasGraduated "True" ;
+    ex:hasAdmissionYear "2013" .
+
+
+
+student:19851126-0070
+    ex:hasStudentId "19851126-0070" ;
+    ex:hasStudentName "Student 71" ;
+    ex:hasProgramme "10032" ;
+    ex:hasGraduated "True" ;
+    ex:hasAdmissionYear "2015" .
+
+
+
+student:19861011-0071
+    ex:hasStudentId "19861011-0071" ;
+    ex:hasStudentName "Student 72" ;
+    ex:hasProgramme "10011" ;
+    ex:hasGraduated "True" ;
+    ex:hasAdmissionYear "2010" .
+
+
+
+student:19850522-0072
+    ex:hasStudentId "19850522-0072" ;
+    ex:hasStudentName "Student 73" ;
+    ex:hasProgramme "10001" ;
+    ex:hasGraduated "True" ;
+    ex:hasAdmissionYear "2014" .
+
+
+
+student:19871111-0073
+    ex:hasStudentId "19871111-0073" ;
+    ex:hasStudentName "Student 74" ;
+    ex:hasProgramme "10012" ;
+    ex:hasGraduated "True" ;
+    ex:hasAdmissionYear "2010" .
+
+
+
+student:19861115-0074
+    ex:hasStudentId "19861115-0074" ;
+    ex:hasStudentName "Student 75" ;
+    ex:hasProgramme "10073" ;
+    ex:hasGraduated "True" ;
+    ex:hasAdmissionYear "2013" .
+
+
+
+student:19890303-0075
+    ex:hasStudentId "19890303-0075" ;
+    ex:hasStudentName "Student 76" ;
+    ex:hasProgramme "10034" ;
+    ex:hasGraduated "True" ;
+    ex:hasAdmissionYear "2010" .
+
+
+
+student:19890622-0076
+    ex:hasStudentId "19890622-0076" ;
+    ex:hasStudentName "Student 77" ;
+    ex:hasProgramme "10021" ;
+    ex:hasGraduated "True" ;
+    ex:hasAdmissionYear "2014" .
+
+
+
+student:19850206-0077
+    ex:hasStudentId "19850206-0077" ;
+    ex:hasStudentName "Student 78" ;
+    ex:hasProgramme "10061" ;
+    ex:hasGraduated "True" ;
+    ex:hasAdmissionYear "2014" .
+
+
+
+student:19860516-0078
+    ex:hasStudentId "19860516-0078" ;
+    ex:hasStudentName "Student 79" ;
+    ex:hasProgramme "10071" ;
+    ex:hasGraduated "True" ;
+    ex:hasAdmissionYear "2012" .
+
+
+
+student:19891104-0079
+    ex:hasStudentId "19891104-0079" ;
+    ex:hasStudentName "Student 80" ;
+    ex:hasProgramme "10014" ;
+    ex:hasGraduated "True" ;
+    ex:hasAdmissionYear "2012" .
+
+
+
+student:19870128-0080
+    ex:hasStudentId "19870128-0080" ;
+    ex:hasStudentName "Student 81" ;
+    ex:hasProgramme "10021" ;
+    ex:hasGraduated "True" ;
+    ex:hasAdmissionYear "2012" .
+
+
+
+student:19850709-0081
+    ex:hasStudentId "19850709-0081" ;
+    ex:hasStudentName "Student 82" ;
+    ex:hasProgramme "10074" ;
+    ex:hasGraduated "True" ;
+    ex:hasAdmissionYear "2011" .
+
+
+
+student:19870507-0082
+    ex:hasStudentId "19870507-0082" ;
+    ex:hasStudentName "Student 83" ;
+    ex:hasProgramme "10012" ;
+    ex:hasGraduated "True" ;
+    ex:hasAdmissionYear "2013" .
+
+
+
+student:19870308-0083
+    ex:hasStudentId "19870308-0083" ;
+    ex:hasStudentName "Student 84" ;
+    ex:hasProgramme "10032" ;
+    ex:hasGraduated "True" ;
+    ex:hasAdmissionYear "2014" .
+
+
+
+student:19851112-0084
+    ex:hasStudentId "19851112-0084" ;
+    ex:hasStudentName "Student 85" ;
+    ex:hasProgramme "10053" ;
+    ex:hasGraduated "True" ;
+    ex:hasAdmissionYear "2015" .
+
+
+
+student:19861015-0085
+    ex:hasStudentId "19861015-0085" ;
+    ex:hasStudentName "Student 86" ;
+    ex:hasProgramme "10073" ;
+    ex:hasGraduated "True" ;
+    ex:hasAdmissionYear "2013" .
+
+
+
+student:19870304-0086
+    ex:hasStudentId "19870304-0086" ;
+    ex:hasStudentName "Student 87" ;
+    ex:hasProgramme "10071" ;
+    ex:hasGraduated "True" ;
+    ex:hasAdmissionYear "2012" .
+
+
+
+student:19870901-0087
+    ex:hasStudentId "19870901-0087" ;
+    ex:hasStudentName "Student 88" ;
+    ex:hasProgramme "10051" ;
+    ex:hasGraduated "True" ;
+    ex:hasAdmissionYear "2011" .
+
+
+
+student:19870813-0088
+    ex:hasStudentId "19870813-0088" ;
+    ex:hasStudentName "Student 89" ;
+    ex:hasProgramme "10042" ;
+    ex:hasGraduated "True" ;
+    ex:hasAdmissionYear "2012" .
+
+
+
+student:19871013-0089
+    ex:hasStudentId "19871013-0089" ;
+    ex:hasStudentName "Student 90" ;
+    ex:hasProgramme "10032" ;
+    ex:hasGraduated "True" ;
+    ex:hasAdmissionYear "2013" .
+
+
+
+student:19881120-0090
+    ex:hasStudentId "19881120-0090" ;
+    ex:hasStudentName "Student 91" ;
+    ex:hasProgramme "10072" ;
+    ex:hasGraduated "True" ;
+    ex:hasAdmissionYear "2014" .
+
+
+
+student:19870209-0091
+    ex:hasStudentId "19870209-0091" ;
+    ex:hasStudentName "Student 92" ;
+    ex:hasProgramme "10071" ;
+    ex:hasGraduated "True" ;
+    ex:hasAdmissionYear "2014" .
+
+
+
+student:19870921-0092
+    ex:hasStudentId "19870921-0092" ;
+    ex:hasStudentName "Student 93" ;
+    ex:hasProgramme "10051" ;
+    ex:hasGraduated "True" ;
+    ex:hasAdmissionYear "2012" .
+
+
+
+student:19890202-0093
+    ex:hasStudentId "19890202-0093" ;
+    ex:hasStudentName "Student 94" ;
+    ex:hasProgramme "10014" ;
+    ex:hasGraduated "True" ;
+    ex:hasAdmissionYear "2014" .
+
+
+
+student:19890106-0094
+    ex:hasStudentId "19890106-0094" ;
+    ex:hasStudentName "Student 95" ;
+    ex:hasProgramme "10011" ;
+    ex:hasGraduated "True" ;
+    ex:hasAdmissionYear "2010" .
+
+
+
+student:19870418-0095
+    ex:hasStudentId "19870418-0095" ;
+    ex:hasStudentName "Student 96" ;
+    ex:hasProgramme "10031" ;
+    ex:hasGraduated "True" ;
+    ex:hasAdmissionYear "2011" .
+
+
+
+student:19870304-0096
+    ex:hasStudentId "19870304-0096" ;
+    ex:hasStudentName "Student 97" ;
+    ex:hasProgramme "10011" ;
+    ex:hasGraduated "True" ;
+    ex:hasAdmissionYear "2010" .
+
+
+
+student:19860321-0097
+    ex:hasStudentId "19860321-0097" ;
+    ex:hasStudentName "Student 98" ;
+    ex:hasProgramme "10041" ;
+    ex:hasGraduated "True" ;
+    ex:hasAdmissionYear "2015" .
+
+
+
+student:19871019-0098
+    ex:hasStudentId "19871019-0098" ;
+    ex:hasStudentName "Student 99" ;
+    ex:hasProgramme "10071" ;
+    ex:hasGraduated "True" ;
+    ex:hasAdmissionYear "2010" .
+
+
+
+student:19871128-0099
+    ex:hasStudentId "19871128-0099" ;
+    ex:hasStudentName "Student 100" ;
+    ex:hasProgramme "10074" ;
+    ex:hasGraduated "True" ;
+    ex:hasAdmissionYear "2012" .
+
+
+
+student:19781125-0031
+    ex:hasStudentId "19781125-0031" ;
+    ex:hasStudentName "TA 31" ;
+    ex:hasProgramme "10052" ;
+    ex:hasGraduated "True" ;
+    ex:hasAdmissionYear "2005" .
+
+
+
+student:19750906-0032
+    ex:hasStudentId "19750906-0032" ;
+    ex:hasStudentName "TA 32" ;
+    ex:hasProgramme "10052" ;
+    ex:hasGraduated "True" ;
+    ex:hasAdmissionYear "2000" .
+
+
+
+student:19750705-0033
+    ex:hasStudentId "19750705-0033" ;
+    ex:hasStudentName "TA 33" ;
+    ex:hasProgramme "10014" ;
+    ex:hasGraduated "True" ;
+    ex:hasAdmissionYear "2005" .
+
+
+
+student:19761024-0034
+    ex:hasStudentId "19761024-0034" ;
+    ex:hasStudentName "TA 34" ;
+    ex:hasProgramme "10053" ;
+    ex:hasGraduated "True" ;
+    ex:hasAdmissionYear "2000" .
+
+
+
+student:19780602-0035
+    ex:hasStudentId "19780602-0035" ;
+    ex:hasStudentName "TA 35" ;
+    ex:hasProgramme "10053" ;
+    ex:hasGraduated "True" ;
+    ex:hasAdmissionYear "2008" .
+
+
+
+student:19750331-0036
+    ex:hasStudentId "19750331-0036" ;
+    ex:hasStudentName "TA 36" ;
+    ex:hasProgramme "10021" ;
+    ex:hasGraduated "True" ;
+    ex:hasAdmissionYear "2004" .
+
+
+
+student:19750220-0037
+    ex:hasStudentId "19750220-0037" ;
+    ex:hasStudentName "TA 37" ;
+    ex:hasProgramme "10041" ;
+    ex:hasGraduated "True" ;
+    ex:hasAdmissionYear "2008" .
+
+
+
+student:19790702-0038
+    ex:hasStudentId "19790702-0038" ;
+    ex:hasStudentName "TA 38" ;
+    ex:hasProgramme "10011" ;
+    ex:hasGraduated "True" ;
+    ex:hasAdmissionYear "2014" .
+
+
+
+student:19751018-0039
+    ex:hasStudentId "19751018-0039" ;
+    ex:hasStudentName "TA 39" ;
+    ex:hasProgramme "10061" ;
+    ex:hasGraduated "True" ;
+    ex:hasAdmissionYear "2009" .
+
+
+
+student:19771013-0040
+    ex:hasStudentId "19771013-0040" ;
+    ex:hasStudentName "TA 40" ;
+    ex:hasProgramme "10061" ;
+    ex:hasGraduated "True" ;
+    ex:hasAdmissionYear "2005" .
+
+
+
+student:19790708-0041
+    ex:hasStudentId "19790708-0041" ;
+    ex:hasStudentName "TA 41" ;
+    ex:hasProgramme "10021" ;
+    ex:hasGraduated "True" ;
+    ex:hasAdmissionYear "2011" .
+
+
+
+student:19770713-0042
+    ex:hasStudentId "19770713-0042" ;
+    ex:hasStudentName "TA 42" ;
+    ex:hasProgramme "10014" ;
+    ex:hasGraduated "True" ;
+    ex:hasAdmissionYear "2005" .
+
+
+
+student:19750512-0043
+    ex:hasStudentId "19750512-0043" ;
+    ex:hasStudentName "TA 43" ;
+    ex:hasProgramme "10074" ;
+    ex:hasGraduated "True" ;
+    ex:hasAdmissionYear "2010" .
+
+
+
+student:19761020-0044
+    ex:hasStudentId "19761020-0044" ;
+    ex:hasStudentName "TA 44" ;
+    ex:hasProgramme "10042" ;
+    ex:hasGraduated "True" ;
+    ex:hasAdmissionYear "2008" .
+
+
+
+student:19790717-0045
+    ex:hasStudentId "19790717-0045" ;
+    ex:hasStudentName "TA 45" ;
+    ex:hasProgramme "10053" ;
+    ex:hasGraduated "True" ;
+    ex:hasAdmissionYear "2012" .
+
+
+
+student:19760524-0046
+    ex:hasStudentId "19760524-0046" ;
+    ex:hasStudentName "TA 46" ;
+    ex:hasProgramme "10033" ;
+    ex:hasGraduated "True" ;
+    ex:hasAdmissionYear "2005" .
+
+
+
+student:19780815-0047
+    ex:hasStudentId "19780815-0047" ;
+    ex:hasStudentName "TA 47" ;
+    ex:hasProgramme "10061" ;
+    ex:hasGraduated "True" ;
+    ex:hasAdmissionYear "2013" .
+
+
+
+student:19790618-0048
+    ex:hasStudentId "19790618-0048" ;
+    ex:hasStudentName "TA 48" ;
+    ex:hasProgramme "10053" ;
+    ex:hasGraduated "True" ;
+    ex:hasAdmissionYear "2002" .
+
+
+
+student:19790426-0049
+    ex:hasStudentId "19790426-0049" ;
+    ex:hasStudentName "TA 49" ;
+    ex:hasProgramme "10034" ;
+    ex:hasGraduated "True" ;
+    ex:hasAdmissionYear "2013" .
+
+
+
+student:19760108-0050
+    ex:hasStudentId "19760108-0050" ;
+    ex:hasStudentName "TA 50" ;
+    ex:hasProgramme "10034" ;
+    ex:hasGraduated "True" ;
+    ex:hasAdmissionYear "2005" .
+
+
+
+student:19750417-0051
+    ex:hasStudentId "19750417-0051" ;
+    ex:hasStudentName "TA 51" ;
+    ex:hasProgramme "10053" ;
+    ex:hasGraduated "True" ;
+    ex:hasAdmissionYear "2000" .
+
+
+
+student:19780317-0052
+    ex:hasStudentId "19780317-0052" ;
+    ex:hasStudentName "TA 52" ;
+    ex:hasProgramme "10041" ;
+    ex:hasGraduated "True" ;
+    ex:hasAdmissionYear "2013" .
+
+
+
+student:19781217-0053
+    ex:hasStudentId "19781217-0053" ;
+    ex:hasStudentName "TA 53" ;
+    ex:hasProgramme "10052" ;
+    ex:hasGraduated "True" ;
+    ex:hasAdmissionYear "2000" .
+
+
+
+student:19781130-0054
+    ex:hasStudentId "19781130-0054" ;
+    ex:hasStudentName "TA 54" ;
+    ex:hasProgramme "10034" ;
+    ex:hasGraduated "True" ;
+    ex:hasAdmissionYear "2014" .
+
+
+
+student:19761009-0055
+    ex:hasStudentId "19761009-0055" ;
+    ex:hasStudentName "TA 55" ;
+    ex:hasProgramme "10011" ;
+    ex:hasGraduated "True" ;
+    ex:hasAdmissionYear "2012" .
+
+
+
+student:19750122-0056
+    ex:hasStudentId "19750122-0056" ;
+    ex:hasStudentName "TA 56" ;
+    ex:hasProgramme "10033" ;
+    ex:hasGraduated "True" ;
+    ex:hasAdmissionYear "2012" .
+
+
+
+student:19780424-0057
+    ex:hasStudentId "19780424-0057" ;
+    ex:hasStudentName "TA 57" ;
+    ex:hasProgramme "10041" ;
+    ex:hasGraduated "True" ;
+    ex:hasAdmissionYear "2003" .
+
+
+
+student:19770224-0058
+    ex:hasStudentId "19770224-0058" ;
+    ex:hasStudentName "TA 58" ;
+    ex:hasProgramme "10014" ;
+    ex:hasGraduated "True" ;
+    ex:hasAdmissionYear "2013" .
+
+
+
+student:19750102-0059
+    ex:hasStudentId "19750102-0059" ;
+    ex:hasStudentName "TA 59" ;
+    ex:hasProgramme "10041" ;
+    ex:hasGraduated "True" ;
+    ex:hasAdmissionYear "2004" .
+
+
+
+student:19750722-0060
+    ex:hasStudentId "19750722-0060" ;
+    ex:hasStudentName "TA 60" ;
+    ex:hasProgramme "10031" ;
+    ex:hasGraduated "True" ;
+    ex:hasAdmissionYear "2000" .
+
+
+
+student:19930508-0061
+    ex:hasStudentId "19930508-0061" ;
+    ex:hasStudentName "TA 61" ;
+    ex:hasProgramme "10051" ;
+    ex:hasGraduated "False" ;
+    ex:hasAdmissionYear "2021" .
+
+
+
+student:19931118-0062
+    ex:hasStudentId "19931118-0062" ;
+    ex:hasStudentName "TA 62" ;
+    ex:hasProgramme "10012" ;
+    ex:hasGraduated "False" ;
+    ex:hasAdmissionYear "2016" .
+
+
+
+student:19900520-0063
+    ex:hasStudentId "19900520-0063" ;
+    ex:hasStudentName "TA 63" ;
+    ex:hasProgramme "10074" ;
+    ex:hasGraduated "False" ;
+    ex:hasAdmissionYear "2020" .
+
+
+
+student:19900124-0064
+    ex:hasStudentId "19900124-0064" ;
+    ex:hasStudentName "TA 64" ;
+    ex:hasProgramme "10011" ;
+    ex:hasGraduated "False" ;
+    ex:hasAdmissionYear "2016" .
+
+
+
+student:19920122-0065
+    ex:hasStudentId "19920122-0065" ;
+    ex:hasStudentName "TA 65" ;
+    ex:hasProgramme "10021" ;
+    ex:hasGraduated "False" ;
+    ex:hasAdmissionYear "2016" .
+
+
+
+student:19931203-0066
+    ex:hasStudentId "19931203-0066" ;
+    ex:hasStudentName "TA 66" ;
+    ex:hasProgramme "10053" ;
+    ex:hasGraduated "False" ;
+    ex:hasAdmissionYear "2016" .
+
+
+
+student:19910421-0067
+    ex:hasStudentId "19910421-0067" ;
+    ex:hasStudentName "TA 67" ;
+    ex:hasProgramme "10032" ;
+    ex:hasGraduated "False" ;
+    ex:hasAdmissionYear "2021" .
+
+
+
+student:19910514-0068
+    ex:hasStudentId "19910514-0068" ;
+    ex:hasStudentName "TA 68" ;
+    ex:hasProgramme "10074" ;
+    ex:hasGraduated "False" ;
+    ex:hasAdmissionYear "2017" .
+
+
+
+student:19911116-0069
+    ex:hasStudentId "19911116-0069" ;
+    ex:hasStudentName "TA 69" ;
+    ex:hasProgramme "10042" ;
+    ex:hasGraduated "False" ;
+    ex:hasAdmissionYear "2021" .
+
+
+
+student:19920828-0070
+    ex:hasStudentId "19920828-0070" ;
+    ex:hasStudentName "TA 70" ;
+    ex:hasProgramme "10042" ;
+    ex:hasGraduated "False" ;
+    ex:hasAdmissionYear "2019" .
+
+
+
+student:19901029-0071
+    ex:hasStudentId "19901029-0071" ;
+    ex:hasStudentName "TA 71" ;
+    ex:hasProgramme "10033" ;
+    ex:hasGraduated "False" ;
+    ex:hasAdmissionYear "2017" .
+
+
+
+student:19920206-0072
+    ex:hasStudentId "19920206-0072" ;
+    ex:hasStudentName "TA 72" ;
+    ex:hasProgramme "10034" ;
+    ex:hasGraduated "False" ;
+    ex:hasAdmissionYear "2018" .
+
+
+
+student:19920602-0073
+    ex:hasStudentId "19920602-0073" ;
+    ex:hasStudentName "TA 73" ;
+    ex:hasProgramme "10041" ;
+    ex:hasGraduated "False" ;
+    ex:hasAdmissionYear "2020" .
+
+
+
+student:19900201-0074
+    ex:hasStudentId "19900201-0074" ;
+    ex:hasStudentName "TA 74" ;
+    ex:hasProgramme "10011" ;
+    ex:hasGraduated "False" ;
+    ex:hasAdmissionYear "2016" .
+
+
+
+student:19920226-0075
+    ex:hasStudentId "19920226-0075" ;
+    ex:hasStudentName "TA 75" ;
+    ex:hasProgramme "10021" ;
+    ex:hasGraduated "False" ;
+    ex:hasAdmissionYear "2016" .
+
+
+
+student:19900619-0076
+    ex:hasStudentId "19900619-0076" ;
+    ex:hasStudentName "TA 76" ;
+    ex:hasProgramme "10053" ;
+    ex:hasGraduated "False" ;
+    ex:hasAdmissionYear "2016" .
+
+
+
+student:19910122-0077
+    ex:hasStudentId "19910122-0077" ;
+    ex:hasStudentName "TA 77" ;
+    ex:hasProgramme "10052" ;
+    ex:hasGraduated "False" ;
+    ex:hasAdmissionYear "2017" .
+
+
+
+student:19910820-0078
+    ex:hasStudentId "19910820-0078" ;
+    ex:hasStudentName "TA 78" ;
+    ex:hasProgramme "10021" ;
+    ex:hasGraduated "False" ;
+    ex:hasAdmissionYear "2017" .
+
+
+
+student:19931212-0079
+    ex:hasStudentId "19931212-0079" ;
+    ex:hasStudentName "TA 79" ;
+    ex:hasProgramme "10042" ;
+    ex:hasGraduated "False" ;
+    ex:hasAdmissionYear "2016" .
+
+
+
+student:19900321-0080
+    ex:hasStudentId "19900321-0080" ;
+    ex:hasStudentName "TA 80" ;
+    ex:hasProgramme "10013" ;
+    ex:hasGraduated "False" ;
+    ex:hasAdmissionYear "2020" .
+
+
+
+student:19910206-0081
+    ex:hasStudentId "19910206-0081" ;
+    ex:hasStudentName "TA 81" ;
+    ex:hasProgramme "10014" ;
+    ex:hasGraduated "False" ;
+    ex:hasAdmissionYear "2016" .
+
+
+
+student:19930829-0082
+    ex:hasStudentId "19930829-0082" ;
+    ex:hasStudentName "TA 82" ;
+    ex:hasProgramme "10011" ;
+    ex:hasGraduated "False" ;
+    ex:hasAdmissionYear "2017" .
+
+
+
+student:19900317-0083
+    ex:hasStudentId "19900317-0083" ;
+    ex:hasStudentName "TA 83" ;
+    ex:hasProgramme "10054" ;
+    ex:hasGraduated "False" ;
+    ex:hasAdmissionYear "2017" .
+
+
+
+student:19910214-0084
+    ex:hasStudentId "19910214-0084" ;
+    ex:hasStudentName "TA 84" ;
+    ex:hasProgramme "10031" ;
+    ex:hasGraduated "False" ;
+    ex:hasAdmissionYear "2021" .
+
+
+
+student:19901002-0085
+    ex:hasStudentId "19901002-0085" ;
+    ex:hasStudentName "TA 85" ;
+    ex:hasProgramme "10031" ;
+    ex:hasGraduated "False" ;
+    ex:hasAdmissionYear "2017" .
+
+
+
+student:19930228-0086
+    ex:hasStudentId "19930228-0086" ;
+    ex:hasStudentName "TA 86" ;
+    ex:hasProgramme "10011" ;
+    ex:hasGraduated "False" ;
+    ex:hasAdmissionYear "2016" .
+
+
+
+student:19901108-0087
+    ex:hasStudentId "19901108-0087" ;
+    ex:hasStudentName "TA 87" ;
+    ex:hasProgramme "10051" ;
+    ex:hasGraduated "False" ;
+    ex:hasAdmissionYear "2020" .
+
+
+
+student:19920826-0088
+    ex:hasStudentId "19920826-0088" ;
+    ex:hasStudentName "TA 88" ;
+    ex:hasProgramme "10034" ;
+    ex:hasGraduated "False" ;
+    ex:hasAdmissionYear "2021" .
+
+
+
+student:19900426-0089
+    ex:hasStudentId "19900426-0089" ;
+    ex:hasStudentName "TA 89" ;
+    ex:hasProgramme "10053" ;
+    ex:hasGraduated "False" ;
+    ex:hasAdmissionYear "2021" .
+
+
+
+student:19900902-0090
+    ex:hasStudentId "19900902-0090" ;
+    ex:hasStudentName "TA 90" ;
+    ex:hasProgramme "10071" ;
+    ex:hasGraduated "False" ;
+    ex:hasAdmissionYear "2021" .
+
+
+
+student:19911025-0091
+    ex:hasStudentId "19911025-0091" ;
+    ex:hasStudentName "TA 91" ;
+    ex:hasProgramme "10051" ;
+    ex:hasGraduated "False" ;
+    ex:hasAdmissionYear "2016" .
+
+
+
+student:19910817-0092
+    ex:hasStudentId "19910817-0092" ;
+    ex:hasStudentName "TA 92" ;
+    ex:hasProgramme "10053" ;
+    ex:hasGraduated "False" ;
+    ex:hasAdmissionYear "2019" .
+
+
+
+student:19920504-0093
+    ex:hasStudentId "19920504-0093" ;
+    ex:hasStudentName "TA 93" ;
+    ex:hasProgramme "10014" ;
+    ex:hasGraduated "False" ;
+    ex:hasAdmissionYear "2019" .
+
+
+
+student:19921201-0094
+    ex:hasStudentId "19921201-0094" ;
+    ex:hasStudentName "TA 94" ;
+    ex:hasProgramme "10012" ;
+    ex:hasGraduated "False" ;
+    ex:hasAdmissionYear "2019" .
+
+
+
+student:19900128-0095
+    ex:hasStudentId "19900128-0095" ;
+    ex:hasStudentName "TA 95" ;
+    ex:hasProgramme "10031" ;
+    ex:hasGraduated "False" ;
+    ex:hasAdmissionYear "2018" .
+
+
+
+student:19910327-0096
+    ex:hasStudentId "19910327-0096" ;
+    ex:hasStudentName "TA 96" ;
+    ex:hasProgramme "10013" ;
+    ex:hasGraduated "False" ;
+    ex:hasAdmissionYear "2021" .
+
+
+
+student:19921208-0097
+    ex:hasStudentId "19921208-0097" ;
+    ex:hasStudentName "TA 97" ;
+    ex:hasProgramme "10071" ;
+    ex:hasGraduated "False" ;
+    ex:hasAdmissionYear "2020" .
+
+
+
+student:19920217-0098
+    ex:hasStudentId "19920217-0098" ;
+    ex:hasStudentName "TA 98" ;
+    ex:hasProgramme "10072" ;
+    ex:hasGraduated "False" ;
+    ex:hasAdmissionYear "2020" .
+
+
+
+student:19931231-0099
+    ex:hasStudentId "19931231-0099" ;
+    ex:hasStudentName "TA 99" ;
+    ex:hasProgramme "10053" ;
+    ex:hasGraduated "False" ;
+    ex:hasAdmissionYear "2017" .
+
+
+
+student:19930709-0100
+    ex:hasStudentId "19930709-0100" ;
+    ex:hasStudentName "TA 100" ;
+    ex:hasProgramme "10052" ;
+    ex:hasGraduated "False" ;
+    ex:hasAdmissionYear "2021" .
+
+
+
+student:19921218-0101
+    ex:hasStudentId "19921218-0101" ;
+    ex:hasStudentName "TA 101" ;
+    ex:hasProgramme "10053" ;
+    ex:hasGraduated "False" ;
+    ex:hasAdmissionYear "2020" .
+
+
+
+student:19910404-0102
+    ex:hasStudentId "19910404-0102" ;
+    ex:hasStudentName "TA 102" ;
+    ex:hasProgramme "10051" ;
+    ex:hasGraduated "False" ;
+    ex:hasAdmissionYear "2019" .
+
+
+
+student:19910403-0103
+    ex:hasStudentId "19910403-0103" ;
+    ex:hasStudentName "TA 103" ;
+    ex:hasProgramme "10042" ;
+    ex:hasGraduated "False" ;
+    ex:hasAdmissionYear "2017" .
+
+
+
+student:19900119-0104
+    ex:hasStudentId "19900119-0104" ;
+    ex:hasStudentName "TA 104" ;
+    ex:hasProgramme "10061" ;
+    ex:hasGraduated "False" ;
+    ex:hasAdmissionYear "2021" .
+
+
+
+student:19900307-0105
+    ex:hasStudentId "19900307-0105" ;
+    ex:hasStudentName "TA 105" ;
+    ex:hasProgramme "10032" ;
+    ex:hasGraduated "False" ;
+    ex:hasAdmissionYear "2020" .
+
+
+
+student:19930414-0106
+    ex:hasStudentId "19930414-0106" ;
+    ex:hasStudentName "TA 106" ;
+    ex:hasProgramme "10072" ;
+    ex:hasGraduated "False" ;
+    ex:hasAdmissionYear "2018" .
+
+
+
+student:19920316-0107
+    ex:hasStudentId "19920316-0107" ;
+    ex:hasStudentName "TA 107" ;
+    ex:hasProgramme "10041" ;
+    ex:hasGraduated "False" ;
+    ex:hasAdmissionYear "2017" .
+
+
+
+student:19921123-0108
+    ex:hasStudentId "19921123-0108" ;
+    ex:hasStudentName "TA 108" ;
+    ex:hasProgramme "10073" ;
+    ex:hasGraduated "False" ;
+    ex:hasAdmissionYear "2016" .
+
+
+
+student:19920917-0109
+    ex:hasStudentId "19920917-0109" ;
+    ex:hasStudentName "TA 109" ;
+    ex:hasProgramme "10033" ;
+    ex:hasGraduated "False" ;
+    ex:hasAdmissionYear "2018" .
+
+
+
+student:19930906-0110
+    ex:hasStudentId "19930906-0110" ;
+    ex:hasStudentName "TA 110" ;
+    ex:hasProgramme "10052" ;
+    ex:hasGraduated "False" ;
+    ex:hasAdmissionYear "2016" .
+
+
+
+student:19901026-0111
+    ex:hasStudentId "19901026-0111" ;
+    ex:hasStudentName "TA 111" ;
+    ex:hasProgramme "10051" ;
+    ex:hasGraduated "False" ;
+    ex:hasAdmissionYear "2016" .
+
+
+
+student:19900430-0112
+    ex:hasStudentId "19900430-0112" ;
+    ex:hasStudentName "TA 112" ;
+    ex:hasProgramme "10071" ;
+    ex:hasGraduated "False" ;
+    ex:hasAdmissionYear "2016" .
+
+
+
+student:19900701-0113
+    ex:hasStudentId "19900701-0113" ;
+    ex:hasStudentName "TA 113" ;
+    ex:hasProgramme "10033" ;
+    ex:hasGraduated "False" ;
+    ex:hasAdmissionYear "2021" .
+
+
+
+student:19900902-0114
+    ex:hasStudentId "19900902-0114" ;
+    ex:hasStudentName "TA 114" ;
+    ex:hasProgramme "10014" ;
+    ex:hasGraduated "False" ;
+    ex:hasAdmissionYear "2020" .
+
+
+
+student:19920505-0115
+    ex:hasStudentId "19920505-0115" ;
+    ex:hasStudentName "TA 115" ;
+    ex:hasProgramme "10032" ;
+    ex:hasGraduated "False" ;
+    ex:hasAdmissionYear "2016" .
+
+
+
+student:19900818-0116
+    ex:hasStudentId "19900818-0116" ;
+    ex:hasStudentName "TA 116" ;
+    ex:hasProgramme "10073" ;
+    ex:hasGraduated "False" ;
+    ex:hasAdmissionYear "2019" .
+
+
+
+student:19930512-0117
+    ex:hasStudentId "19930512-0117" ;
+    ex:hasStudentName "TA 117" ;
+    ex:hasProgramme "10052" ;
+    ex:hasGraduated "False" ;
+    ex:hasAdmissionYear "2018" .
+
+
+
+student:19931226-0118
+    ex:hasStudentId "19931226-0118" ;
+    ex:hasStudentName "TA 118" ;
+    ex:hasProgramme "10031" ;
+    ex:hasGraduated "False" ;
+    ex:hasAdmissionYear "2020" .
+
+
+
+student:19901011-0119
+    ex:hasStudentId "19901011-0119" ;
+    ex:hasStudentName "TA 119" ;
+    ex:hasProgramme "10074" ;
+    ex:hasGraduated "False" ;
+    ex:hasAdmissionYear "2017" .
+
+
+
+student:19921127-0120
+    ex:hasStudentId "19921127-0120" ;
+    ex:hasStudentName "TA 120" ;
+    ex:hasProgramme "10053" ;
+    ex:hasGraduated "False" ;
+    ex:hasAdmissionYear "2016" .
+
+
+
+student:19920320-0121
+    ex:hasStudentId "19920320-0121" ;
+    ex:hasStudentName "TA 121" ;
+    ex:hasProgramme "10013" ;
+    ex:hasGraduated "False" ;
+    ex:hasAdmissionYear "2016" .
+
+
+
+student:19910822-0122
+    ex:hasStudentId "19910822-0122" ;
+    ex:hasStudentName "TA 122" ;
+    ex:hasProgramme "10042" ;
+    ex:hasGraduated "False" ;
+    ex:hasAdmissionYear "2020" .
+
+
+
+student:19900909-0123
+    ex:hasStudentId "19900909-0123" ;
+    ex:hasStudentName "TA 123" ;
+    ex:hasProgramme "10012" ;
+    ex:hasGraduated "False" ;
+    ex:hasAdmissionYear "2016" .
+
+
+
+student:19900616-0124
+    ex:hasStudentId "19900616-0124" ;
+    ex:hasStudentName "TA 124" ;
+    ex:hasProgramme "10001" ;
+    ex:hasGraduated "False" ;
+    ex:hasAdmissionYear "2017" .
+
+
+
+student:19901219-0125
+    ex:hasStudentId "19901219-0125" ;
+    ex:hasStudentName "TA 125" ;
+    ex:hasProgramme "10014" ;
+    ex:hasGraduated "False" ;
+    ex:hasAdmissionYear "2017" .
+
+
+
+student:19900723-0126
+    ex:hasStudentId "19900723-0126" ;
+    ex:hasStudentName "TA 126" ;
+    ex:hasProgramme "10061" ;
+    ex:hasGraduated "False" ;
+    ex:hasAdmissionYear "2021" .
+
+
+
+student:19930616-0127
+    ex:hasStudentId "19930616-0127" ;
+    ex:hasStudentName "TA 127" ;
+    ex:hasProgramme "10041" ;
+    ex:hasGraduated "False" ;
+    ex:hasAdmissionYear "2016" .
+
+
+
+student:19910927-0128
+    ex:hasStudentId "19910927-0128" ;
+    ex:hasStudentName "TA 128" ;
+    ex:hasProgramme "10041" ;
+    ex:hasGraduated "False" ;
+    ex:hasAdmissionYear "2021" .
+
+
+
+student:19921002-0129
+    ex:hasStudentId "19921002-0129" ;
+    ex:hasStudentName "TA 129" ;
+    ex:hasProgramme "10031" ;
+    ex:hasGraduated "False" ;
+    ex:hasAdmissionYear "2020" .
+
+
+
+student:19900801-0130
+    ex:hasStudentId "19900801-0130" ;
+    ex:hasStudentName "TA 130" ;
+    ex:hasProgramme "10014" ;
+    ex:hasGraduated "False" ;
+    ex:hasAdmissionYear "2018" .
+
+
+
+student:19910403-0131
+    ex:hasStudentId "19910403-0131" ;
+    ex:hasStudentName "TA 131" ;
+    ex:hasProgramme "10052" ;
+    ex:hasGraduated "False" ;
+    ex:hasAdmissionYear "2021" .
+
+
+
+student:19930326-0132
+    ex:hasStudentId "19930326-0132" ;
+    ex:hasStudentName "TA 132" ;
+    ex:hasProgramme "10042" ;
+    ex:hasGraduated "False" ;
+    ex:hasAdmissionYear "2017" .
+
+
+
+student:19910101-0133
+    ex:hasStudentId "19910101-0133" ;
+    ex:hasStudentName "TA 133" ;
+    ex:hasProgramme "10014" ;
+    ex:hasGraduated "False" ;
+    ex:hasAdmissionYear "2016" .
+
+
+
+student:19900511-0134
+    ex:hasStudentId "19900511-0134" ;
+    ex:hasStudentName "TA 134" ;
+    ex:hasProgramme "10034" ;
+    ex:hasGraduated "False" ;
+    ex:hasAdmissionYear "2016" .
+
+
+
+student:19930302-0135
+    ex:hasStudentId "19930302-0135" ;
+    ex:hasStudentName "TA 135" ;
+    ex:hasProgramme "10031" ;
+    ex:hasGraduated "False" ;
+    ex:hasAdmissionYear "2019" .
+
+
+
+student:19910921-0136
+    ex:hasStudentId "19910921-0136" ;
+    ex:hasStudentName "TA 136" ;
+    ex:hasProgramme "10072" ;
+    ex:hasGraduated "False" ;
+    ex:hasAdmissionYear "2020" .
+
+
+
+student:19930919-0137
+    ex:hasStudentId "19930919-0137" ;
+    ex:hasStudentName "TA 137" ;
+    ex:hasProgramme "10001" ;
+    ex:hasGraduated "False" ;
+    ex:hasAdmissionYear "2020" .
+
+
+
+student:19900701-0138
+    ex:hasStudentId "19900701-0138" ;
+    ex:hasStudentName "TA 138" ;
+    ex:hasProgramme "10034" ;
+    ex:hasGraduated "False" ;
+    ex:hasAdmissionYear "2019" .
+
+
+
+student:19930221-0139
+    ex:hasStudentId "19930221-0139" ;
+    ex:hasStudentName "TA 139" ;
+    ex:hasProgramme "10052" ;
+    ex:hasGraduated "False" ;
+    ex:hasAdmissionYear "2021" .
+
+
+
+student:19900211-0140
+    ex:hasStudentId "19900211-0140" ;
+    ex:hasStudentName "TA 140" ;
+    ex:hasProgramme "10031" ;
+    ex:hasGraduated "False" ;
+    ex:hasAdmissionYear "2018" .
+
+

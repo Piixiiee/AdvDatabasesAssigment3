@@ -1,0 +1,3304 @@
+
+@prefix ex: <http://example.org/> .
+@prefix courses: <http://example.org/courses/> .
+
+
+courses:1001
+    ex:hasCourseCode "1001" ;
+    ex:hasCourseName "C-1" ;
+    ex:hasCredits "7.5" ;
+    ex:hasLevel "First Cycle" ;
+    ex:hasDepartment "D4" ;
+    ex:hasDivision "D4-5" ;
+    ex:hasOwnedBy "P-32" .
+
+
+
+courses:1002
+    ex:hasCourseCode "1002" ;
+    ex:hasCourseName "C-2" ;
+    ex:hasCredits "7.5" ;
+    ex:hasLevel "First Cycle" ;
+    ex:hasDepartment "D6" ;
+    ex:hasDivision "D6-5" ;
+    ex:hasOwnedBy "P-51" .
+
+
+
+courses:1003
+    ex:hasCourseCode "1003" ;
+    ex:hasCourseName "C-3" ;
+    ex:hasCredits "7.5" ;
+    ex:hasLevel "Second Cycle" ;
+    ex:hasDepartment "D5" ;
+    ex:hasDivision "D5-3" ;
+    ex:hasOwnedBy "P-41" .
+
+
+
+courses:1004
+    ex:hasCourseCode "1004" ;
+    ex:hasCourseName "C-4" ;
+    ex:hasCredits "7.5" ;
+    ex:hasLevel "Second Cycle" ;
+    ex:hasDepartment "D7" ;
+    ex:hasDivision "D7-2" ;
+    ex:hasOwnedBy "P-61" .
+
+
+
+courses:1005
+    ex:hasCourseCode "1005" ;
+    ex:hasCourseName "C-5" ;
+    ex:hasCredits "7.5" ;
+    ex:hasLevel "Second Cycle" ;
+    ex:hasDepartment "D6" ;
+    ex:hasDivision "D6-2" ;
+    ex:hasOwnedBy "P-52" .
+
+
+
+courses:1006
+    ex:hasCourseCode "1006" ;
+    ex:hasCourseName "C-6" ;
+    ex:hasCredits "7.5" ;
+    ex:hasLevel "Second Cycle" ;
+    ex:hasDepartment "D8" ;
+    ex:hasDivision "D8-3" ;
+    ex:hasOwnedBy "P-73" .
+
+
+
+courses:1007
+    ex:hasCourseCode "1007" ;
+    ex:hasCourseName "C-7" ;
+    ex:hasCredits "7.5" ;
+    ex:hasLevel "First Cycle" ;
+    ex:hasDepartment "D7" ;
+    ex:hasDivision "D7-1" ;
+    ex:hasOwnedBy "P-61" .
+
+
+
+courses:1008
+    ex:hasCourseCode "1008" ;
+    ex:hasCourseName "C-8" ;
+    ex:hasCredits "7.5" ;
+    ex:hasLevel "First Cycle" ;
+    ex:hasDepartment "D5" ;
+    ex:hasDivision "D5-3" ;
+    ex:hasOwnedBy "P-41" .
+
+
+
+courses:1009
+    ex:hasCourseCode "1009" ;
+    ex:hasCourseName "C-9" ;
+    ex:hasCredits "7.5" ;
+    ex:hasLevel "Second Cycle" ;
+    ex:hasDepartment "D7" ;
+    ex:hasDivision "D7-1" ;
+    ex:hasOwnedBy "P-61" .
+
+
+
+courses:1010
+    ex:hasCourseCode "1010" ;
+    ex:hasCourseName "C-10" ;
+    ex:hasCredits "7.5" ;
+    ex:hasLevel "First Cycle" ;
+    ex:hasDepartment "D5" ;
+    ex:hasDivision "D5-5" ;
+    ex:hasOwnedBy "P-42" .
+
+
+
+courses:1011
+    ex:hasCourseCode "1011" ;
+    ex:hasCourseName "C-11" ;
+    ex:hasCredits "7.5" ;
+    ex:hasLevel "First Cycle" ;
+    ex:hasDepartment "D2" ;
+    ex:hasDivision "D2-3" ;
+    ex:hasOwnedBy "P-13" .
+
+
+
+courses:1012
+    ex:hasCourseCode "1012" ;
+    ex:hasCourseName "C-12" ;
+    ex:hasCredits "7.5" ;
+    ex:hasLevel "Second Cycle" ;
+    ex:hasDepartment "D5" ;
+    ex:hasDivision "D5-2" ;
+    ex:hasOwnedBy "P-41" .
+
+
+
+courses:1013
+    ex:hasCourseCode "1013" ;
+    ex:hasCourseName "C-13" ;
+    ex:hasCredits "7.5" ;
+    ex:hasLevel "Second Cycle" ;
+    ex:hasDepartment "D3" ;
+    ex:hasDivision "D3-3" ;
+    ex:hasOwnedBy "P-21" .
+
+
+
+courses:1014
+    ex:hasCourseCode "1014" ;
+    ex:hasCourseName "C-14" ;
+    ex:hasCredits "7.5" ;
+    ex:hasLevel "First Cycle" ;
+    ex:hasDepartment "D8" ;
+    ex:hasDivision "D8-5" ;
+    ex:hasOwnedBy "P-71" .
+
+
+
+courses:1015
+    ex:hasCourseCode "1015" ;
+    ex:hasCourseName "C-15" ;
+    ex:hasCredits "7.5" ;
+    ex:hasLevel "Second Cycle" ;
+    ex:hasDepartment "D5" ;
+    ex:hasDivision "D5-5" ;
+    ex:hasOwnedBy "P-41" .
+
+
+
+courses:1016
+    ex:hasCourseCode "1016" ;
+    ex:hasCourseName "C-16" ;
+    ex:hasCredits "7.5" ;
+    ex:hasLevel "First Cycle" ;
+    ex:hasDepartment "D2" ;
+    ex:hasDivision "D2-2" ;
+    ex:hasOwnedBy "P-11" .
+
+
+
+courses:1017
+    ex:hasCourseCode "1017" ;
+    ex:hasCourseName "C-17" ;
+    ex:hasCredits "7.5" ;
+    ex:hasLevel "First Cycle" ;
+    ex:hasDepartment "D7" ;
+    ex:hasDivision "D7-1" ;
+    ex:hasOwnedBy "P-61" .
+
+
+
+courses:1018
+    ex:hasCourseCode "1018" ;
+    ex:hasCourseName "C-18" ;
+    ex:hasCredits "7.5" ;
+    ex:hasLevel "First Cycle" ;
+    ex:hasDepartment "D2" ;
+    ex:hasDivision "D2-2" ;
+    ex:hasOwnedBy "P-13" .
+
+
+
+courses:1019
+    ex:hasCourseCode "1019" ;
+    ex:hasCourseName "C-19" ;
+    ex:hasCredits "7.5" ;
+    ex:hasLevel "First Cycle" ;
+    ex:hasDepartment "D8" ;
+    ex:hasDivision "D8-2" ;
+    ex:hasOwnedBy "P-72" .
+
+
+
+courses:1020
+    ex:hasCourseCode "1020" ;
+    ex:hasCourseName "C-20" ;
+    ex:hasCredits "7.5" ;
+    ex:hasLevel "First Cycle" ;
+    ex:hasDepartment "D7" ;
+    ex:hasDivision "D7-0" ;
+    ex:hasOwnedBy "P-61" .
+
+
+
+courses:1021
+    ex:hasCourseCode "1021" ;
+    ex:hasCourseName "C-21" ;
+    ex:hasCredits "7.5" ;
+    ex:hasLevel "First Cycle" ;
+    ex:hasDepartment "D8" ;
+    ex:hasDivision "D8-5" ;
+    ex:hasOwnedBy "P-72" .
+
+
+
+courses:1022
+    ex:hasCourseCode "1022" ;
+    ex:hasCourseName "C-22" ;
+    ex:hasCredits "7.5" ;
+    ex:hasLevel "First Cycle" ;
+    ex:hasDepartment "D5" ;
+    ex:hasDivision "D5-2" ;
+    ex:hasOwnedBy "P-42" .
+
+
+
+courses:1023
+    ex:hasCourseCode "1023" ;
+    ex:hasCourseName "C-23" ;
+    ex:hasCredits "7.5" ;
+    ex:hasLevel "First Cycle" ;
+    ex:hasDepartment "D8" ;
+    ex:hasDivision "D8-3" ;
+    ex:hasOwnedBy "P-71" .
+
+
+
+courses:1024
+    ex:hasCourseCode "1024" ;
+    ex:hasCourseName "C-24" ;
+    ex:hasCredits "7.5" ;
+    ex:hasLevel "Second Cycle" ;
+    ex:hasDepartment "D2" ;
+    ex:hasDivision "D2-1" ;
+    ex:hasOwnedBy "P-13" .
+
+
+
+courses:1025
+    ex:hasCourseCode "1025" ;
+    ex:hasCourseName "C-25" ;
+    ex:hasCredits "7.5" ;
+    ex:hasLevel "Second Cycle" ;
+    ex:hasDepartment "D1" ;
+    ex:hasDivision "D1-0" ;
+    ex:hasOwnedBy "P-01" .
+
+
+
+courses:1026
+    ex:hasCourseCode "1026" ;
+    ex:hasCourseName "C-26" ;
+    ex:hasCredits "7.5" ;
+    ex:hasLevel "Second Cycle" ;
+    ex:hasDepartment "D7" ;
+    ex:hasDivision "D7-5" ;
+    ex:hasOwnedBy "P-61" .
+
+
+
+courses:1027
+    ex:hasCourseCode "1027" ;
+    ex:hasCourseName "C-27" ;
+    ex:hasCredits "7.5" ;
+    ex:hasLevel "First Cycle" ;
+    ex:hasDepartment "D1" ;
+    ex:hasDivision "D1-5" ;
+    ex:hasOwnedBy "P-01" .
+
+
+
+courses:1028
+    ex:hasCourseCode "1028" ;
+    ex:hasCourseName "C-28" ;
+    ex:hasCredits "7.5" ;
+    ex:hasLevel "First Cycle" ;
+    ex:hasDepartment "D7" ;
+    ex:hasDivision "D7-2" ;
+    ex:hasOwnedBy "P-61" .
+
+
+
+courses:1029
+    ex:hasCourseCode "1029" ;
+    ex:hasCourseName "C-29" ;
+    ex:hasCredits "7.5" ;
+    ex:hasLevel "Second Cycle" ;
+    ex:hasDepartment "D8" ;
+    ex:hasDivision "D8-3" ;
+    ex:hasOwnedBy "P-72" .
+
+
+
+courses:1030
+    ex:hasCourseCode "1030" ;
+    ex:hasCourseName "C-30" ;
+    ex:hasCredits "7.5" ;
+    ex:hasLevel "Second Cycle" ;
+    ex:hasDepartment "D5" ;
+    ex:hasDivision "D5-5" ;
+    ex:hasOwnedBy "P-42" .
+
+
+
+courses:1031
+    ex:hasCourseCode "1031" ;
+    ex:hasCourseName "C-31" ;
+    ex:hasCredits "7.5" ;
+    ex:hasLevel "First Cycle" ;
+    ex:hasDepartment "D5" ;
+    ex:hasDivision "D5-4" ;
+    ex:hasOwnedBy "P-42" .
+
+
+
+courses:1032
+    ex:hasCourseCode "1032" ;
+    ex:hasCourseName "C-32" ;
+    ex:hasCredits "7.5" ;
+    ex:hasLevel "First Cycle" ;
+    ex:hasDepartment "D6" ;
+    ex:hasDivision "D6-0" ;
+    ex:hasOwnedBy "P-52" .
+
+
+
+courses:1033
+    ex:hasCourseCode "1033" ;
+    ex:hasCourseName "C-33" ;
+    ex:hasCredits "7.5" ;
+    ex:hasLevel "First Cycle" ;
+    ex:hasDepartment "D5" ;
+    ex:hasDivision "D5-0" ;
+    ex:hasOwnedBy "P-42" .
+
+
+
+courses:1034
+    ex:hasCourseCode "1034" ;
+    ex:hasCourseName "C-34" ;
+    ex:hasCredits "7.5" ;
+    ex:hasLevel "Second Cycle" ;
+    ex:hasDepartment "D2" ;
+    ex:hasDivision "D2-2" ;
+    ex:hasOwnedBy "P-14" .
+
+
+
+courses:1035
+    ex:hasCourseCode "1035" ;
+    ex:hasCourseName "C-35" ;
+    ex:hasCredits "7.5" ;
+    ex:hasLevel "First Cycle" ;
+    ex:hasDepartment "D4" ;
+    ex:hasDivision "D4-4" ;
+    ex:hasOwnedBy "P-33" .
+
+
+
+courses:1036
+    ex:hasCourseCode "1036" ;
+    ex:hasCourseName "C-36" ;
+    ex:hasCredits "7.5" ;
+    ex:hasLevel "First Cycle" ;
+    ex:hasDepartment "D8" ;
+    ex:hasDivision "D8-2" ;
+    ex:hasOwnedBy "P-73" .
+
+
+
+courses:1037
+    ex:hasCourseCode "1037" ;
+    ex:hasCourseName "C-37" ;
+    ex:hasCredits "7.5" ;
+    ex:hasLevel "First Cycle" ;
+    ex:hasDepartment "D3" ;
+    ex:hasDivision "D3-2" ;
+    ex:hasOwnedBy "P-21" .
+
+
+
+courses:1038
+    ex:hasCourseCode "1038" ;
+    ex:hasCourseName "C-38" ;
+    ex:hasCredits "7.5" ;
+    ex:hasLevel "Second Cycle" ;
+    ex:hasDepartment "D3" ;
+    ex:hasDivision "D3-4" ;
+    ex:hasOwnedBy "P-21" .
+
+
+
+courses:1039
+    ex:hasCourseCode "1039" ;
+    ex:hasCourseName "C-39" ;
+    ex:hasCredits "7.5" ;
+    ex:hasLevel "Second Cycle" ;
+    ex:hasDepartment "D8" ;
+    ex:hasDivision "D8-5" ;
+    ex:hasOwnedBy "P-74" .
+
+
+
+courses:1040
+    ex:hasCourseCode "1040" ;
+    ex:hasCourseName "C-40" ;
+    ex:hasCredits "7.5" ;
+    ex:hasLevel "Second Cycle" ;
+    ex:hasDepartment "D7" ;
+    ex:hasDivision "D7-1" ;
+    ex:hasOwnedBy "P-61" .
+
+
+
+courses:1041
+    ex:hasCourseCode "1041" ;
+    ex:hasCourseName "C-41" ;
+    ex:hasCredits "7.5" ;
+    ex:hasLevel "First Cycle" ;
+    ex:hasDepartment "D7" ;
+    ex:hasDivision "D7-1" ;
+    ex:hasOwnedBy "P-61" .
+
+
+
+courses:1042
+    ex:hasCourseCode "1042" ;
+    ex:hasCourseName "C-42" ;
+    ex:hasCredits "7.5" ;
+    ex:hasLevel "Second Cycle" ;
+    ex:hasDepartment "D5" ;
+    ex:hasDivision "D5-0" ;
+    ex:hasOwnedBy "P-42" .
+
+
+
+courses:1043
+    ex:hasCourseCode "1043" ;
+    ex:hasCourseName "C-43" ;
+    ex:hasCredits "7.5" ;
+    ex:hasLevel "Second Cycle" ;
+    ex:hasDepartment "D8" ;
+    ex:hasDivision "D8-2" ;
+    ex:hasOwnedBy "P-72" .
+
+
+
+courses:1044
+    ex:hasCourseCode "1044" ;
+    ex:hasCourseName "C-44" ;
+    ex:hasCredits "7.5" ;
+    ex:hasLevel "Second Cycle" ;
+    ex:hasDepartment "D7" ;
+    ex:hasDivision "D7-5" ;
+    ex:hasOwnedBy "P-61" .
+
+
+
+courses:1045
+    ex:hasCourseCode "1045" ;
+    ex:hasCourseName "C-45" ;
+    ex:hasCredits "7.5" ;
+    ex:hasLevel "First Cycle" ;
+    ex:hasDepartment "D2" ;
+    ex:hasDivision "D2-5" ;
+    ex:hasOwnedBy "P-13" .
+
+
+
+courses:1046
+    ex:hasCourseCode "1046" ;
+    ex:hasCourseName "C-46" ;
+    ex:hasCredits "7.5" ;
+    ex:hasLevel "First Cycle" ;
+    ex:hasDepartment "D5" ;
+    ex:hasDivision "D5-4" ;
+    ex:hasOwnedBy "P-41" .
+
+
+
+courses:1047
+    ex:hasCourseCode "1047" ;
+    ex:hasCourseName "C-47" ;
+    ex:hasCredits "7.5" ;
+    ex:hasLevel "First Cycle" ;
+    ex:hasDepartment "D2" ;
+    ex:hasDivision "D2-2" ;
+    ex:hasOwnedBy "P-12" .
+
+
+
+courses:1048
+    ex:hasCourseCode "1048" ;
+    ex:hasCourseName "C-48" ;
+    ex:hasCredits "7.5" ;
+    ex:hasLevel "First Cycle" ;
+    ex:hasDepartment "D6" ;
+    ex:hasDivision "D6-5" ;
+    ex:hasOwnedBy "P-54" .
+
+
+
+courses:1049
+    ex:hasCourseCode "1049" ;
+    ex:hasCourseName "C-49" ;
+    ex:hasCredits "7.5" ;
+    ex:hasLevel "First Cycle" ;
+    ex:hasDepartment "D5" ;
+    ex:hasDivision "D5-2" ;
+    ex:hasOwnedBy "P-41" .
+
+
+
+courses:1050
+    ex:hasCourseCode "1050" ;
+    ex:hasCourseName "C-50" ;
+    ex:hasCredits "7.5" ;
+    ex:hasLevel "First Cycle" ;
+    ex:hasDepartment "D1" ;
+    ex:hasDivision "D1-1" ;
+    ex:hasOwnedBy "P-01" .
+
+
+
+courses:1051
+    ex:hasCourseCode "1051" ;
+    ex:hasCourseName "C-51" ;
+    ex:hasCredits "7.5" ;
+    ex:hasLevel "First Cycle" ;
+    ex:hasDepartment "D2" ;
+    ex:hasDivision "D2-0" ;
+    ex:hasOwnedBy "P-14" .
+
+
+
+courses:1052
+    ex:hasCourseCode "1052" ;
+    ex:hasCourseName "C-52" ;
+    ex:hasCredits "7.5" ;
+    ex:hasLevel "Second Cycle" ;
+    ex:hasDepartment "D1" ;
+    ex:hasDivision "D1-0" ;
+    ex:hasOwnedBy "P-01" .
+
+
+
+courses:1053
+    ex:hasCourseCode "1053" ;
+    ex:hasCourseName "C-53" ;
+    ex:hasCredits "7.5" ;
+    ex:hasLevel "Second Cycle" ;
+    ex:hasDepartment "D4" ;
+    ex:hasDivision "D4-1" ;
+    ex:hasOwnedBy "P-33" .
+
+
+
+courses:1054
+    ex:hasCourseCode "1054" ;
+    ex:hasCourseName "C-54" ;
+    ex:hasCredits "7.5" ;
+    ex:hasLevel "Second Cycle" ;
+    ex:hasDepartment "D7" ;
+    ex:hasDivision "D7-1" ;
+    ex:hasOwnedBy "P-61" .
+
+
+
+courses:1055
+    ex:hasCourseCode "1055" ;
+    ex:hasCourseName "C-55" ;
+    ex:hasCredits "7.5" ;
+    ex:hasLevel "First Cycle" ;
+    ex:hasDepartment "D1" ;
+    ex:hasDivision "D1-0" ;
+    ex:hasOwnedBy "P-01" .
+
+
+
+courses:1056
+    ex:hasCourseCode "1056" ;
+    ex:hasCourseName "C-56" ;
+    ex:hasCredits "7.5" ;
+    ex:hasLevel "First Cycle" ;
+    ex:hasDepartment "D1" ;
+    ex:hasDivision "D1-1" ;
+    ex:hasOwnedBy "P-01" .
+
+
+
+courses:1057
+    ex:hasCourseCode "1057" ;
+    ex:hasCourseName "C-57" ;
+    ex:hasCredits "7.5" ;
+    ex:hasLevel "First Cycle" ;
+    ex:hasDepartment "D7" ;
+    ex:hasDivision "D7-2" ;
+    ex:hasOwnedBy "P-61" .
+
+
+
+courses:1058
+    ex:hasCourseCode "1058" ;
+    ex:hasCourseName "C-58" ;
+    ex:hasCredits "7.5" ;
+    ex:hasLevel "First Cycle" ;
+    ex:hasDepartment "D7" ;
+    ex:hasDivision "D7-3" ;
+    ex:hasOwnedBy "P-61" .
+
+
+
+courses:1059
+    ex:hasCourseCode "1059" ;
+    ex:hasCourseName "C-59" ;
+    ex:hasCredits "7.5" ;
+    ex:hasLevel "First Cycle" ;
+    ex:hasDepartment "D3" ;
+    ex:hasDivision "D3-4" ;
+    ex:hasOwnedBy "P-21" .
+
+
+
+courses:1060
+    ex:hasCourseCode "1060" ;
+    ex:hasCourseName "C-60" ;
+    ex:hasCredits "7.5" ;
+    ex:hasLevel "Second Cycle" ;
+    ex:hasDepartment "D5" ;
+    ex:hasDivision "D5-1" ;
+    ex:hasOwnedBy "P-41" .
+
+
+
+courses:1061
+    ex:hasCourseCode "1061" ;
+    ex:hasCourseName "C-61" ;
+    ex:hasCredits "7.5" ;
+    ex:hasLevel "First Cycle" ;
+    ex:hasDepartment "D3" ;
+    ex:hasDivision "D3-4" ;
+    ex:hasOwnedBy "P-21" .
+
+
+
+courses:1062
+    ex:hasCourseCode "1062" ;
+    ex:hasCourseName "C-62" ;
+    ex:hasCredits "7.5" ;
+    ex:hasLevel "Second Cycle" ;
+    ex:hasDepartment "D1" ;
+    ex:hasDivision "D1-1" ;
+    ex:hasOwnedBy "P-01" .
+
+
+
+courses:1063
+    ex:hasCourseCode "1063" ;
+    ex:hasCourseName "C-63" ;
+    ex:hasCredits "7.5" ;
+    ex:hasLevel "Second Cycle" ;
+    ex:hasDepartment "D4" ;
+    ex:hasDivision "D4-1" ;
+    ex:hasOwnedBy "P-33" .
+
+
+
+courses:1064
+    ex:hasCourseCode "1064" ;
+    ex:hasCourseName "C-64" ;
+    ex:hasCredits "7.5" ;
+    ex:hasLevel "First Cycle" ;
+    ex:hasDepartment "D5" ;
+    ex:hasDivision "D5-5" ;
+    ex:hasOwnedBy "P-41" .
+
+
+
+courses:1065
+    ex:hasCourseCode "1065" ;
+    ex:hasCourseName "C-65" ;
+    ex:hasCredits "7.5" ;
+    ex:hasLevel "Second Cycle" ;
+    ex:hasDepartment "D6" ;
+    ex:hasDivision "D6-5" ;
+    ex:hasOwnedBy "P-53" .
+
+
+
+courses:1066
+    ex:hasCourseCode "1066" ;
+    ex:hasCourseName "C-66" ;
+    ex:hasCredits "7.5" ;
+    ex:hasLevel "Second Cycle" ;
+    ex:hasDepartment "D1" ;
+    ex:hasDivision "D1-2" ;
+    ex:hasOwnedBy "P-01" .
+
+
+
+courses:1067
+    ex:hasCourseCode "1067" ;
+    ex:hasCourseName "C-67" ;
+    ex:hasCredits "7.5" ;
+    ex:hasLevel "Second Cycle" ;
+    ex:hasDepartment "D2" ;
+    ex:hasDivision "D2-3" ;
+    ex:hasOwnedBy "P-11" .
+
+
+
+courses:1068
+    ex:hasCourseCode "1068" ;
+    ex:hasCourseName "C-68" ;
+    ex:hasCredits "7.5" ;
+    ex:hasLevel "First Cycle" ;
+    ex:hasDepartment "D8" ;
+    ex:hasDivision "D8-3" ;
+    ex:hasOwnedBy "P-74" .
+
+
+
+courses:1069
+    ex:hasCourseCode "1069" ;
+    ex:hasCourseName "C-69" ;
+    ex:hasCredits "7.5" ;
+    ex:hasLevel "Second Cycle" ;
+    ex:hasDepartment "D8" ;
+    ex:hasDivision "D8-4" ;
+    ex:hasOwnedBy "P-73" .
+
+
+
+courses:1070
+    ex:hasCourseCode "1070" ;
+    ex:hasCourseName "C-70" ;
+    ex:hasCredits "7.5" ;
+    ex:hasLevel "First Cycle" ;
+    ex:hasDepartment "D8" ;
+    ex:hasDivision "D8-2" ;
+    ex:hasOwnedBy "P-71" .
+
+
+
+courses:1071
+    ex:hasCourseCode "1071" ;
+    ex:hasCourseName "C-71" ;
+    ex:hasCredits "7.5" ;
+    ex:hasLevel "Second Cycle" ;
+    ex:hasDepartment "D8" ;
+    ex:hasDivision "D8-5" ;
+    ex:hasOwnedBy "P-73" .
+
+
+
+courses:1072
+    ex:hasCourseCode "1072" ;
+    ex:hasCourseName "C-72" ;
+    ex:hasCredits "7.5" ;
+    ex:hasLevel "First Cycle" ;
+    ex:hasDepartment "D8" ;
+    ex:hasDivision "D8-3" ;
+    ex:hasOwnedBy "P-71" .
+
+
+
+courses:1073
+    ex:hasCourseCode "1073" ;
+    ex:hasCourseName "C-73" ;
+    ex:hasCredits "7.5" ;
+    ex:hasLevel "Second Cycle" ;
+    ex:hasDepartment "D2" ;
+    ex:hasDivision "D2-3" ;
+    ex:hasOwnedBy "P-14" .
+
+
+
+courses:1074
+    ex:hasCourseCode "1074" ;
+    ex:hasCourseName "C-74" ;
+    ex:hasCredits "7.5" ;
+    ex:hasLevel "Second Cycle" ;
+    ex:hasDepartment "D2" ;
+    ex:hasDivision "D2-1" ;
+    ex:hasOwnedBy "P-14" .
+
+
+
+courses:1075
+    ex:hasCourseCode "1075" ;
+    ex:hasCourseName "C-75" ;
+    ex:hasCredits "7.5" ;
+    ex:hasLevel "First Cycle" ;
+    ex:hasDepartment "D3" ;
+    ex:hasDivision "D3-4" ;
+    ex:hasOwnedBy "P-21" .
+
+
+
+courses:1076
+    ex:hasCourseCode "1076" ;
+    ex:hasCourseName "C-76" ;
+    ex:hasCredits "7.5" ;
+    ex:hasLevel "First Cycle" ;
+    ex:hasDepartment "D7" ;
+    ex:hasDivision "D7-1" ;
+    ex:hasOwnedBy "P-61" .
+
+
+
+courses:1077
+    ex:hasCourseCode "1077" ;
+    ex:hasCourseName "C-77" ;
+    ex:hasCredits "7.5" ;
+    ex:hasLevel "First Cycle" ;
+    ex:hasDepartment "D6" ;
+    ex:hasDivision "D6-1" ;
+    ex:hasOwnedBy "P-53" .
+
+
+
+courses:1078
+    ex:hasCourseCode "1078" ;
+    ex:hasCourseName "C-78" ;
+    ex:hasCredits "7.5" ;
+    ex:hasLevel "Second Cycle" ;
+    ex:hasDepartment "D4" ;
+    ex:hasDivision "D4-1" ;
+    ex:hasOwnedBy "P-31" .
+
+
+
+courses:1079
+    ex:hasCourseCode "1079" ;
+    ex:hasCourseName "C-79" ;
+    ex:hasCredits "7.5" ;
+    ex:hasLevel "First Cycle" ;
+    ex:hasDepartment "D2" ;
+    ex:hasDivision "D2-2" ;
+    ex:hasOwnedBy "P-12" .
+
+
+
+courses:1080
+    ex:hasCourseCode "1080" ;
+    ex:hasCourseName "C-80" ;
+    ex:hasCredits "7.5" ;
+    ex:hasLevel "Second Cycle" ;
+    ex:hasDepartment "D5" ;
+    ex:hasDivision "D5-1" ;
+    ex:hasOwnedBy "P-42" .
+
+
+
+courses:1081
+    ex:hasCourseCode "1081" ;
+    ex:hasCourseName "C-81" ;
+    ex:hasCredits "7.5" ;
+    ex:hasLevel "Second Cycle" ;
+    ex:hasDepartment "D6" ;
+    ex:hasDivision "D6-0" ;
+    ex:hasOwnedBy "P-52" .
+
+
+
+courses:1082
+    ex:hasCourseCode "1082" ;
+    ex:hasCourseName "C-82" ;
+    ex:hasCredits "7.5" ;
+    ex:hasLevel "Second Cycle" ;
+    ex:hasDepartment "D4" ;
+    ex:hasDivision "D4-3" ;
+    ex:hasOwnedBy "P-32" .
+
+
+
+courses:1083
+    ex:hasCourseCode "1083" ;
+    ex:hasCourseName "C-83" ;
+    ex:hasCredits "7.5" ;
+    ex:hasLevel "Second Cycle" ;
+    ex:hasDepartment "D3" ;
+    ex:hasDivision "D3-2" ;
+    ex:hasOwnedBy "P-21" .
+
+
+
+courses:1084
+    ex:hasCourseCode "1084" ;
+    ex:hasCourseName "C-84" ;
+    ex:hasCredits "7.5" ;
+    ex:hasLevel "Second Cycle" ;
+    ex:hasDepartment "D7" ;
+    ex:hasDivision "D7-1" ;
+    ex:hasOwnedBy "P-61" .
+
+
+
+courses:1085
+    ex:hasCourseCode "1085" ;
+    ex:hasCourseName "C-85" ;
+    ex:hasCredits "7.5" ;
+    ex:hasLevel "Second Cycle" ;
+    ex:hasDepartment "D4" ;
+    ex:hasDivision "D4-1" ;
+    ex:hasOwnedBy "P-33" .
+
+
+
+courses:1086
+    ex:hasCourseCode "1086" ;
+    ex:hasCourseName "C-86" ;
+    ex:hasCredits "7.5" ;
+    ex:hasLevel "First Cycle" ;
+    ex:hasDepartment "D6" ;
+    ex:hasDivision "D6-4" ;
+    ex:hasOwnedBy "P-51" .
+
+
+
+courses:1087
+    ex:hasCourseCode "1087" ;
+    ex:hasCourseName "C-87" ;
+    ex:hasCredits "7.5" ;
+    ex:hasLevel "Second Cycle" ;
+    ex:hasDepartment "D4" ;
+    ex:hasDivision "D4-1" ;
+    ex:hasOwnedBy "P-32" .
+
+
+
+courses:1088
+    ex:hasCourseCode "1088" ;
+    ex:hasCourseName "C-88" ;
+    ex:hasCredits "7.5" ;
+    ex:hasLevel "First Cycle" ;
+    ex:hasDepartment "D1" ;
+    ex:hasDivision "D1-0" ;
+    ex:hasOwnedBy "P-01" .
+
+
+
+courses:1089
+    ex:hasCourseCode "1089" ;
+    ex:hasCourseName "C-89" ;
+    ex:hasCredits "7.5" ;
+    ex:hasLevel "Second Cycle" ;
+    ex:hasDepartment "D1" ;
+    ex:hasDivision "D1-4" ;
+    ex:hasOwnedBy "P-01" .
+
+
+
+courses:1090
+    ex:hasCourseCode "1090" ;
+    ex:hasCourseName "C-90" ;
+    ex:hasCredits "7.5" ;
+    ex:hasLevel "Second Cycle" ;
+    ex:hasDepartment "D6" ;
+    ex:hasDivision "D6-2" ;
+    ex:hasOwnedBy "P-54" .
+
+
+
+courses:1091
+    ex:hasCourseCode "1091" ;
+    ex:hasCourseName "C-91" ;
+    ex:hasCredits "7.5" ;
+    ex:hasLevel "First Cycle" ;
+    ex:hasDepartment "D3" ;
+    ex:hasDivision "D3-1" ;
+    ex:hasOwnedBy "P-21" .
+
+
+
+courses:1092
+    ex:hasCourseCode "1092" ;
+    ex:hasCourseName "C-92" ;
+    ex:hasCredits "7.5" ;
+    ex:hasLevel "First Cycle" ;
+    ex:hasDepartment "D7" ;
+    ex:hasDivision "D7-3" ;
+    ex:hasOwnedBy "P-61" .
+
+
+
+courses:1093
+    ex:hasCourseCode "1093" ;
+    ex:hasCourseName "C-93" ;
+    ex:hasCredits "7.5" ;
+    ex:hasLevel "Second Cycle" ;
+    ex:hasDepartment "D7" ;
+    ex:hasDivision "D7-0" ;
+    ex:hasOwnedBy "P-61" .
+
+
+
+courses:1094
+    ex:hasCourseCode "1094" ;
+    ex:hasCourseName "C-94" ;
+    ex:hasCredits "7.5" ;
+    ex:hasLevel "Second Cycle" ;
+    ex:hasDepartment "D5" ;
+    ex:hasDivision "D5-4" ;
+    ex:hasOwnedBy "P-41" .
+
+
+
+courses:1095
+    ex:hasCourseCode "1095" ;
+    ex:hasCourseName "C-95" ;
+    ex:hasCredits "7.5" ;
+    ex:hasLevel "First Cycle" ;
+    ex:hasDepartment "D2" ;
+    ex:hasDivision "D2-1" ;
+    ex:hasOwnedBy "P-11" .
+
+
+
+courses:1096
+    ex:hasCourseCode "1096" ;
+    ex:hasCourseName "C-96" ;
+    ex:hasCredits "7.5" ;
+    ex:hasLevel "First Cycle" ;
+    ex:hasDepartment "D4" ;
+    ex:hasDivision "D4-3" ;
+    ex:hasOwnedBy "P-34" .
+
+
+
+courses:1097
+    ex:hasCourseCode "1097" ;
+    ex:hasCourseName "C-97" ;
+    ex:hasCredits "7.5" ;
+    ex:hasLevel "First Cycle" ;
+    ex:hasDepartment "D4" ;
+    ex:hasDivision "D4-3" ;
+    ex:hasOwnedBy "P-32" .
+
+
+
+courses:1098
+    ex:hasCourseCode "1098" ;
+    ex:hasCourseName "C-98" ;
+    ex:hasCredits "7.5" ;
+    ex:hasLevel "Second Cycle" ;
+    ex:hasDepartment "D1" ;
+    ex:hasDivision "D1-3" ;
+    ex:hasOwnedBy "P-01" .
+
+
+
+courses:1099
+    ex:hasCourseCode "1099" ;
+    ex:hasCourseName "C-99" ;
+    ex:hasCredits "7.5" ;
+    ex:hasLevel "Second Cycle" ;
+    ex:hasDepartment "D4" ;
+    ex:hasDivision "D4-5" ;
+    ex:hasOwnedBy "P-32" .
+
+
+
+courses:1100
+    ex:hasCourseCode "1100" ;
+    ex:hasCourseName "C-100" ;
+    ex:hasCredits "7.5" ;
+    ex:hasLevel "First Cycle" ;
+    ex:hasDepartment "D3" ;
+    ex:hasDivision "D3-4" ;
+    ex:hasOwnedBy "P-21" .
+
+
+
+courses:1101
+    ex:hasCourseCode "1101" ;
+    ex:hasCourseName "C-101" ;
+    ex:hasCredits "7.5" ;
+    ex:hasLevel "Second Cycle" ;
+    ex:hasDepartment "D5" ;
+    ex:hasDivision "D5-0" ;
+    ex:hasOwnedBy "P-42" .
+
+
+
+courses:1102
+    ex:hasCourseCode "1102" ;
+    ex:hasCourseName "C-102" ;
+    ex:hasCredits "7.5" ;
+    ex:hasLevel "First Cycle" ;
+    ex:hasDepartment "D5" ;
+    ex:hasDivision "D5-3" ;
+    ex:hasOwnedBy "P-41" .
+
+
+
+courses:1103
+    ex:hasCourseCode "1103" ;
+    ex:hasCourseName "C-103" ;
+    ex:hasCredits "7.5" ;
+    ex:hasLevel "First Cycle" ;
+    ex:hasDepartment "D5" ;
+    ex:hasDivision "D5-3" ;
+    ex:hasOwnedBy "P-41" .
+
+
+
+courses:1104
+    ex:hasCourseCode "1104" ;
+    ex:hasCourseName "C-104" ;
+    ex:hasCredits "7.5" ;
+    ex:hasLevel "First Cycle" ;
+    ex:hasDepartment "D3" ;
+    ex:hasDivision "D3-4" ;
+    ex:hasOwnedBy "P-21" .
+
+
+
+courses:1105
+    ex:hasCourseCode "1105" ;
+    ex:hasCourseName "C-105" ;
+    ex:hasCredits "7.5" ;
+    ex:hasLevel "First Cycle" ;
+    ex:hasDepartment "D4" ;
+    ex:hasDivision "D4-3" ;
+    ex:hasOwnedBy "P-32" .
+
+
+
+courses:1106
+    ex:hasCourseCode "1106" ;
+    ex:hasCourseName "C-106" ;
+    ex:hasCredits "7.5" ;
+    ex:hasLevel "First Cycle" ;
+    ex:hasDepartment "D7" ;
+    ex:hasDivision "D7-1" ;
+    ex:hasOwnedBy "P-61" .
+
+
+
+courses:1107
+    ex:hasCourseCode "1107" ;
+    ex:hasCourseName "C-107" ;
+    ex:hasCredits "7.5" ;
+    ex:hasLevel "First Cycle" ;
+    ex:hasDepartment "D4" ;
+    ex:hasDivision "D4-3" ;
+    ex:hasOwnedBy "P-33" .
+
+
+
+courses:1108
+    ex:hasCourseCode "1108" ;
+    ex:hasCourseName "C-108" ;
+    ex:hasCredits "7.5" ;
+    ex:hasLevel "Second Cycle" ;
+    ex:hasDepartment "D2" ;
+    ex:hasDivision "D2-4" ;
+    ex:hasOwnedBy "P-12" .
+
+
+
+courses:1109
+    ex:hasCourseCode "1109" ;
+    ex:hasCourseName "C-109" ;
+    ex:hasCredits "7.5" ;
+    ex:hasLevel "First Cycle" ;
+    ex:hasDepartment "D1" ;
+    ex:hasDivision "D1-0" ;
+    ex:hasOwnedBy "P-01" .
+
+
+
+courses:1110
+    ex:hasCourseCode "1110" ;
+    ex:hasCourseName "C-110" ;
+    ex:hasCredits "7.5" ;
+    ex:hasLevel "Second Cycle" ;
+    ex:hasDepartment "D4" ;
+    ex:hasDivision "D4-4" ;
+    ex:hasOwnedBy "P-34" .
+
+
+
+courses:1111
+    ex:hasCourseCode "1111" ;
+    ex:hasCourseName "C-111" ;
+    ex:hasCredits "7.5" ;
+    ex:hasLevel "Second Cycle" ;
+    ex:hasDepartment "D6" ;
+    ex:hasDivision "D6-3" ;
+    ex:hasOwnedBy "P-54" .
+
+
+
+courses:1112
+    ex:hasCourseCode "1112" ;
+    ex:hasCourseName "C-112" ;
+    ex:hasCredits "7.5" ;
+    ex:hasLevel "Second Cycle" ;
+    ex:hasDepartment "D8" ;
+    ex:hasDivision "D8-4" ;
+    ex:hasOwnedBy "P-71" .
+
+
+
+courses:1113
+    ex:hasCourseCode "1113" ;
+    ex:hasCourseName "C-113" ;
+    ex:hasCredits "7.5" ;
+    ex:hasLevel "Second Cycle" ;
+    ex:hasDepartment "D1" ;
+    ex:hasDivision "D1-3" ;
+    ex:hasOwnedBy "P-01" .
+
+
+
+courses:1114
+    ex:hasCourseCode "1114" ;
+    ex:hasCourseName "C-114" ;
+    ex:hasCredits "7.5" ;
+    ex:hasLevel "First Cycle" ;
+    ex:hasDepartment "D6" ;
+    ex:hasDivision "D6-5" ;
+    ex:hasOwnedBy "P-51" .
+
+
+
+courses:1115
+    ex:hasCourseCode "1115" ;
+    ex:hasCourseName "C-115" ;
+    ex:hasCredits "7.5" ;
+    ex:hasLevel "First Cycle" ;
+    ex:hasDepartment "D3" ;
+    ex:hasDivision "D3-2" ;
+    ex:hasOwnedBy "P-21" .
+
+
+
+courses:1116
+    ex:hasCourseCode "1116" ;
+    ex:hasCourseName "C-116" ;
+    ex:hasCredits "7.5" ;
+    ex:hasLevel "Second Cycle" ;
+    ex:hasDepartment "D6" ;
+    ex:hasDivision "D6-1" ;
+    ex:hasOwnedBy "P-52" .
+
+
+
+courses:1117
+    ex:hasCourseCode "1117" ;
+    ex:hasCourseName "C-117" ;
+    ex:hasCredits "7.5" ;
+    ex:hasLevel "Second Cycle" ;
+    ex:hasDepartment "D8" ;
+    ex:hasDivision "D8-0" ;
+    ex:hasOwnedBy "P-72" .
+
+
+
+courses:1118
+    ex:hasCourseCode "1118" ;
+    ex:hasCourseName "C-118" ;
+    ex:hasCredits "7.5" ;
+    ex:hasLevel "First Cycle" ;
+    ex:hasDepartment "D5" ;
+    ex:hasDivision "D5-3" ;
+    ex:hasOwnedBy "P-42" .
+
+
+
+courses:1119
+    ex:hasCourseCode "1119" ;
+    ex:hasCourseName "C-119" ;
+    ex:hasCredits "7.5" ;
+    ex:hasLevel "Second Cycle" ;
+    ex:hasDepartment "D3" ;
+    ex:hasDivision "D3-4" ;
+    ex:hasOwnedBy "P-21" .
+
+
+
+courses:1120
+    ex:hasCourseCode "1120" ;
+    ex:hasCourseName "C-120" ;
+    ex:hasCredits "7.5" ;
+    ex:hasLevel "First Cycle" ;
+    ex:hasDepartment "D3" ;
+    ex:hasDivision "D3-0" ;
+    ex:hasOwnedBy "P-21" .
+
+
+
+courses:1121
+    ex:hasCourseCode "1121" ;
+    ex:hasCourseName "C-121" ;
+    ex:hasCredits "7.5" ;
+    ex:hasLevel "Second Cycle" ;
+    ex:hasDepartment "D4" ;
+    ex:hasDivision "D4-4" ;
+    ex:hasOwnedBy "P-32" .
+
+
+
+courses:1122
+    ex:hasCourseCode "1122" ;
+    ex:hasCourseName "C-122" ;
+    ex:hasCredits "7.5" ;
+    ex:hasLevel "Second Cycle" ;
+    ex:hasDepartment "D3" ;
+    ex:hasDivision "D3-2" ;
+    ex:hasOwnedBy "P-21" .
+
+
+
+courses:1123
+    ex:hasCourseCode "1123" ;
+    ex:hasCourseName "C-123" ;
+    ex:hasCredits "7.5" ;
+    ex:hasLevel "First Cycle" ;
+    ex:hasDepartment "D2" ;
+    ex:hasDivision "D2-1" ;
+    ex:hasOwnedBy "P-11" .
+
+
+
+courses:1124
+    ex:hasCourseCode "1124" ;
+    ex:hasCourseName "C-124" ;
+    ex:hasCredits "7.5" ;
+    ex:hasLevel "First Cycle" ;
+    ex:hasDepartment "D8" ;
+    ex:hasDivision "D8-2" ;
+    ex:hasOwnedBy "P-73" .
+
+
+
+courses:1125
+    ex:hasCourseCode "1125" ;
+    ex:hasCourseName "C-125" ;
+    ex:hasCredits "7.5" ;
+    ex:hasLevel "First Cycle" ;
+    ex:hasDepartment "D5" ;
+    ex:hasDivision "D5-3" ;
+    ex:hasOwnedBy "P-42" .
+
+
+
+courses:1126
+    ex:hasCourseCode "1126" ;
+    ex:hasCourseName "C-126" ;
+    ex:hasCredits "7.5" ;
+    ex:hasLevel "First Cycle" ;
+    ex:hasDepartment "D4" ;
+    ex:hasDivision "D4-2" ;
+    ex:hasOwnedBy "P-32" .
+
+
+
+courses:1127
+    ex:hasCourseCode "1127" ;
+    ex:hasCourseName "C-127" ;
+    ex:hasCredits "7.5" ;
+    ex:hasLevel "Second Cycle" ;
+    ex:hasDepartment "D5" ;
+    ex:hasDivision "D5-1" ;
+    ex:hasOwnedBy "P-41" .
+
+
+
+courses:1128
+    ex:hasCourseCode "1128" ;
+    ex:hasCourseName "C-128" ;
+    ex:hasCredits "7.5" ;
+    ex:hasLevel "Second Cycle" ;
+    ex:hasDepartment "D4" ;
+    ex:hasDivision "D4-1" ;
+    ex:hasOwnedBy "P-31" .
+
+
+
+courses:1129
+    ex:hasCourseCode "1129" ;
+    ex:hasCourseName "C-129" ;
+    ex:hasCredits "7.5" ;
+    ex:hasLevel "First Cycle" ;
+    ex:hasDepartment "D5" ;
+    ex:hasDivision "D5-2" ;
+    ex:hasOwnedBy "P-41" .
+
+
+
+courses:1130
+    ex:hasCourseCode "1130" ;
+    ex:hasCourseName "C-130" ;
+    ex:hasCredits "7.5" ;
+    ex:hasLevel "Second Cycle" ;
+    ex:hasDepartment "D8" ;
+    ex:hasDivision "D8-5" ;
+    ex:hasOwnedBy "P-74" .
+
+
+
+courses:1131
+    ex:hasCourseCode "1131" ;
+    ex:hasCourseName "C-131" ;
+    ex:hasCredits "7.5" ;
+    ex:hasLevel "First Cycle" ;
+    ex:hasDepartment "D8" ;
+    ex:hasDivision "D8-3" ;
+    ex:hasOwnedBy "P-74" .
+
+
+
+courses:1132
+    ex:hasCourseCode "1132" ;
+    ex:hasCourseName "C-132" ;
+    ex:hasCredits "7.5" ;
+    ex:hasLevel "Second Cycle" ;
+    ex:hasDepartment "D1" ;
+    ex:hasDivision "D1-1" ;
+    ex:hasOwnedBy "P-01" .
+
+
+
+courses:1133
+    ex:hasCourseCode "1133" ;
+    ex:hasCourseName "C-133" ;
+    ex:hasCredits "7.5" ;
+    ex:hasLevel "Second Cycle" ;
+    ex:hasDepartment "D8" ;
+    ex:hasDivision "D8-1" ;
+    ex:hasOwnedBy "P-71" .
+
+
+
+courses:1134
+    ex:hasCourseCode "1134" ;
+    ex:hasCourseName "C-134" ;
+    ex:hasCredits "7.5" ;
+    ex:hasLevel "First Cycle" ;
+    ex:hasDepartment "D6" ;
+    ex:hasDivision "D6-1" ;
+    ex:hasOwnedBy "P-51" .
+
+
+
+courses:1135
+    ex:hasCourseCode "1135" ;
+    ex:hasCourseName "C-135" ;
+    ex:hasCredits "7.5" ;
+    ex:hasLevel "First Cycle" ;
+    ex:hasDepartment "D6" ;
+    ex:hasDivision "D6-2" ;
+    ex:hasOwnedBy "P-51" .
+
+
+
+courses:1136
+    ex:hasCourseCode "1136" ;
+    ex:hasCourseName "C-136" ;
+    ex:hasCredits "7.5" ;
+    ex:hasLevel "Second Cycle" ;
+    ex:hasDepartment "D2" ;
+    ex:hasDivision "D2-5" ;
+    ex:hasOwnedBy "P-14" .
+
+
+
+courses:1137
+    ex:hasCourseCode "1137" ;
+    ex:hasCourseName "C-137" ;
+    ex:hasCredits "7.5" ;
+    ex:hasLevel "Second Cycle" ;
+    ex:hasDepartment "D1" ;
+    ex:hasDivision "D1-2" ;
+    ex:hasOwnedBy "P-01" .
+
+
+
+courses:1138
+    ex:hasCourseCode "1138" ;
+    ex:hasCourseName "C-138" ;
+    ex:hasCredits "7.5" ;
+    ex:hasLevel "Second Cycle" ;
+    ex:hasDepartment "D6" ;
+    ex:hasDivision "D6-4" ;
+    ex:hasOwnedBy "P-51" .
+
+
+
+courses:1139
+    ex:hasCourseCode "1139" ;
+    ex:hasCourseName "C-139" ;
+    ex:hasCredits "7.5" ;
+    ex:hasLevel "Second Cycle" ;
+    ex:hasDepartment "D7" ;
+    ex:hasDivision "D7-4" ;
+    ex:hasOwnedBy "P-61" .
+
+
+
+courses:1140
+    ex:hasCourseCode "1140" ;
+    ex:hasCourseName "C-140" ;
+    ex:hasCredits "7.5" ;
+    ex:hasLevel "First Cycle" ;
+    ex:hasDepartment "D6" ;
+    ex:hasDivision "D6-0" ;
+    ex:hasOwnedBy "P-54" .
+
+
+
+courses:1141
+    ex:hasCourseCode "1141" ;
+    ex:hasCourseName "C-141" ;
+    ex:hasCredits "7.5" ;
+    ex:hasLevel "Second Cycle" ;
+    ex:hasDepartment "D6" ;
+    ex:hasDivision "D6-1" ;
+    ex:hasOwnedBy "P-51" .
+
+
+
+courses:1142
+    ex:hasCourseCode "1142" ;
+    ex:hasCourseName "C-142" ;
+    ex:hasCredits "7.5" ;
+    ex:hasLevel "First Cycle" ;
+    ex:hasDepartment "D7" ;
+    ex:hasDivision "D7-5" ;
+    ex:hasOwnedBy "P-61" .
+
+
+
+courses:1143
+    ex:hasCourseCode "1143" ;
+    ex:hasCourseName "C-143" ;
+    ex:hasCredits "7.5" ;
+    ex:hasLevel "First Cycle" ;
+    ex:hasDepartment "D7" ;
+    ex:hasDivision "D7-5" ;
+    ex:hasOwnedBy "P-61" .
+
+
+
+courses:1144
+    ex:hasCourseCode "1144" ;
+    ex:hasCourseName "C-144" ;
+    ex:hasCredits "7.5" ;
+    ex:hasLevel "Second Cycle" ;
+    ex:hasDepartment "D8" ;
+    ex:hasDivision "D8-1" ;
+    ex:hasOwnedBy "P-71" .
+
+
+
+courses:1145
+    ex:hasCourseCode "1145" ;
+    ex:hasCourseName "C-145" ;
+    ex:hasCredits "7.5" ;
+    ex:hasLevel "Second Cycle" ;
+    ex:hasDepartment "D7" ;
+    ex:hasDivision "D7-4" ;
+    ex:hasOwnedBy "P-61" .
+
+
+
+courses:1146
+    ex:hasCourseCode "1146" ;
+    ex:hasCourseName "C-146" ;
+    ex:hasCredits "7.5" ;
+    ex:hasLevel "First Cycle" ;
+    ex:hasDepartment "D3" ;
+    ex:hasDivision "D3-1" ;
+    ex:hasOwnedBy "P-21" .
+
+
+
+courses:1147
+    ex:hasCourseCode "1147" ;
+    ex:hasCourseName "C-147" ;
+    ex:hasCredits "7.5" ;
+    ex:hasLevel "First Cycle" ;
+    ex:hasDepartment "D7" ;
+    ex:hasDivision "D7-1" ;
+    ex:hasOwnedBy "P-61" .
+
+
+
+courses:1148
+    ex:hasCourseCode "1148" ;
+    ex:hasCourseName "C-148" ;
+    ex:hasCredits "7.5" ;
+    ex:hasLevel "Second Cycle" ;
+    ex:hasDepartment "D2" ;
+    ex:hasDivision "D2-4" ;
+    ex:hasOwnedBy "P-14" .
+
+
+
+courses:1149
+    ex:hasCourseCode "1149" ;
+    ex:hasCourseName "C-149" ;
+    ex:hasCredits "7.5" ;
+    ex:hasLevel "First Cycle" ;
+    ex:hasDepartment "D1" ;
+    ex:hasDivision "D1-3" ;
+    ex:hasOwnedBy "P-01" .
+
+
+
+courses:1150
+    ex:hasCourseCode "1150" ;
+    ex:hasCourseName "C-150" ;
+    ex:hasCredits "7.5" ;
+    ex:hasLevel "Second Cycle" ;
+    ex:hasDepartment "D5" ;
+    ex:hasDivision "D5-5" ;
+    ex:hasOwnedBy "P-42" .
+
+
+
+courses:1151
+    ex:hasCourseCode "1151" ;
+    ex:hasCourseName "C-151" ;
+    ex:hasCredits "7.5" ;
+    ex:hasLevel "First Cycle" ;
+    ex:hasDepartment "D5" ;
+    ex:hasDivision "D5-0" ;
+    ex:hasOwnedBy "P-41" .
+
+
+
+courses:1152
+    ex:hasCourseCode "1152" ;
+    ex:hasCourseName "C-152" ;
+    ex:hasCredits "7.5" ;
+    ex:hasLevel "First Cycle" ;
+    ex:hasDepartment "D4" ;
+    ex:hasDivision "D4-0" ;
+    ex:hasOwnedBy "P-32" .
+
+
+
+courses:1153
+    ex:hasCourseCode "1153" ;
+    ex:hasCourseName "C-153" ;
+    ex:hasCredits "7.5" ;
+    ex:hasLevel "First Cycle" ;
+    ex:hasDepartment "D3" ;
+    ex:hasDivision "D3-5" ;
+    ex:hasOwnedBy "P-21" .
+
+
+
+courses:1154
+    ex:hasCourseCode "1154" ;
+    ex:hasCourseName "C-154" ;
+    ex:hasCredits "7.5" ;
+    ex:hasLevel "Second Cycle" ;
+    ex:hasDepartment "D3" ;
+    ex:hasDivision "D3-2" ;
+    ex:hasOwnedBy "P-21" .
+
+
+
+courses:1155
+    ex:hasCourseCode "1155" ;
+    ex:hasCourseName "C-155" ;
+    ex:hasCredits "7.5" ;
+    ex:hasLevel "Second Cycle" ;
+    ex:hasDepartment "D2" ;
+    ex:hasDivision "D2-2" ;
+    ex:hasOwnedBy "P-13" .
+
+
+
+courses:1156
+    ex:hasCourseCode "1156" ;
+    ex:hasCourseName "C-156" ;
+    ex:hasCredits "7.5" ;
+    ex:hasLevel "First Cycle" ;
+    ex:hasDepartment "D7" ;
+    ex:hasDivision "D7-3" ;
+    ex:hasOwnedBy "P-61" .
+
+
+
+courses:1157
+    ex:hasCourseCode "1157" ;
+    ex:hasCourseName "C-157" ;
+    ex:hasCredits "7.5" ;
+    ex:hasLevel "First Cycle" ;
+    ex:hasDepartment "D3" ;
+    ex:hasDivision "D3-2" ;
+    ex:hasOwnedBy "P-21" .
+
+
+
+courses:1158
+    ex:hasCourseCode "1158" ;
+    ex:hasCourseName "C-158" ;
+    ex:hasCredits "7.5" ;
+    ex:hasLevel "First Cycle" ;
+    ex:hasDepartment "D2" ;
+    ex:hasDivision "D2-3" ;
+    ex:hasOwnedBy "P-12" .
+
+
+
+courses:1159
+    ex:hasCourseCode "1159" ;
+    ex:hasCourseName "C-159" ;
+    ex:hasCredits "7.5" ;
+    ex:hasLevel "Second Cycle" ;
+    ex:hasDepartment "D4" ;
+    ex:hasDivision "D4-0" ;
+    ex:hasOwnedBy "P-34" .
+
+
+
+courses:1160
+    ex:hasCourseCode "1160" ;
+    ex:hasCourseName "C-160" ;
+    ex:hasCredits "7.5" ;
+    ex:hasLevel "Second Cycle" ;
+    ex:hasDepartment "D4" ;
+    ex:hasDivision "D4-1" ;
+    ex:hasOwnedBy "P-33" .
+
+
+
+courses:1161
+    ex:hasCourseCode "1161" ;
+    ex:hasCourseName "C-161" ;
+    ex:hasCredits "7.5" ;
+    ex:hasLevel "Second Cycle" ;
+    ex:hasDepartment "D8" ;
+    ex:hasDivision "D8-1" ;
+    ex:hasOwnedBy "P-71" .
+
+
+
+courses:1162
+    ex:hasCourseCode "1162" ;
+    ex:hasCourseName "C-162" ;
+    ex:hasCredits "7.5" ;
+    ex:hasLevel "Second Cycle" ;
+    ex:hasDepartment "D5" ;
+    ex:hasDivision "D5-0" ;
+    ex:hasOwnedBy "P-41" .
+
+
+
+courses:1163
+    ex:hasCourseCode "1163" ;
+    ex:hasCourseName "C-163" ;
+    ex:hasCredits "7.5" ;
+    ex:hasLevel "Second Cycle" ;
+    ex:hasDepartment "D6" ;
+    ex:hasDivision "D6-2" ;
+    ex:hasOwnedBy "P-51" .
+
+
+
+courses:1164
+    ex:hasCourseCode "1164" ;
+    ex:hasCourseName "C-164" ;
+    ex:hasCredits "7.5" ;
+    ex:hasLevel "First Cycle" ;
+    ex:hasDepartment "D7" ;
+    ex:hasDivision "D7-3" ;
+    ex:hasOwnedBy "P-61" .
+
+
+
+courses:1165
+    ex:hasCourseCode "1165" ;
+    ex:hasCourseName "C-165" ;
+    ex:hasCredits "7.5" ;
+    ex:hasLevel "First Cycle" ;
+    ex:hasDepartment "D2" ;
+    ex:hasDivision "D2-0" ;
+    ex:hasOwnedBy "P-11" .
+
+
+
+courses:1166
+    ex:hasCourseCode "1166" ;
+    ex:hasCourseName "C-166" ;
+    ex:hasCredits "7.5" ;
+    ex:hasLevel "Second Cycle" ;
+    ex:hasDepartment "D5" ;
+    ex:hasDivision "D5-0" ;
+    ex:hasOwnedBy "P-42" .
+
+
+
+courses:1167
+    ex:hasCourseCode "1167" ;
+    ex:hasCourseName "C-167" ;
+    ex:hasCredits "7.5" ;
+    ex:hasLevel "First Cycle" ;
+    ex:hasDepartment "D2" ;
+    ex:hasDivision "D2-5" ;
+    ex:hasOwnedBy "P-11" .
+
+
+
+courses:1168
+    ex:hasCourseCode "1168" ;
+    ex:hasCourseName "C-168" ;
+    ex:hasCredits "7.5" ;
+    ex:hasLevel "Second Cycle" ;
+    ex:hasDepartment "D8" ;
+    ex:hasDivision "D8-1" ;
+    ex:hasOwnedBy "P-74" .
+
+
+
+courses:1169
+    ex:hasCourseCode "1169" ;
+    ex:hasCourseName "C-169" ;
+    ex:hasCredits "7.5" ;
+    ex:hasLevel "First Cycle" ;
+    ex:hasDepartment "D8" ;
+    ex:hasDivision "D8-3" ;
+    ex:hasOwnedBy "P-74" .
+
+
+
+courses:1170
+    ex:hasCourseCode "1170" ;
+    ex:hasCourseName "C-170" ;
+    ex:hasCredits "7.5" ;
+    ex:hasLevel "First Cycle" ;
+    ex:hasDepartment "D8" ;
+    ex:hasDivision "D8-1" ;
+    ex:hasOwnedBy "P-71" .
+
+
+
+courses:1171
+    ex:hasCourseCode "1171" ;
+    ex:hasCourseName "C-171" ;
+    ex:hasCredits "7.5" ;
+    ex:hasLevel "Second Cycle" ;
+    ex:hasDepartment "D1" ;
+    ex:hasDivision "D1-5" ;
+    ex:hasOwnedBy "P-01" .
+
+
+
+courses:1172
+    ex:hasCourseCode "1172" ;
+    ex:hasCourseName "C-172" ;
+    ex:hasCredits "7.5" ;
+    ex:hasLevel "First Cycle" ;
+    ex:hasDepartment "D3" ;
+    ex:hasDivision "D3-2" ;
+    ex:hasOwnedBy "P-21" .
+
+
+
+courses:1173
+    ex:hasCourseCode "1173" ;
+    ex:hasCourseName "C-173" ;
+    ex:hasCredits "7.5" ;
+    ex:hasLevel "Second Cycle" ;
+    ex:hasDepartment "D8" ;
+    ex:hasDivision "D8-3" ;
+    ex:hasOwnedBy "P-72" .
+
+
+
+courses:1174
+    ex:hasCourseCode "1174" ;
+    ex:hasCourseName "C-174" ;
+    ex:hasCredits "7.5" ;
+    ex:hasLevel "Second Cycle" ;
+    ex:hasDepartment "D4" ;
+    ex:hasDivision "D4-3" ;
+    ex:hasOwnedBy "P-34" .
+
+
+
+courses:1175
+    ex:hasCourseCode "1175" ;
+    ex:hasCourseName "C-175" ;
+    ex:hasCredits "7.5" ;
+    ex:hasLevel "Second Cycle" ;
+    ex:hasDepartment "D5" ;
+    ex:hasDivision "D5-4" ;
+    ex:hasOwnedBy "P-41" .
+
+
+
+courses:1176
+    ex:hasCourseCode "1176" ;
+    ex:hasCourseName "C-176" ;
+    ex:hasCredits "7.5" ;
+    ex:hasLevel "First Cycle" ;
+    ex:hasDepartment "D6" ;
+    ex:hasDivision "D6-3" ;
+    ex:hasOwnedBy "P-52" .
+
+
+
+courses:1177
+    ex:hasCourseCode "1177" ;
+    ex:hasCourseName "C-177" ;
+    ex:hasCredits "7.5" ;
+    ex:hasLevel "First Cycle" ;
+    ex:hasDepartment "D3" ;
+    ex:hasDivision "D3-4" ;
+    ex:hasOwnedBy "P-21" .
+
+
+
+courses:1178
+    ex:hasCourseCode "1178" ;
+    ex:hasCourseName "C-178" ;
+    ex:hasCredits "7.5" ;
+    ex:hasLevel "Second Cycle" ;
+    ex:hasDepartment "D2" ;
+    ex:hasDivision "D2-2" ;
+    ex:hasOwnedBy "P-13" .
+
+
+
+courses:1179
+    ex:hasCourseCode "1179" ;
+    ex:hasCourseName "C-179" ;
+    ex:hasCredits "7.5" ;
+    ex:hasLevel "Second Cycle" ;
+    ex:hasDepartment "D2" ;
+    ex:hasDivision "D2-5" ;
+    ex:hasOwnedBy "P-12" .
+
+
+
+courses:1180
+    ex:hasCourseCode "1180" ;
+    ex:hasCourseName "C-180" ;
+    ex:hasCredits "7.5" ;
+    ex:hasLevel "First Cycle" ;
+    ex:hasDepartment "D2" ;
+    ex:hasDivision "D2-0" ;
+    ex:hasOwnedBy "P-11" .
+
+
+
+courses:1181
+    ex:hasCourseCode "1181" ;
+    ex:hasCourseName "C-181" ;
+    ex:hasCredits "7.5" ;
+    ex:hasLevel "First Cycle" ;
+    ex:hasDepartment "D7" ;
+    ex:hasDivision "D7-0" ;
+    ex:hasOwnedBy "P-61" .
+
+
+
+courses:1182
+    ex:hasCourseCode "1182" ;
+    ex:hasCourseName "C-182" ;
+    ex:hasCredits "7.5" ;
+    ex:hasLevel "Second Cycle" ;
+    ex:hasDepartment "D1" ;
+    ex:hasDivision "D1-3" ;
+    ex:hasOwnedBy "P-01" .
+
+
+
+courses:1183
+    ex:hasCourseCode "1183" ;
+    ex:hasCourseName "C-183" ;
+    ex:hasCredits "7.5" ;
+    ex:hasLevel "Second Cycle" ;
+    ex:hasDepartment "D8" ;
+    ex:hasDivision "D8-4" ;
+    ex:hasOwnedBy "P-72" .
+
+
+
+courses:1184
+    ex:hasCourseCode "1184" ;
+    ex:hasCourseName "C-184" ;
+    ex:hasCredits "7.5" ;
+    ex:hasLevel "First Cycle" ;
+    ex:hasDepartment "D5" ;
+    ex:hasDivision "D5-5" ;
+    ex:hasOwnedBy "P-42" .
+
+
+
+courses:1185
+    ex:hasCourseCode "1185" ;
+    ex:hasCourseName "C-185" ;
+    ex:hasCredits "7.5" ;
+    ex:hasLevel "Second Cycle" ;
+    ex:hasDepartment "D8" ;
+    ex:hasDivision "D8-3" ;
+    ex:hasOwnedBy "P-71" .
+
+
+
+courses:1186
+    ex:hasCourseCode "1186" ;
+    ex:hasCourseName "C-186" ;
+    ex:hasCredits "7.5" ;
+    ex:hasLevel "Second Cycle" ;
+    ex:hasDepartment "D4" ;
+    ex:hasDivision "D4-3" ;
+    ex:hasOwnedBy "P-32" .
+
+
+
+courses:1187
+    ex:hasCourseCode "1187" ;
+    ex:hasCourseName "C-187" ;
+    ex:hasCredits "7.5" ;
+    ex:hasLevel "Second Cycle" ;
+    ex:hasDepartment "D2" ;
+    ex:hasDivision "D2-1" ;
+    ex:hasOwnedBy "P-11" .
+
+
+
+courses:1188
+    ex:hasCourseCode "1188" ;
+    ex:hasCourseName "C-188" ;
+    ex:hasCredits "7.5" ;
+    ex:hasLevel "Second Cycle" ;
+    ex:hasDepartment "D7" ;
+    ex:hasDivision "D7-5" ;
+    ex:hasOwnedBy "P-61" .
+
+
+
+courses:1189
+    ex:hasCourseCode "1189" ;
+    ex:hasCourseName "C-189" ;
+    ex:hasCredits "7.5" ;
+    ex:hasLevel "First Cycle" ;
+    ex:hasDepartment "D6" ;
+    ex:hasDivision "D6-4" ;
+    ex:hasOwnedBy "P-51" .
+
+
+
+courses:1190
+    ex:hasCourseCode "1190" ;
+    ex:hasCourseName "C-190" ;
+    ex:hasCredits "7.5" ;
+    ex:hasLevel "First Cycle" ;
+    ex:hasDepartment "D8" ;
+    ex:hasDivision "D8-0" ;
+    ex:hasOwnedBy "P-74" .
+
+
+
+courses:1191
+    ex:hasCourseCode "1191" ;
+    ex:hasCourseName "C-191" ;
+    ex:hasCredits "7.5" ;
+    ex:hasLevel "First Cycle" ;
+    ex:hasDepartment "D5" ;
+    ex:hasDivision "D5-3" ;
+    ex:hasOwnedBy "P-42" .
+
+
+
+courses:1192
+    ex:hasCourseCode "1192" ;
+    ex:hasCourseName "C-192" ;
+    ex:hasCredits "7.5" ;
+    ex:hasLevel "Second Cycle" ;
+    ex:hasDepartment "D3" ;
+    ex:hasDivision "D3-3" ;
+    ex:hasOwnedBy "P-21" .
+
+
+
+courses:1193
+    ex:hasCourseCode "1193" ;
+    ex:hasCourseName "C-193" ;
+    ex:hasCredits "7.5" ;
+    ex:hasLevel "First Cycle" ;
+    ex:hasDepartment "D4" ;
+    ex:hasDivision "D4-0" ;
+    ex:hasOwnedBy "P-34" .
+
+
+
+courses:1194
+    ex:hasCourseCode "1194" ;
+    ex:hasCourseName "C-194" ;
+    ex:hasCredits "7.5" ;
+    ex:hasLevel "Second Cycle" ;
+    ex:hasDepartment "D5" ;
+    ex:hasDivision "D5-2" ;
+    ex:hasOwnedBy "P-41" .
+
+
+
+courses:1195
+    ex:hasCourseCode "1195" ;
+    ex:hasCourseName "C-195" ;
+    ex:hasCredits "7.5" ;
+    ex:hasLevel "First Cycle" ;
+    ex:hasDepartment "D3" ;
+    ex:hasDivision "D3-4" ;
+    ex:hasOwnedBy "P-21" .
+
+
+
+courses:1196
+    ex:hasCourseCode "1196" ;
+    ex:hasCourseName "C-196" ;
+    ex:hasCredits "7.5" ;
+    ex:hasLevel "Second Cycle" ;
+    ex:hasDepartment "D5" ;
+    ex:hasDivision "D5-2" ;
+    ex:hasOwnedBy "P-41" .
+
+
+
+courses:1197
+    ex:hasCourseCode "1197" ;
+    ex:hasCourseName "C-197" ;
+    ex:hasCredits "7.5" ;
+    ex:hasLevel "Second Cycle" ;
+    ex:hasDepartment "D6" ;
+    ex:hasDivision "D6-1" ;
+    ex:hasOwnedBy "P-52" .
+
+
+
+courses:1198
+    ex:hasCourseCode "1198" ;
+    ex:hasCourseName "C-198" ;
+    ex:hasCredits "7.5" ;
+    ex:hasLevel "First Cycle" ;
+    ex:hasDepartment "D3" ;
+    ex:hasDivision "D3-0" ;
+    ex:hasOwnedBy "P-21" .
+
+
+
+courses:1199
+    ex:hasCourseCode "1199" ;
+    ex:hasCourseName "C-199" ;
+    ex:hasCredits "7.5" ;
+    ex:hasLevel "Second Cycle" ;
+    ex:hasDepartment "D7" ;
+    ex:hasDivision "D7-1" ;
+    ex:hasOwnedBy "P-61" .
+
+
+
+courses:1200
+    ex:hasCourseCode "1200" ;
+    ex:hasCourseName "C-200" ;
+    ex:hasCredits "7.5" ;
+    ex:hasLevel "Second Cycle" ;
+    ex:hasDepartment "D2" ;
+    ex:hasDivision "D2-1" ;
+    ex:hasOwnedBy "P-12" .
+
+
+
+courses:1201
+    ex:hasCourseCode "1201" ;
+    ex:hasCourseName "C-201" ;
+    ex:hasCredits "7.5" ;
+    ex:hasLevel "Second Cycle" ;
+    ex:hasDepartment "D6" ;
+    ex:hasDivision "D6-1" ;
+    ex:hasOwnedBy "P-52" .
+
+
+
+courses:1202
+    ex:hasCourseCode "1202" ;
+    ex:hasCourseName "C-202" ;
+    ex:hasCredits "7.5" ;
+    ex:hasLevel "Second Cycle" ;
+    ex:hasDepartment "D7" ;
+    ex:hasDivision "D7-2" ;
+    ex:hasOwnedBy "P-61" .
+
+
+
+courses:1203
+    ex:hasCourseCode "1203" ;
+    ex:hasCourseName "C-203" ;
+    ex:hasCredits "7.5" ;
+    ex:hasLevel "Second Cycle" ;
+    ex:hasDepartment "D4" ;
+    ex:hasDivision "D4-3" ;
+    ex:hasOwnedBy "P-32" .
+
+
+
+courses:1204
+    ex:hasCourseCode "1204" ;
+    ex:hasCourseName "C-204" ;
+    ex:hasCredits "7.5" ;
+    ex:hasLevel "First Cycle" ;
+    ex:hasDepartment "D1" ;
+    ex:hasDivision "D1-4" ;
+    ex:hasOwnedBy "P-01" .
+
+
+
+courses:1205
+    ex:hasCourseCode "1205" ;
+    ex:hasCourseName "C-205" ;
+    ex:hasCredits "7.5" ;
+    ex:hasLevel "Second Cycle" ;
+    ex:hasDepartment "D5" ;
+    ex:hasDivision "D5-4" ;
+    ex:hasOwnedBy "P-42" .
+
+
+
+courses:1206
+    ex:hasCourseCode "1206" ;
+    ex:hasCourseName "C-206" ;
+    ex:hasCredits "7.5" ;
+    ex:hasLevel "First Cycle" ;
+    ex:hasDepartment "D6" ;
+    ex:hasDivision "D6-1" ;
+    ex:hasOwnedBy "P-51" .
+
+
+
+courses:1207
+    ex:hasCourseCode "1207" ;
+    ex:hasCourseName "C-207" ;
+    ex:hasCredits "7.5" ;
+    ex:hasLevel "First Cycle" ;
+    ex:hasDepartment "D3" ;
+    ex:hasDivision "D3-1" ;
+    ex:hasOwnedBy "P-21" .
+
+
+
+courses:1208
+    ex:hasCourseCode "1208" ;
+    ex:hasCourseName "C-208" ;
+    ex:hasCredits "7.5" ;
+    ex:hasLevel "Second Cycle" ;
+    ex:hasDepartment "D6" ;
+    ex:hasDivision "D6-0" ;
+    ex:hasOwnedBy "P-52" .
+
+
+
+courses:1209
+    ex:hasCourseCode "1209" ;
+    ex:hasCourseName "C-209" ;
+    ex:hasCredits "7.5" ;
+    ex:hasLevel "First Cycle" ;
+    ex:hasDepartment "D6" ;
+    ex:hasDivision "D6-3" ;
+    ex:hasOwnedBy "P-54" .
+
+
+
+courses:1210
+    ex:hasCourseCode "1210" ;
+    ex:hasCourseName "C-210" ;
+    ex:hasCredits "7.5" ;
+    ex:hasLevel "Second Cycle" ;
+    ex:hasDepartment "D3" ;
+    ex:hasDivision "D3-2" ;
+    ex:hasOwnedBy "P-21" .
+
+
+
+courses:1211
+    ex:hasCourseCode "1211" ;
+    ex:hasCourseName "C-211" ;
+    ex:hasCredits "7.5" ;
+    ex:hasLevel "First Cycle" ;
+    ex:hasDepartment "D7" ;
+    ex:hasDivision "D7-4" ;
+    ex:hasOwnedBy "P-61" .
+
+
+
+courses:1212
+    ex:hasCourseCode "1212" ;
+    ex:hasCourseName "C-212" ;
+    ex:hasCredits "7.5" ;
+    ex:hasLevel "First Cycle" ;
+    ex:hasDepartment "D4" ;
+    ex:hasDivision "D4-0" ;
+    ex:hasOwnedBy "P-33" .
+
+
+
+courses:1213
+    ex:hasCourseCode "1213" ;
+    ex:hasCourseName "C-213" ;
+    ex:hasCredits "7.5" ;
+    ex:hasLevel "First Cycle" ;
+    ex:hasDepartment "D5" ;
+    ex:hasDivision "D5-2" ;
+    ex:hasOwnedBy "P-42" .
+
+
+
+courses:1214
+    ex:hasCourseCode "1214" ;
+    ex:hasCourseName "C-214" ;
+    ex:hasCredits "7.5" ;
+    ex:hasLevel "Second Cycle" ;
+    ex:hasDepartment "D5" ;
+    ex:hasDivision "D5-3" ;
+    ex:hasOwnedBy "P-41" .
+
+
+
+courses:1215
+    ex:hasCourseCode "1215" ;
+    ex:hasCourseName "C-215" ;
+    ex:hasCredits "7.5" ;
+    ex:hasLevel "Second Cycle" ;
+    ex:hasDepartment "D2" ;
+    ex:hasDivision "D2-2" ;
+    ex:hasOwnedBy "P-12" .
+
+
+
+courses:1216
+    ex:hasCourseCode "1216" ;
+    ex:hasCourseName "C-216" ;
+    ex:hasCredits "7.5" ;
+    ex:hasLevel "Second Cycle" ;
+    ex:hasDepartment "D2" ;
+    ex:hasDivision "D2-5" ;
+    ex:hasOwnedBy "P-12" .
+
+
+
+courses:1217
+    ex:hasCourseCode "1217" ;
+    ex:hasCourseName "C-217" ;
+    ex:hasCredits "7.5" ;
+    ex:hasLevel "Second Cycle" ;
+    ex:hasDepartment "D3" ;
+    ex:hasDivision "D3-0" ;
+    ex:hasOwnedBy "P-21" .
+
+
+
+courses:1218
+    ex:hasCourseCode "1218" ;
+    ex:hasCourseName "C-218" ;
+    ex:hasCredits "7.5" ;
+    ex:hasLevel "First Cycle" ;
+    ex:hasDepartment "D8" ;
+    ex:hasDivision "D8-2" ;
+    ex:hasOwnedBy "P-71" .
+
+
+
+courses:1219
+    ex:hasCourseCode "1219" ;
+    ex:hasCourseName "C-219" ;
+    ex:hasCredits "7.5" ;
+    ex:hasLevel "First Cycle" ;
+    ex:hasDepartment "D4" ;
+    ex:hasDivision "D4-4" ;
+    ex:hasOwnedBy "P-33" .
+
+
+
+courses:1220
+    ex:hasCourseCode "1220" ;
+    ex:hasCourseName "C-220" ;
+    ex:hasCredits "7.5" ;
+    ex:hasLevel "Second Cycle" ;
+    ex:hasDepartment "D4" ;
+    ex:hasDivision "D4-5" ;
+    ex:hasOwnedBy "P-33" .
+
+
+
+courses:1221
+    ex:hasCourseCode "1221" ;
+    ex:hasCourseName "C-221" ;
+    ex:hasCredits "7.5" ;
+    ex:hasLevel "First Cycle" ;
+    ex:hasDepartment "D7" ;
+    ex:hasDivision "D7-3" ;
+    ex:hasOwnedBy "P-61" .
+
+
+
+courses:1222
+    ex:hasCourseCode "1222" ;
+    ex:hasCourseName "C-222" ;
+    ex:hasCredits "7.5" ;
+    ex:hasLevel "Second Cycle" ;
+    ex:hasDepartment "D7" ;
+    ex:hasDivision "D7-2" ;
+    ex:hasOwnedBy "P-61" .
+
+
+
+courses:1223
+    ex:hasCourseCode "1223" ;
+    ex:hasCourseName "C-223" ;
+    ex:hasCredits "7.5" ;
+    ex:hasLevel "Second Cycle" ;
+    ex:hasDepartment "D1" ;
+    ex:hasDivision "D1-4" ;
+    ex:hasOwnedBy "P-01" .
+
+
+
+courses:1224
+    ex:hasCourseCode "1224" ;
+    ex:hasCourseName "C-224" ;
+    ex:hasCredits "7.5" ;
+    ex:hasLevel "First Cycle" ;
+    ex:hasDepartment "D5" ;
+    ex:hasDivision "D5-1" ;
+    ex:hasOwnedBy "P-41" .
+
+
+
+courses:1225
+    ex:hasCourseCode "1225" ;
+    ex:hasCourseName "C-225" ;
+    ex:hasCredits "7.5" ;
+    ex:hasLevel "First Cycle" ;
+    ex:hasDepartment "D6" ;
+    ex:hasDivision "D6-2" ;
+    ex:hasOwnedBy "P-52" .
+
+
+
+courses:1226
+    ex:hasCourseCode "1226" ;
+    ex:hasCourseName "C-226" ;
+    ex:hasCredits "7.5" ;
+    ex:hasLevel "Second Cycle" ;
+    ex:hasDepartment "D8" ;
+    ex:hasDivision "D8-3" ;
+    ex:hasOwnedBy "P-72" .
+
+
+
+courses:1227
+    ex:hasCourseCode "1227" ;
+    ex:hasCourseName "C-227" ;
+    ex:hasCredits "7.5" ;
+    ex:hasLevel "First Cycle" ;
+    ex:hasDepartment "D1" ;
+    ex:hasDivision "D1-3" ;
+    ex:hasOwnedBy "P-01" .
+
+
+
+courses:1228
+    ex:hasCourseCode "1228" ;
+    ex:hasCourseName "C-228" ;
+    ex:hasCredits "7.5" ;
+    ex:hasLevel "First Cycle" ;
+    ex:hasDepartment "D6" ;
+    ex:hasDivision "D6-2" ;
+    ex:hasOwnedBy "P-52" .
+
+
+
+courses:1229
+    ex:hasCourseCode "1229" ;
+    ex:hasCourseName "C-229" ;
+    ex:hasCredits "7.5" ;
+    ex:hasLevel "Second Cycle" ;
+    ex:hasDepartment "D7" ;
+    ex:hasDivision "D7-0" ;
+    ex:hasOwnedBy "P-61" .
+
+
+
+courses:1230
+    ex:hasCourseCode "1230" ;
+    ex:hasCourseName "C-230" ;
+    ex:hasCredits "7.5" ;
+    ex:hasLevel "First Cycle" ;
+    ex:hasDepartment "D5" ;
+    ex:hasDivision "D5-2" ;
+    ex:hasOwnedBy "P-42" .
+
+
+
+courses:1231
+    ex:hasCourseCode "1231" ;
+    ex:hasCourseName "C-231" ;
+    ex:hasCredits "7.5" ;
+    ex:hasLevel "Second Cycle" ;
+    ex:hasDepartment "D4" ;
+    ex:hasDivision "D4-5" ;
+    ex:hasOwnedBy "P-34" .
+
+
+
+courses:1232
+    ex:hasCourseCode "1232" ;
+    ex:hasCourseName "C-232" ;
+    ex:hasCredits "7.5" ;
+    ex:hasLevel "First Cycle" ;
+    ex:hasDepartment "D6" ;
+    ex:hasDivision "D6-1" ;
+    ex:hasOwnedBy "P-52" .
+
+
+
+courses:1233
+    ex:hasCourseCode "1233" ;
+    ex:hasCourseName "C-233" ;
+    ex:hasCredits "7.5" ;
+    ex:hasLevel "Second Cycle" ;
+    ex:hasDepartment "D7" ;
+    ex:hasDivision "D7-3" ;
+    ex:hasOwnedBy "P-61" .
+
+
+
+courses:1234
+    ex:hasCourseCode "1234" ;
+    ex:hasCourseName "C-234" ;
+    ex:hasCredits "7.5" ;
+    ex:hasLevel "First Cycle" ;
+    ex:hasDepartment "D4" ;
+    ex:hasDivision "D4-1" ;
+    ex:hasOwnedBy "P-32" .
+
+
+
+courses:1235
+    ex:hasCourseCode "1235" ;
+    ex:hasCourseName "C-235" ;
+    ex:hasCredits "7.5" ;
+    ex:hasLevel "Second Cycle" ;
+    ex:hasDepartment "D6" ;
+    ex:hasDivision "D6-0" ;
+    ex:hasOwnedBy "P-51" .
+
+
+
+courses:1236
+    ex:hasCourseCode "1236" ;
+    ex:hasCourseName "C-236" ;
+    ex:hasCredits "7.5" ;
+    ex:hasLevel "First Cycle" ;
+    ex:hasDepartment "D2" ;
+    ex:hasDivision "D2-1" ;
+    ex:hasOwnedBy "P-12" .
+
+
+
+courses:1237
+    ex:hasCourseCode "1237" ;
+    ex:hasCourseName "C-237" ;
+    ex:hasCredits "7.5" ;
+    ex:hasLevel "First Cycle" ;
+    ex:hasDepartment "D1" ;
+    ex:hasDivision "D1-2" ;
+    ex:hasOwnedBy "P-01" .
+
+
+
+courses:1238
+    ex:hasCourseCode "1238" ;
+    ex:hasCourseName "C-238" ;
+    ex:hasCredits "7.5" ;
+    ex:hasLevel "First Cycle" ;
+    ex:hasDepartment "D2" ;
+    ex:hasDivision "D2-4" ;
+    ex:hasOwnedBy "P-12" .
+
+
+
+courses:1239
+    ex:hasCourseCode "1239" ;
+    ex:hasCourseName "C-239" ;
+    ex:hasCredits "7.5" ;
+    ex:hasLevel "First Cycle" ;
+    ex:hasDepartment "D8" ;
+    ex:hasDivision "D8-2" ;
+    ex:hasOwnedBy "P-74" .
+
+
+
+courses:1240
+    ex:hasCourseCode "1240" ;
+    ex:hasCourseName "C-240" ;
+    ex:hasCredits "7.5" ;
+    ex:hasLevel "First Cycle" ;
+    ex:hasDepartment "D5" ;
+    ex:hasDivision "D5-5" ;
+    ex:hasOwnedBy "P-41" .
+
+
+
+courses:1241
+    ex:hasCourseCode "1241" ;
+    ex:hasCourseName "C-241" ;
+    ex:hasCredits "7.5" ;
+    ex:hasLevel "First Cycle" ;
+    ex:hasDepartment "D5" ;
+    ex:hasDivision "D5-2" ;
+    ex:hasOwnedBy "P-42" .
+
+
+
+courses:1242
+    ex:hasCourseCode "1242" ;
+    ex:hasCourseName "C-242" ;
+    ex:hasCredits "7.5" ;
+    ex:hasLevel "Second Cycle" ;
+    ex:hasDepartment "D2" ;
+    ex:hasDivision "D2-3" ;
+    ex:hasOwnedBy "P-11" .
+
+
+
+courses:1243
+    ex:hasCourseCode "1243" ;
+    ex:hasCourseName "C-243" ;
+    ex:hasCredits "7.5" ;
+    ex:hasLevel "First Cycle" ;
+    ex:hasDepartment "D3" ;
+    ex:hasDivision "D3-4" ;
+    ex:hasOwnedBy "P-21" .
+
+
+
+courses:1244
+    ex:hasCourseCode "1244" ;
+    ex:hasCourseName "C-244" ;
+    ex:hasCredits "7.5" ;
+    ex:hasLevel "First Cycle" ;
+    ex:hasDepartment "D7" ;
+    ex:hasDivision "D7-0" ;
+    ex:hasOwnedBy "P-61" .
+
+
+
+courses:1245
+    ex:hasCourseCode "1245" ;
+    ex:hasCourseName "C-245" ;
+    ex:hasCredits "7.5" ;
+    ex:hasLevel "First Cycle" ;
+    ex:hasDepartment "D7" ;
+    ex:hasDivision "D7-1" ;
+    ex:hasOwnedBy "P-61" .
+
+
+
+courses:1246
+    ex:hasCourseCode "1246" ;
+    ex:hasCourseName "C-246" ;
+    ex:hasCredits "7.5" ;
+    ex:hasLevel "Second Cycle" ;
+    ex:hasDepartment "D6" ;
+    ex:hasDivision "D6-4" ;
+    ex:hasOwnedBy "P-52" .
+
+
+
+courses:1247
+    ex:hasCourseCode "1247" ;
+    ex:hasCourseName "C-247" ;
+    ex:hasCredits "7.5" ;
+    ex:hasLevel "Second Cycle" ;
+    ex:hasDepartment "D7" ;
+    ex:hasDivision "D7-5" ;
+    ex:hasOwnedBy "P-61" .
+
+
+
+courses:1248
+    ex:hasCourseCode "1248" ;
+    ex:hasCourseName "C-248" ;
+    ex:hasCredits "7.5" ;
+    ex:hasLevel "First Cycle" ;
+    ex:hasDepartment "D3" ;
+    ex:hasDivision "D3-0" ;
+    ex:hasOwnedBy "P-21" .
+
+
+
+courses:1249
+    ex:hasCourseCode "1249" ;
+    ex:hasCourseName "C-249" ;
+    ex:hasCredits "7.5" ;
+    ex:hasLevel "Second Cycle" ;
+    ex:hasDepartment "D5" ;
+    ex:hasDivision "D5-0" ;
+    ex:hasOwnedBy "P-42" .
+
+
+
+courses:1250
+    ex:hasCourseCode "1250" ;
+    ex:hasCourseName "C-250" ;
+    ex:hasCredits "7.5" ;
+    ex:hasLevel "First Cycle" ;
+    ex:hasDepartment "D8" ;
+    ex:hasDivision "D8-0" ;
+    ex:hasOwnedBy "P-72" .
+
+
+
+courses:1251
+    ex:hasCourseCode "1251" ;
+    ex:hasCourseName "C-251" ;
+    ex:hasCredits "7.5" ;
+    ex:hasLevel "First Cycle" ;
+    ex:hasDepartment "D1" ;
+    ex:hasDivision "D1-3" ;
+    ex:hasOwnedBy "P-01" .
+
+
+
+courses:1252
+    ex:hasCourseCode "1252" ;
+    ex:hasCourseName "C-252" ;
+    ex:hasCredits "7.5" ;
+    ex:hasLevel "First Cycle" ;
+    ex:hasDepartment "D4" ;
+    ex:hasDivision "D4-2" ;
+    ex:hasOwnedBy "P-32" .
+
+
+
+courses:1253
+    ex:hasCourseCode "1253" ;
+    ex:hasCourseName "C-253" ;
+    ex:hasCredits "7.5" ;
+    ex:hasLevel "First Cycle" ;
+    ex:hasDepartment "D8" ;
+    ex:hasDivision "D8-2" ;
+    ex:hasOwnedBy "P-74" .
+
+
+
+courses:1254
+    ex:hasCourseCode "1254" ;
+    ex:hasCourseName "C-254" ;
+    ex:hasCredits "7.5" ;
+    ex:hasLevel "First Cycle" ;
+    ex:hasDepartment "D5" ;
+    ex:hasDivision "D5-5" ;
+    ex:hasOwnedBy "P-42" .
+
+
+
+courses:1255
+    ex:hasCourseCode "1255" ;
+    ex:hasCourseName "C-255" ;
+    ex:hasCredits "7.5" ;
+    ex:hasLevel "First Cycle" ;
+    ex:hasDepartment "D8" ;
+    ex:hasDivision "D8-1" ;
+    ex:hasOwnedBy "P-71" .
+
+
+
+courses:1256
+    ex:hasCourseCode "1256" ;
+    ex:hasCourseName "C-256" ;
+    ex:hasCredits "7.5" ;
+    ex:hasLevel "First Cycle" ;
+    ex:hasDepartment "D6" ;
+    ex:hasDivision "D6-2" ;
+    ex:hasOwnedBy "P-53" .
+
+
+
+courses:1257
+    ex:hasCourseCode "1257" ;
+    ex:hasCourseName "C-257" ;
+    ex:hasCredits "7.5" ;
+    ex:hasLevel "Second Cycle" ;
+    ex:hasDepartment "D1" ;
+    ex:hasDivision "D1-3" ;
+    ex:hasOwnedBy "P-01" .
+
+
+
+courses:1258
+    ex:hasCourseCode "1258" ;
+    ex:hasCourseName "C-258" ;
+    ex:hasCredits "7.5" ;
+    ex:hasLevel "Second Cycle" ;
+    ex:hasDepartment "D4" ;
+    ex:hasDivision "D4-5" ;
+    ex:hasOwnedBy "P-33" .
+
+
+
+courses:1259
+    ex:hasCourseCode "1259" ;
+    ex:hasCourseName "C-259" ;
+    ex:hasCredits "7.5" ;
+    ex:hasLevel "First Cycle" ;
+    ex:hasDepartment "D3" ;
+    ex:hasDivision "D3-0" ;
+    ex:hasOwnedBy "P-21" .
+
+
+
+courses:1260
+    ex:hasCourseCode "1260" ;
+    ex:hasCourseName "C-260" ;
+    ex:hasCredits "7.5" ;
+    ex:hasLevel "Second Cycle" ;
+    ex:hasDepartment "D7" ;
+    ex:hasDivision "D7-5" ;
+    ex:hasOwnedBy "P-61" .
+
+
+
+courses:1261
+    ex:hasCourseCode "1261" ;
+    ex:hasCourseName "C-261" ;
+    ex:hasCredits "7.5" ;
+    ex:hasLevel "Second Cycle" ;
+    ex:hasDepartment "D8" ;
+    ex:hasDivision "D8-3" ;
+    ex:hasOwnedBy "P-71" .
+
+
+
+courses:1262
+    ex:hasCourseCode "1262" ;
+    ex:hasCourseName "C-262" ;
+    ex:hasCredits "7.5" ;
+    ex:hasLevel "First Cycle" ;
+    ex:hasDepartment "D4" ;
+    ex:hasDivision "D4-1" ;
+    ex:hasOwnedBy "P-33" .
+
+
+
+courses:1263
+    ex:hasCourseCode "1263" ;
+    ex:hasCourseName "C-263" ;
+    ex:hasCredits "7.5" ;
+    ex:hasLevel "Second Cycle" ;
+    ex:hasDepartment "D7" ;
+    ex:hasDivision "D7-1" ;
+    ex:hasOwnedBy "P-61" .
+
+
+
+courses:1264
+    ex:hasCourseCode "1264" ;
+    ex:hasCourseName "C-264" ;
+    ex:hasCredits "7.5" ;
+    ex:hasLevel "First Cycle" ;
+    ex:hasDepartment "D2" ;
+    ex:hasDivision "D2-3" ;
+    ex:hasOwnedBy "P-14" .
+
+
+
+courses:1265
+    ex:hasCourseCode "1265" ;
+    ex:hasCourseName "C-265" ;
+    ex:hasCredits "7.5" ;
+    ex:hasLevel "Second Cycle" ;
+    ex:hasDepartment "D7" ;
+    ex:hasDivision "D7-3" ;
+    ex:hasOwnedBy "P-61" .
+
+
+
+courses:1266
+    ex:hasCourseCode "1266" ;
+    ex:hasCourseName "C-266" ;
+    ex:hasCredits "7.5" ;
+    ex:hasLevel "Second Cycle" ;
+    ex:hasDepartment "D4" ;
+    ex:hasDivision "D4-4" ;
+    ex:hasOwnedBy "P-33" .
+
+
+
+courses:1267
+    ex:hasCourseCode "1267" ;
+    ex:hasCourseName "C-267" ;
+    ex:hasCredits "7.5" ;
+    ex:hasLevel "First Cycle" ;
+    ex:hasDepartment "D4" ;
+    ex:hasDivision "D4-1" ;
+    ex:hasOwnedBy "P-32" .
+
+
+
+courses:1268
+    ex:hasCourseCode "1268" ;
+    ex:hasCourseName "C-268" ;
+    ex:hasCredits "7.5" ;
+    ex:hasLevel "First Cycle" ;
+    ex:hasDepartment "D3" ;
+    ex:hasDivision "D3-5" ;
+    ex:hasOwnedBy "P-21" .
+
+
+
+courses:1269
+    ex:hasCourseCode "1269" ;
+    ex:hasCourseName "C-269" ;
+    ex:hasCredits "7.5" ;
+    ex:hasLevel "Second Cycle" ;
+    ex:hasDepartment "D7" ;
+    ex:hasDivision "D7-2" ;
+    ex:hasOwnedBy "P-61" .
+
+
+
+courses:1270
+    ex:hasCourseCode "1270" ;
+    ex:hasCourseName "C-270" ;
+    ex:hasCredits "7.5" ;
+    ex:hasLevel "First Cycle" ;
+    ex:hasDepartment "D2" ;
+    ex:hasDivision "D2-2" ;
+    ex:hasOwnedBy "P-11" .
+
+
+
+courses:1271
+    ex:hasCourseCode "1271" ;
+    ex:hasCourseName "C-271" ;
+    ex:hasCredits "7.5" ;
+    ex:hasLevel "First Cycle" ;
+    ex:hasDepartment "D2" ;
+    ex:hasDivision "D2-0" ;
+    ex:hasOwnedBy "P-14" .
+
+
+
+courses:1272
+    ex:hasCourseCode "1272" ;
+    ex:hasCourseName "C-272" ;
+    ex:hasCredits "7.5" ;
+    ex:hasLevel "Second Cycle" ;
+    ex:hasDepartment "D8" ;
+    ex:hasDivision "D8-0" ;
+    ex:hasOwnedBy "P-71" .
+
+
+
+courses:1273
+    ex:hasCourseCode "1273" ;
+    ex:hasCourseName "C-273" ;
+    ex:hasCredits "7.5" ;
+    ex:hasLevel "Second Cycle" ;
+    ex:hasDepartment "D7" ;
+    ex:hasDivision "D7-5" ;
+    ex:hasOwnedBy "P-61" .
+
+
+
+courses:1274
+    ex:hasCourseCode "1274" ;
+    ex:hasCourseName "C-274" ;
+    ex:hasCredits "7.5" ;
+    ex:hasLevel "First Cycle" ;
+    ex:hasDepartment "D1" ;
+    ex:hasDivision "D1-2" ;
+    ex:hasOwnedBy "P-01" .
+
+
+
+courses:1275
+    ex:hasCourseCode "1275" ;
+    ex:hasCourseName "C-275" ;
+    ex:hasCredits "7.5" ;
+    ex:hasLevel "Second Cycle" ;
+    ex:hasDepartment "D2" ;
+    ex:hasDivision "D2-4" ;
+    ex:hasOwnedBy "P-12" .
+
+
+
+courses:1276
+    ex:hasCourseCode "1276" ;
+    ex:hasCourseName "C-276" ;
+    ex:hasCredits "7.5" ;
+    ex:hasLevel "Second Cycle" ;
+    ex:hasDepartment "D1" ;
+    ex:hasDivision "D1-3" ;
+    ex:hasOwnedBy "P-01" .
+
+
+
+courses:1277
+    ex:hasCourseCode "1277" ;
+    ex:hasCourseName "C-277" ;
+    ex:hasCredits "7.5" ;
+    ex:hasLevel "First Cycle" ;
+    ex:hasDepartment "D2" ;
+    ex:hasDivision "D2-2" ;
+    ex:hasOwnedBy "P-13" .
+
+
+
+courses:1278
+    ex:hasCourseCode "1278" ;
+    ex:hasCourseName "C-278" ;
+    ex:hasCredits "7.5" ;
+    ex:hasLevel "Second Cycle" ;
+    ex:hasDepartment "D6" ;
+    ex:hasDivision "D6-0" ;
+    ex:hasOwnedBy "P-54" .
+
+
+
+courses:1279
+    ex:hasCourseCode "1279" ;
+    ex:hasCourseName "C-279" ;
+    ex:hasCredits "7.5" ;
+    ex:hasLevel "Second Cycle" ;
+    ex:hasDepartment "D1" ;
+    ex:hasDivision "D1-4" ;
+    ex:hasOwnedBy "P-01" .
+
+
+
+courses:1280
+    ex:hasCourseCode "1280" ;
+    ex:hasCourseName "C-280" ;
+    ex:hasCredits "7.5" ;
+    ex:hasLevel "Second Cycle" ;
+    ex:hasDepartment "D6" ;
+    ex:hasDivision "D6-5" ;
+    ex:hasOwnedBy "P-52" .
+
+
+
+courses:1281
+    ex:hasCourseCode "1281" ;
+    ex:hasCourseName "C-281" ;
+    ex:hasCredits "7.5" ;
+    ex:hasLevel "First Cycle" ;
+    ex:hasDepartment "D1" ;
+    ex:hasDivision "D1-0" ;
+    ex:hasOwnedBy "P-01" .
+
+
+
+courses:1282
+    ex:hasCourseCode "1282" ;
+    ex:hasCourseName "C-282" ;
+    ex:hasCredits "7.5" ;
+    ex:hasLevel "Second Cycle" ;
+    ex:hasDepartment "D6" ;
+    ex:hasDivision "D6-3" ;
+    ex:hasOwnedBy "P-54" .
+
+
+
+courses:1283
+    ex:hasCourseCode "1283" ;
+    ex:hasCourseName "C-283" ;
+    ex:hasCredits "7.5" ;
+    ex:hasLevel "Second Cycle" ;
+    ex:hasDepartment "D7" ;
+    ex:hasDivision "D7-2" ;
+    ex:hasOwnedBy "P-61" .
+
+
+
+courses:1284
+    ex:hasCourseCode "1284" ;
+    ex:hasCourseName "C-284" ;
+    ex:hasCredits "7.5" ;
+    ex:hasLevel "First Cycle" ;
+    ex:hasDepartment "D6" ;
+    ex:hasDivision "D6-4" ;
+    ex:hasOwnedBy "P-54" .
+
+
+
+courses:1285
+    ex:hasCourseCode "1285" ;
+    ex:hasCourseName "C-285" ;
+    ex:hasCredits "7.5" ;
+    ex:hasLevel "First Cycle" ;
+    ex:hasDepartment "D8" ;
+    ex:hasDivision "D8-2" ;
+    ex:hasOwnedBy "P-73" .
+
+
+
+courses:1286
+    ex:hasCourseCode "1286" ;
+    ex:hasCourseName "C-286" ;
+    ex:hasCredits "7.5" ;
+    ex:hasLevel "First Cycle" ;
+    ex:hasDepartment "D6" ;
+    ex:hasDivision "D6-4" ;
+    ex:hasOwnedBy "P-54" .
+
+
+
+courses:1287
+    ex:hasCourseCode "1287" ;
+    ex:hasCourseName "C-287" ;
+    ex:hasCredits "7.5" ;
+    ex:hasLevel "Second Cycle" ;
+    ex:hasDepartment "D3" ;
+    ex:hasDivision "D3-0" ;
+    ex:hasOwnedBy "P-21" .
+
+
+
+courses:1288
+    ex:hasCourseCode "1288" ;
+    ex:hasCourseName "C-288" ;
+    ex:hasCredits "7.5" ;
+    ex:hasLevel "Second Cycle" ;
+    ex:hasDepartment "D6" ;
+    ex:hasDivision "D6-5" ;
+    ex:hasOwnedBy "P-54" .
+
+
+
+courses:1289
+    ex:hasCourseCode "1289" ;
+    ex:hasCourseName "C-289" ;
+    ex:hasCredits "7.5" ;
+    ex:hasLevel "First Cycle" ;
+    ex:hasDepartment "D1" ;
+    ex:hasDivision "D1-0" ;
+    ex:hasOwnedBy "P-01" .
+
+
+
+courses:1290
+    ex:hasCourseCode "1290" ;
+    ex:hasCourseName "C-290" ;
+    ex:hasCredits "7.5" ;
+    ex:hasLevel "First Cycle" ;
+    ex:hasDepartment "D6" ;
+    ex:hasDivision "D6-0" ;
+    ex:hasOwnedBy "P-54" .
+
+
+
+courses:1291
+    ex:hasCourseCode "1291" ;
+    ex:hasCourseName "C-291" ;
+    ex:hasCredits "7.5" ;
+    ex:hasLevel "First Cycle" ;
+    ex:hasDepartment "D1" ;
+    ex:hasDivision "D1-3" ;
+    ex:hasOwnedBy "P-01" .
+
+
+
+courses:1292
+    ex:hasCourseCode "1292" ;
+    ex:hasCourseName "C-292" ;
+    ex:hasCredits "7.5" ;
+    ex:hasLevel "First Cycle" ;
+    ex:hasDepartment "D1" ;
+    ex:hasDivision "D1-3" ;
+    ex:hasOwnedBy "P-01" .
+
+
+
+courses:1293
+    ex:hasCourseCode "1293" ;
+    ex:hasCourseName "C-293" ;
+    ex:hasCredits "7.5" ;
+    ex:hasLevel "Second Cycle" ;
+    ex:hasDepartment "D3" ;
+    ex:hasDivision "D3-0" ;
+    ex:hasOwnedBy "P-21" .
+
+
+
+courses:1294
+    ex:hasCourseCode "1294" ;
+    ex:hasCourseName "C-294" ;
+    ex:hasCredits "7.5" ;
+    ex:hasLevel "First Cycle" ;
+    ex:hasDepartment "D7" ;
+    ex:hasDivision "D7-4" ;
+    ex:hasOwnedBy "P-61" .
+
+
+
+courses:1295
+    ex:hasCourseCode "1295" ;
+    ex:hasCourseName "C-295" ;
+    ex:hasCredits "7.5" ;
+    ex:hasLevel "First Cycle" ;
+    ex:hasDepartment "D3" ;
+    ex:hasDivision "D3-0" ;
+    ex:hasOwnedBy "P-21" .
+
+
+
+courses:1296
+    ex:hasCourseCode "1296" ;
+    ex:hasCourseName "C-296" ;
+    ex:hasCredits "7.5" ;
+    ex:hasLevel "Second Cycle" ;
+    ex:hasDepartment "D2" ;
+    ex:hasDivision "D2-0" ;
+    ex:hasOwnedBy "P-13" .
+
+
+
+courses:1297
+    ex:hasCourseCode "1297" ;
+    ex:hasCourseName "C-297" ;
+    ex:hasCredits "7.5" ;
+    ex:hasLevel "Second Cycle" ;
+    ex:hasDepartment "D2" ;
+    ex:hasDivision "D2-2" ;
+    ex:hasOwnedBy "P-12" .
+
+
+
+courses:1298
+    ex:hasCourseCode "1298" ;
+    ex:hasCourseName "C-298" ;
+    ex:hasCredits "7.5" ;
+    ex:hasLevel "First Cycle" ;
+    ex:hasDepartment "D7" ;
+    ex:hasDivision "D7-4" ;
+    ex:hasOwnedBy "P-61" .
+
+
+
+courses:1299
+    ex:hasCourseCode "1299" ;
+    ex:hasCourseName "C-299" ;
+    ex:hasCredits "7.5" ;
+    ex:hasLevel "Second Cycle" ;
+    ex:hasDepartment "D1" ;
+    ex:hasDivision "D1-3" ;
+    ex:hasOwnedBy "P-01" .
+
+
+
+courses:1300
+    ex:hasCourseCode "1300" ;
+    ex:hasCourseName "C-300" ;
+    ex:hasCredits "7.5" ;
+    ex:hasLevel "First Cycle" ;
+    ex:hasDepartment "D8" ;
+    ex:hasDivision "D8-5" ;
+    ex:hasOwnedBy "P-72" .
+
+
