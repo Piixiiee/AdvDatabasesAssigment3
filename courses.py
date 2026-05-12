@@ -8,8 +8,9 @@ ttl_file = "courses.ttl"
 
 # Prefixes
 prefixes = """
-@prefix ex: <http://example.org/> .
-@prefix courses: <http://example.org/courses/> .
+@prefix : <http://www.semanticweb.org/frida/ontologies/2026/3/untitled-ontology-3/> .
+@prefix rdf: <http://www.w3.org/1999/02/22-rdf-syntax-ns#> .
+@prefix xsd: <http://www.w3.org/2001/XMLSchema#> .
 
 """
 
@@ -31,16 +32,21 @@ with open(csv_file, newline='', encoding='utf-8') as infile, \
         owned_by = row["Owned By"]
 
         ttl_entry = f"""
-courses:{course_code}
-    ex:hasCourseCode "{course_code}" ;
-    ex:hasCourseName "{course_name}" ;
-    ex:hasCredits "{credits}" ;
-    ex:hasLevel "{level}" ;
-    ex:hasDepartment "{department}" ;
-    ex:hasDivision "{division}" ;
-    ex:hasOwnedBy "{owned_by}" .
+:course_{course_code}
+    rdf:type :Course ;
+    :courseCode "{course_code}" ;
+    :courseName "{course_name}" ;
+    :credits "{credits}" ;
+    :level "{level}" ;
+    :Belongs_To_Department :department_{department} ;
+    :Courses_Belongs_to :division_{division} ;
+    :Owned_By_Programme :programme_{owned_by} .
 
+:department_{department}
+    rdf:type :Department .
 
+:division_{division}
+    rdf:type :Division .
 """
 
         outfile.write(ttl_entry)

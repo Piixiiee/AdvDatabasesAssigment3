@@ -1,42 +1,53 @@
 import csv
+import pandas as pd
 
-# Input CSV file
-csv_file = "Assigned_Hours.csv"
 
 # Output TTL file
-ttl_file = "assignedHours.ttl"
+ttl_file = "Hours.ttl"
 
 # Prefixes
 prefixes = """
-@prefix ex: <http://example.org/> .
-@prefix assigned_Hours: <http://example.org/assigned_Hours/> .
+@prefix : <http://www.semanticweb.org/frida/ontologies/2026/3/untitled-ontology-3/> .
+@prefix rdf: <http://www.w3.org/1999/02/22-rdf-syntax-ns#> .
 
 """
 
-with open(csv_file, newline='', encoding='utf-8') as infile, \
-     open(ttl_file, 'w', encoding='utf-8') as outfile:
+with open(ttl_file, 'w', encoding='utf-8') as outfile:
 
     # Write prefixes
     outfile.write(prefixes)
 
-    reader = csv.DictReader(infile)
-    for row in reader:
+    assigned_hours = pd.read_csv("Assigned_Hours.csv")
+    reported_hours = pd.read_csv("Reported_Hours.csv")
 
-        course_code = row["Course code"]
-        study_period = row["Study Period"]
-        academic_year = row["Academic Year"]
-        teacher_id = row["Teacher Id"]
-        hours = row["Hours"]
-        course_instance = row["Course Instance"]
+    joined_df = pd.merge(assigned_hours, reported_hours, on=["Teacher Id","Course Instance"], how="left")
+
+    joined_df.columns = (
+    joined_df.columns
+      .str.strip()
+      .str.replace(" ", "_")
+    )
+
+    for row in joined_df.itertuples(index=False):
+
+        course_code = row.Course_code
+        study_period = row.Study_Period
+        academic_year = row.Academic_Year
+        teacher_id = row.Teacher_Id
+        ass_hours = row.Assigned_Hours
+        course_instance = row.Course_Instance
+        rep_hours = row.Reported_Hours
 
         ttl_entry = f"""
-assigned_Hours:{course_code}
-    ex:hasCourseCode "{course_code}" ;
-    ex:hasStudyPeriod "{study_period}" ;
-    ex:hasAcademicYear "{academic_year}" ;
-    ex:hasTeacherId "{teacher_id}" ;
-    ex:hasHours "{hours}" 
-    ex:hasCourseInstance "{course_instance}" .
+:hours_{course_instance}
+    rdf:type :Hours ;
+    :Hours_Has_Course_Code :course_{course_code} ;
+    :studyPeriod "{study_period}" ;
+    :academicYear "{academic_year}" ;
+    :Hours_Has_Teacher :teacher_{teacher_id} ;
+    :Hours_Has_Instance :instance_{course_instance} ;
+    :assignedHours "{ass_hours}" ;
+    :reportedHours "{rep_hours}" .
 
 
 """

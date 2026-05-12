@@ -1,244 +1,604 @@
 
-@prefix ex: <http://example.org/> .
-@prefix senior_Teachers: <http://example.org/senior_Teachers/> .
-
-
-senior_Hours:19630126-0001
-    ex:hasTeacherId "19630126-0001" ;
-    ex:hasTeacherName "Teacher 1" ;
-    ex:hasDepartmentName "D4" ;
-    ex:hasDivisionName "D4-3" .
-
-
-
-senior_Hours:19600814-0002
-    ex:hasTeacherId "19600814-0002" ;
-    ex:hasTeacherName "Teacher 2" ;
-    ex:hasDepartmentName "D7" ;
-    ex:hasDivisionName "D7-4" .
-
-
-
-senior_Hours:19600905-0003
-    ex:hasTeacherId "19600905-0003" ;
-    ex:hasTeacherName "Teacher 3" ;
-    ex:hasDepartmentName "D7" ;
-    ex:hasDivisionName "D7-1" .
-
-
-
-senior_Hours:19590129-0004
-    ex:hasTeacherId "19590129-0004" ;
-    ex:hasTeacherName "Teacher 4" ;
-    ex:hasDepartmentName "D3" ;
-    ex:hasDivisionName "D3-3" .
-
-
-
-senior_Hours:19610623-0005
-    ex:hasTeacherId "19610623-0005" ;
-    ex:hasTeacherName "Teacher 5" ;
-    ex:hasDepartmentName "D5" ;
-    ex:hasDivisionName "D5-2" .
-
-
-
-senior_Hours:19610620-0006
-    ex:hasTeacherId "19610620-0006" ;
-    ex:hasTeacherName "Teacher 6" ;
-    ex:hasDepartmentName "D5" ;
-    ex:hasDivisionName "D5-0" .
-
-
-
-senior_Hours:19580218-0007
-    ex:hasTeacherId "19580218-0007" ;
-    ex:hasTeacherName "Teacher 7" ;
-    ex:hasDepartmentName "D4" ;
-    ex:hasDivisionName "D4-1" .
-
-
-
-senior_Hours:19570828-0008
-    ex:hasTeacherId "19570828-0008" ;
-    ex:hasTeacherName "Teacher 8" ;
-    ex:hasDepartmentName "D4" ;
-    ex:hasDivisionName "D4-0" .
-
-
-
-senior_Hours:19690408-0009
-    ex:hasTeacherId "19690408-0009" ;
-    ex:hasTeacherName "Teacher 9" ;
-    ex:hasDepartmentName "D3" ;
-    ex:hasDivisionName "D3-5" .
-
-
-
-senior_Hours:19560612-0010
-    ex:hasTeacherId "19560612-0010" ;
-    ex:hasTeacherName "Teacher 10" ;
-    ex:hasDepartmentName "D3" ;
-    ex:hasDivisionName "D3-2" .
-
-
-
-senior_Hours:19570615-0011
-    ex:hasTeacherId "19570615-0011" ;
-    ex:hasTeacherName "Teacher 11" ;
-    ex:hasDepartmentName "D5" ;
-    ex:hasDivisionName "D5-3" .
-
-
-
-senior_Hours:19570826-0012
-    ex:hasTeacherId "19570826-0012" ;
-    ex:hasTeacherName "Teacher 12" ;
-    ex:hasDepartmentName "D7" ;
-    ex:hasDivisionName "D7-5" .
-
-
-
-senior_Hours:19640414-0013
-    ex:hasTeacherId "19640414-0013" ;
-    ex:hasTeacherName "Teacher 13" ;
-    ex:hasDepartmentName "D4" ;
-    ex:hasDivisionName "D4-1" .
-
-
-
-senior_Hours:19611219-0014
-    ex:hasTeacherId "19611219-0014" ;
-    ex:hasTeacherName "Teacher 14" ;
-    ex:hasDepartmentName "D6" ;
-    ex:hasDivisionName "D6-3" .
-
-
-
-senior_Hours:19690513-0015
-    ex:hasTeacherId "19690513-0015" ;
-    ex:hasTeacherName "Teacher 15" ;
-    ex:hasDepartmentName "D7" ;
-    ex:hasDivisionName "D7-5" .
-
-
-
-senior_Hours:19560812-0016
-    ex:hasTeacherId "19560812-0016" ;
-    ex:hasTeacherName "Teacher 16" ;
-    ex:hasDepartmentName "D3" ;
-    ex:hasDivisionName "D3-1" .
-
-
-
-senior_Hours:19580515-0017
-    ex:hasTeacherId "19580515-0017" ;
-    ex:hasTeacherName "Teacher 17" ;
-    ex:hasDepartmentName "D6" ;
-    ex:hasDivisionName "D6-3" .
-
-
-
-senior_Hours:19601021-0018
-    ex:hasTeacherId "19601021-0018" ;
-    ex:hasTeacherName "Teacher 18" ;
-    ex:hasDepartmentName "D1" ;
-    ex:hasDivisionName "D1-3" .
-
-
-
-senior_Hours:19650303-0019
-    ex:hasTeacherId "19650303-0019" ;
-    ex:hasTeacherName "Teacher 19" ;
-    ex:hasDepartmentName "D6" ;
-    ex:hasDivisionName "D6-4" .
-
-
-
-senior_Hours:19660630-0020
-    ex:hasTeacherId "19660630-0020" ;
-    ex:hasTeacherName "Teacher 20" ;
-    ex:hasDepartmentName "D7" ;
-    ex:hasDivisionName "D7-5" .
-
-
-
-senior_Hours:19600529-0021
-    ex:hasTeacherId "19600529-0021" ;
-    ex:hasTeacherName "Teacher 21" ;
-    ex:hasDepartmentName "D3" ;
-    ex:hasDivisionName "D3-5" .
-
-
-
-senior_Hours:19690917-0022
-    ex:hasTeacherId "19690917-0022" ;
-    ex:hasTeacherName "Teacher 22" ;
-    ex:hasDepartmentName "D1" ;
-    ex:hasDivisionName "D1-3" .
-
-
-
-senior_Hours:19620522-0023
-    ex:hasTeacherId "19620522-0023" ;
-    ex:hasTeacherName "Teacher 23" ;
-    ex:hasDepartmentName "D2" ;
-    ex:hasDivisionName "D2-2" .
-
-
-
-senior_Hours:19620831-0024
-    ex:hasTeacherId "19620831-0024" ;
-    ex:hasTeacherName "Teacher 24" ;
-    ex:hasDepartmentName "D6" ;
-    ex:hasDivisionName "D6-0" .
-
-
-
-senior_Hours:19560705-0025
-    ex:hasTeacherId "19560705-0025" ;
-    ex:hasTeacherName "Teacher 25" ;
-    ex:hasDepartmentName "D7" ;
-    ex:hasDivisionName "D7-4" .
-
-
-
-senior_Hours:19620424-0026
-    ex:hasTeacherId "19620424-0026" ;
-    ex:hasTeacherName "Teacher 26" ;
-    ex:hasDepartmentName "D7" ;
-    ex:hasDivisionName "D7-1" .
-
-
-
-senior_Hours:19610918-0027
-    ex:hasTeacherId "19610918-0027" ;
-    ex:hasTeacherName "Teacher 27" ;
-    ex:hasDepartmentName "D4" ;
-    ex:hasDivisionName "D4-3" .
-
-
-
-senior_Hours:19680712-0028
-    ex:hasTeacherId "19680712-0028" ;
-    ex:hasTeacherName "Teacher 28" ;
-    ex:hasDepartmentName "D6" ;
-    ex:hasDivisionName "D6-0" .
-
-
-
-senior_Hours:19640220-0029
-    ex:hasTeacherId "19640220-0029" ;
-    ex:hasTeacherName "Teacher 29" ;
-    ex:hasDepartmentName "D6" ;
-    ex:hasDivisionName "D6-5" .
-
-
-
-senior_Hours:19561222-0030
-    ex:hasTeacherId "19561222-0030" ;
-    ex:hasTeacherName "Teacher 30" ;
-    ex:hasDepartmentName "D2" ;
-    ex:hasDivisionName "D2-2" .
-
-
+@prefix : <http://www.semanticweb.org/frida/ontologies/2026/3/untitled-ontology-3/> .
+@prefix rdf: <http://www.w3.org/1999/02/22-rdf-syntax-ns#> .
+
+
+:senior_teacher_19630126-0001
+    rdf:type :Senior_Teacher ;
+    :teacherId "19630126-0001" ;
+    :teacherName "Teacher 1" ;
+    :Works_for :department_D4 ;
+    :Teacher_Belongs_To :division_D4-3 .
+
+:teacher_19630126-0001
+    rdf:type :Teacher ;
+    :teacherId "19630126-0001" ;
+    :teacherName "Teacher 1" ;
+    :Works_for :department_D4 ;
+    :Teacher_Belongs_To :division_D4-3 .
+
+:department_D4
+    rdf:type :Department .
+
+:division_D4-3
+    rdf:type :Division .
+
+:senior_teacher_19600814-0002
+    rdf:type :Senior_Teacher ;
+    :teacherId "19600814-0002" ;
+    :teacherName "Teacher 2" ;
+    :Works_for :department_D7 ;
+    :Teacher_Belongs_To :division_D7-4 .
+
+:teacher_19600814-0002
+    rdf:type :Teacher ;
+    :teacherId "19600814-0002" ;
+    :teacherName "Teacher 2" ;
+    :Works_for :department_D7 ;
+    :Teacher_Belongs_To :division_D7-4 .
+
+:department_D7
+    rdf:type :Department .
+
+:division_D7-4
+    rdf:type :Division .
+
+:senior_teacher_19600905-0003
+    rdf:type :Senior_Teacher ;
+    :teacherId "19600905-0003" ;
+    :teacherName "Teacher 3" ;
+    :Works_for :department_D7 ;
+    :Teacher_Belongs_To :division_D7-1 .
+
+:teacher_19600905-0003
+    rdf:type :Teacher ;
+    :teacherId "19600905-0003" ;
+    :teacherName "Teacher 3" ;
+    :Works_for :department_D7 ;
+    :Teacher_Belongs_To :division_D7-1 .
+
+:department_D7
+    rdf:type :Department .
+
+:division_D7-1
+    rdf:type :Division .
+
+:senior_teacher_19590129-0004
+    rdf:type :Senior_Teacher ;
+    :teacherId "19590129-0004" ;
+    :teacherName "Teacher 4" ;
+    :Works_for :department_D3 ;
+    :Teacher_Belongs_To :division_D3-3 .
+
+:teacher_19590129-0004
+    rdf:type :Teacher ;
+    :teacherId "19590129-0004" ;
+    :teacherName "Teacher 4" ;
+    :Works_for :department_D3 ;
+    :Teacher_Belongs_To :division_D3-3 .
+
+:department_D3
+    rdf:type :Department .
+
+:division_D3-3
+    rdf:type :Division .
+
+:senior_teacher_19610623-0005
+    rdf:type :Senior_Teacher ;
+    :teacherId "19610623-0005" ;
+    :teacherName "Teacher 5" ;
+    :Works_for :department_D5 ;
+    :Teacher_Belongs_To :division_D5-2 .
+
+:teacher_19610623-0005
+    rdf:type :Teacher ;
+    :teacherId "19610623-0005" ;
+    :teacherName "Teacher 5" ;
+    :Works_for :department_D5 ;
+    :Teacher_Belongs_To :division_D5-2 .
+
+:department_D5
+    rdf:type :Department .
+
+:division_D5-2
+    rdf:type :Division .
+
+:senior_teacher_19610620-0006
+    rdf:type :Senior_Teacher ;
+    :teacherId "19610620-0006" ;
+    :teacherName "Teacher 6" ;
+    :Works_for :department_D5 ;
+    :Teacher_Belongs_To :division_D5-0 .
+
+:teacher_19610620-0006
+    rdf:type :Teacher ;
+    :teacherId "19610620-0006" ;
+    :teacherName "Teacher 6" ;
+    :Works_for :department_D5 ;
+    :Teacher_Belongs_To :division_D5-0 .
+
+:department_D5
+    rdf:type :Department .
+
+:division_D5-0
+    rdf:type :Division .
+
+:senior_teacher_19580218-0007
+    rdf:type :Senior_Teacher ;
+    :teacherId "19580218-0007" ;
+    :teacherName "Teacher 7" ;
+    :Works_for :department_D4 ;
+    :Teacher_Belongs_To :division_D4-1 .
+
+:teacher_19580218-0007
+    rdf:type :Teacher ;
+    :teacherId "19580218-0007" ;
+    :teacherName "Teacher 7" ;
+    :Works_for :department_D4 ;
+    :Teacher_Belongs_To :division_D4-1 .
+
+:department_D4
+    rdf:type :Department .
+
+:division_D4-1
+    rdf:type :Division .
+
+:senior_teacher_19570828-0008
+    rdf:type :Senior_Teacher ;
+    :teacherId "19570828-0008" ;
+    :teacherName "Teacher 8" ;
+    :Works_for :department_D4 ;
+    :Teacher_Belongs_To :division_D4-0 .
+
+:teacher_19570828-0008
+    rdf:type :Teacher ;
+    :teacherId "19570828-0008" ;
+    :teacherName "Teacher 8" ;
+    :Works_for :department_D4 ;
+    :Teacher_Belongs_To :division_D4-0 .
+
+:department_D4
+    rdf:type :Department .
+
+:division_D4-0
+    rdf:type :Division .
+
+:senior_teacher_19690408-0009
+    rdf:type :Senior_Teacher ;
+    :teacherId "19690408-0009" ;
+    :teacherName "Teacher 9" ;
+    :Works_for :department_D3 ;
+    :Teacher_Belongs_To :division_D3-5 .
+
+:teacher_19690408-0009
+    rdf:type :Teacher ;
+    :teacherId "19690408-0009" ;
+    :teacherName "Teacher 9" ;
+    :Works_for :department_D3 ;
+    :Teacher_Belongs_To :division_D3-5 .
+
+:department_D3
+    rdf:type :Department .
+
+:division_D3-5
+    rdf:type :Division .
+
+:senior_teacher_19560612-0010
+    rdf:type :Senior_Teacher ;
+    :teacherId "19560612-0010" ;
+    :teacherName "Teacher 10" ;
+    :Works_for :department_D3 ;
+    :Teacher_Belongs_To :division_D3-2 .
+
+:teacher_19560612-0010
+    rdf:type :Teacher ;
+    :teacherId "19560612-0010" ;
+    :teacherName "Teacher 10" ;
+    :Works_for :department_D3 ;
+    :Teacher_Belongs_To :division_D3-2 .
+
+:department_D3
+    rdf:type :Department .
+
+:division_D3-2
+    rdf:type :Division .
+
+:senior_teacher_19570615-0011
+    rdf:type :Senior_Teacher ;
+    :teacherId "19570615-0011" ;
+    :teacherName "Teacher 11" ;
+    :Works_for :department_D5 ;
+    :Teacher_Belongs_To :division_D5-3 .
+
+:teacher_19570615-0011
+    rdf:type :Teacher ;
+    :teacherId "19570615-0011" ;
+    :teacherName "Teacher 11" ;
+    :Works_for :department_D5 ;
+    :Teacher_Belongs_To :division_D5-3 .
+
+:department_D5
+    rdf:type :Department .
+
+:division_D5-3
+    rdf:type :Division .
+
+:senior_teacher_19570826-0012
+    rdf:type :Senior_Teacher ;
+    :teacherId "19570826-0012" ;
+    :teacherName "Teacher 12" ;
+    :Works_for :department_D7 ;
+    :Teacher_Belongs_To :division_D7-5 .
+
+:teacher_19570826-0012
+    rdf:type :Teacher ;
+    :teacherId "19570826-0012" ;
+    :teacherName "Teacher 12" ;
+    :Works_for :department_D7 ;
+    :Teacher_Belongs_To :division_D7-5 .
+
+:department_D7
+    rdf:type :Department .
+
+:division_D7-5
+    rdf:type :Division .
+
+:senior_teacher_19640414-0013
+    rdf:type :Senior_Teacher ;
+    :teacherId "19640414-0013" ;
+    :teacherName "Teacher 13" ;
+    :Works_for :department_D4 ;
+    :Teacher_Belongs_To :division_D4-1 .
+
+:teacher_19640414-0013
+    rdf:type :Teacher ;
+    :teacherId "19640414-0013" ;
+    :teacherName "Teacher 13" ;
+    :Works_for :department_D4 ;
+    :Teacher_Belongs_To :division_D4-1 .
+
+:department_D4
+    rdf:type :Department .
+
+:division_D4-1
+    rdf:type :Division .
+
+:senior_teacher_19611219-0014
+    rdf:type :Senior_Teacher ;
+    :teacherId "19611219-0014" ;
+    :teacherName "Teacher 14" ;
+    :Works_for :department_D6 ;
+    :Teacher_Belongs_To :division_D6-3 .
+
+:teacher_19611219-0014
+    rdf:type :Teacher ;
+    :teacherId "19611219-0014" ;
+    :teacherName "Teacher 14" ;
+    :Works_for :department_D6 ;
+    :Teacher_Belongs_To :division_D6-3 .
+
+:department_D6
+    rdf:type :Department .
+
+:division_D6-3
+    rdf:type :Division .
+
+:senior_teacher_19690513-0015
+    rdf:type :Senior_Teacher ;
+    :teacherId "19690513-0015" ;
+    :teacherName "Teacher 15" ;
+    :Works_for :department_D7 ;
+    :Teacher_Belongs_To :division_D7-5 .
+
+:teacher_19690513-0015
+    rdf:type :Teacher ;
+    :teacherId "19690513-0015" ;
+    :teacherName "Teacher 15" ;
+    :Works_for :department_D7 ;
+    :Teacher_Belongs_To :division_D7-5 .
+
+:department_D7
+    rdf:type :Department .
+
+:division_D7-5
+    rdf:type :Division .
+
+:senior_teacher_19560812-0016
+    rdf:type :Senior_Teacher ;
+    :teacherId "19560812-0016" ;
+    :teacherName "Teacher 16" ;
+    :Works_for :department_D3 ;
+    :Teacher_Belongs_To :division_D3-1 .
+
+:teacher_19560812-0016
+    rdf:type :Teacher ;
+    :teacherId "19560812-0016" ;
+    :teacherName "Teacher 16" ;
+    :Works_for :department_D3 ;
+    :Teacher_Belongs_To :division_D3-1 .
+
+:department_D3
+    rdf:type :Department .
+
+:division_D3-1
+    rdf:type :Division .
+
+:senior_teacher_19580515-0017
+    rdf:type :Senior_Teacher ;
+    :teacherId "19580515-0017" ;
+    :teacherName "Teacher 17" ;
+    :Works_for :department_D6 ;
+    :Teacher_Belongs_To :division_D6-3 .
+
+:teacher_19580515-0017
+    rdf:type :Teacher ;
+    :teacherId "19580515-0017" ;
+    :teacherName "Teacher 17" ;
+    :Works_for :department_D6 ;
+    :Teacher_Belongs_To :division_D6-3 .
+
+:department_D6
+    rdf:type :Department .
+
+:division_D6-3
+    rdf:type :Division .
+
+:senior_teacher_19601021-0018
+    rdf:type :Senior_Teacher ;
+    :teacherId "19601021-0018" ;
+    :teacherName "Teacher 18" ;
+    :Works_for :department_D1 ;
+    :Teacher_Belongs_To :division_D1-3 .
+
+:teacher_19601021-0018
+    rdf:type :Teacher ;
+    :teacherId "19601021-0018" ;
+    :teacherName "Teacher 18" ;
+    :Works_for :department_D1 ;
+    :Teacher_Belongs_To :division_D1-3 .
+
+:department_D1
+    rdf:type :Department .
+
+:division_D1-3
+    rdf:type :Division .
+
+:senior_teacher_19650303-0019
+    rdf:type :Senior_Teacher ;
+    :teacherId "19650303-0019" ;
+    :teacherName "Teacher 19" ;
+    :Works_for :department_D6 ;
+    :Teacher_Belongs_To :division_D6-4 .
+
+:teacher_19650303-0019
+    rdf:type :Teacher ;
+    :teacherId "19650303-0019" ;
+    :teacherName "Teacher 19" ;
+    :Works_for :department_D6 ;
+    :Teacher_Belongs_To :division_D6-4 .
+
+:department_D6
+    rdf:type :Department .
+
+:division_D6-4
+    rdf:type :Division .
+
+:senior_teacher_19660630-0020
+    rdf:type :Senior_Teacher ;
+    :teacherId "19660630-0020" ;
+    :teacherName "Teacher 20" ;
+    :Works_for :department_D7 ;
+    :Teacher_Belongs_To :division_D7-5 .
+
+:teacher_19660630-0020
+    rdf:type :Teacher ;
+    :teacherId "19660630-0020" ;
+    :teacherName "Teacher 20" ;
+    :Works_for :department_D7 ;
+    :Teacher_Belongs_To :division_D7-5 .
+
+:department_D7
+    rdf:type :Department .
+
+:division_D7-5
+    rdf:type :Division .
+
+:senior_teacher_19600529-0021
+    rdf:type :Senior_Teacher ;
+    :teacherId "19600529-0021" ;
+    :teacherName "Teacher 21" ;
+    :Works_for :department_D3 ;
+    :Teacher_Belongs_To :division_D3-5 .
+
+:teacher_19600529-0021
+    rdf:type :Teacher ;
+    :teacherId "19600529-0021" ;
+    :teacherName "Teacher 21" ;
+    :Works_for :department_D3 ;
+    :Teacher_Belongs_To :division_D3-5 .
+
+:department_D3
+    rdf:type :Department .
+
+:division_D3-5
+    rdf:type :Division .
+
+:senior_teacher_19690917-0022
+    rdf:type :Senior_Teacher ;
+    :teacherId "19690917-0022" ;
+    :teacherName "Teacher 22" ;
+    :Works_for :department_D1 ;
+    :Teacher_Belongs_To :division_D1-3 .
+
+:teacher_19690917-0022
+    rdf:type :Teacher ;
+    :teacherId "19690917-0022" ;
+    :teacherName "Teacher 22" ;
+    :Works_for :department_D1 ;
+    :Teacher_Belongs_To :division_D1-3 .
+
+:department_D1
+    rdf:type :Department .
+
+:division_D1-3
+    rdf:type :Division .
+
+:senior_teacher_19620522-0023
+    rdf:type :Senior_Teacher ;
+    :teacherId "19620522-0023" ;
+    :teacherName "Teacher 23" ;
+    :Works_for :department_D2 ;
+    :Teacher_Belongs_To :division_D2-2 .
+
+:teacher_19620522-0023
+    rdf:type :Teacher ;
+    :teacherId "19620522-0023" ;
+    :teacherName "Teacher 23" ;
+    :Works_for :department_D2 ;
+    :Teacher_Belongs_To :division_D2-2 .
+
+:department_D2
+    rdf:type :Department .
+
+:division_D2-2
+    rdf:type :Division .
+
+:senior_teacher_19620831-0024
+    rdf:type :Senior_Teacher ;
+    :teacherId "19620831-0024" ;
+    :teacherName "Teacher 24" ;
+    :Works_for :department_D6 ;
+    :Teacher_Belongs_To :division_D6-0 .
+
+:teacher_19620831-0024
+    rdf:type :Teacher ;
+    :teacherId "19620831-0024" ;
+    :teacherName "Teacher 24" ;
+    :Works_for :department_D6 ;
+    :Teacher_Belongs_To :division_D6-0 .
+
+:department_D6
+    rdf:type :Department .
+
+:division_D6-0
+    rdf:type :Division .
+
+:senior_teacher_19560705-0025
+    rdf:type :Senior_Teacher ;
+    :teacherId "19560705-0025" ;
+    :teacherName "Teacher 25" ;
+    :Works_for :department_D7 ;
+    :Teacher_Belongs_To :division_D7-4 .
+
+:teacher_19560705-0025
+    rdf:type :Teacher ;
+    :teacherId "19560705-0025" ;
+    :teacherName "Teacher 25" ;
+    :Works_for :department_D7 ;
+    :Teacher_Belongs_To :division_D7-4 .
+
+:department_D7
+    rdf:type :Department .
+
+:division_D7-4
+    rdf:type :Division .
+
+:senior_teacher_19620424-0026
+    rdf:type :Senior_Teacher ;
+    :teacherId "19620424-0026" ;
+    :teacherName "Teacher 26" ;
+    :Works_for :department_D7 ;
+    :Teacher_Belongs_To :division_D7-1 .
+
+:teacher_19620424-0026
+    rdf:type :Teacher ;
+    :teacherId "19620424-0026" ;
+    :teacherName "Teacher 26" ;
+    :Works_for :department_D7 ;
+    :Teacher_Belongs_To :division_D7-1 .
+
+:department_D7
+    rdf:type :Department .
+
+:division_D7-1
+    rdf:type :Division .
+
+:senior_teacher_19610918-0027
+    rdf:type :Senior_Teacher ;
+    :teacherId "19610918-0027" ;
+    :teacherName "Teacher 27" ;
+    :Works_for :department_D4 ;
+    :Teacher_Belongs_To :division_D4-3 .
+
+:teacher_19610918-0027
+    rdf:type :Teacher ;
+    :teacherId "19610918-0027" ;
+    :teacherName "Teacher 27" ;
+    :Works_for :department_D4 ;
+    :Teacher_Belongs_To :division_D4-3 .
+
+:department_D4
+    rdf:type :Department .
+
+:division_D4-3
+    rdf:type :Division .
+
+:senior_teacher_19680712-0028
+    rdf:type :Senior_Teacher ;
+    :teacherId "19680712-0028" ;
+    :teacherName "Teacher 28" ;
+    :Works_for :department_D6 ;
+    :Teacher_Belongs_To :division_D6-0 .
+
+:teacher_19680712-0028
+    rdf:type :Teacher ;
+    :teacherId "19680712-0028" ;
+    :teacherName "Teacher 28" ;
+    :Works_for :department_D6 ;
+    :Teacher_Belongs_To :division_D6-0 .
+
+:department_D6
+    rdf:type :Department .
+
+:division_D6-0
+    rdf:type :Division .
+
+:senior_teacher_19640220-0029
+    rdf:type :Senior_Teacher ;
+    :teacherId "19640220-0029" ;
+    :teacherName "Teacher 29" ;
+    :Works_for :department_D6 ;
+    :Teacher_Belongs_To :division_D6-5 .
+
+:teacher_19640220-0029
+    rdf:type :Teacher ;
+    :teacherId "19640220-0029" ;
+    :teacherName "Teacher 29" ;
+    :Works_for :department_D6 ;
+    :Teacher_Belongs_To :division_D6-5 .
+
+:department_D6
+    rdf:type :Department .
+
+:division_D6-5
+    rdf:type :Division .
+
+:senior_teacher_19561222-0030
+    rdf:type :Senior_Teacher ;
+    :teacherId "19561222-0030" ;
+    :teacherName "Teacher 30" ;
+    :Works_for :department_D2 ;
+    :Teacher_Belongs_To :division_D2-2 .
+
+:teacher_19561222-0030
+    rdf:type :Teacher ;
+    :teacherId "19561222-0030" ;
+    :teacherName "Teacher 30" ;
+    :Works_for :department_D2 ;
+    :Teacher_Belongs_To :division_D2-2 .
+
+:department_D2
+    rdf:type :Department .
+
+:division_D2-2
+    rdf:type :Division .

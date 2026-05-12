@@ -8,8 +8,9 @@ ttl_file = "students.ttl"
 
 # Prefixes
 prefixes = """
-@prefix ex: <http://example.org/> .
-@prefix student: <http://example.org/student/> .
+@prefix : <http://www.semanticweb.org/frida/ontologies/2026/3/untitled-ontology-3/> .
+@prefix rdf: <http://www.w3.org/1999/02/22-rdf-syntax-ns#> .
+@prefix xsd: <http://www.w3.org/2001/XMLSchema#> .
 
 """
 
@@ -29,12 +30,13 @@ with open(csv_file, newline='', encoding='utf-8') as infile, \
         graduated = row["Graduated"]
 
         ttl_entry = f"""
-student:{student_id}
-    ex:hasStudentId "{student_id}" ;
-    ex:hasStudentName "{student_name}" ;
-    ex:hasProgramme "{programme}" ;
-    ex:hasGraduated "{graduated}" ;
-    ex:hasAdmissionYear "{year}" .
+:student_{student_id}
+    rdf:type :Student ;
+    :studentId "{student_id}" ;
+    :studentName "{student_name}" ;
+    :Enrolled_in :Programme_{programme} ;
+    :graduated {graduated.lower()} ;
+    :admissionYear "{year}" .
 
 
 """

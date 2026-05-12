@@ -28,11 +28,11 @@ with open(csv_file, newline='', encoding='utf-8') as infile, \
         grade = row["Grade"]
 
         ttl_entry = f"""
-registrations:{student_id}
-    ex:hasStudentId "{student_id}" ;
-    ex:hasCourseInstance "{course_instance}" ;
-    ex:hasStatus "{status}" ;
-    ex:hasGrade "{grade}" .
+:registrations_{student_id}
+    :Is_reg :student_{student_id} ;
+    :Registered_to :course_instance_{course_instance} ;
+    :status "{status}" ;
+    :grade "{grade}" .
 
 
 """

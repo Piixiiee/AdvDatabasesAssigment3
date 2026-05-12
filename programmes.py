@@ -8,8 +8,9 @@ ttl_file = "programmes.ttl"
 
 # Prefixes
 prefixes = """
-@prefix ex: <http://example.org/> .
-@prefix programmes: <http://example.org/programmes/> .
+@prefix : <http://www.semanticweb.org/frida/ontologies/2026/3/untitled-ontology-3/> .
+@prefix rdf: <http://www.w3.org/1999/02/22-rdf-syntax-ns#> .
+@prefix xsd: <http://www.w3.org/2001/XMLSchema#> .
 
 """
 
@@ -28,13 +29,15 @@ with open(csv_file, newline='', encoding='utf-8') as infile, \
         director = row["Director"]
 
         ttl_entry = f"""
-programme:{programme_code}
-    ex:hasProgrammeCode "{programme_code}" ;
-    ex:hasProgrammeName "{programme_name}" ;
-    ex:hasDepartmentName "{department_name}" ;
-    ex:hasDirector "{director}" .
+:programme_{programme_code}
+    rdf:type :Programme ;
+    :programmeCode "{programme_code}" ;
+    :programmeName "{programme_name}" ;
+    :departmentName "{department_name}" ;
+    :hasDirector :senior_teacher_{director} .
 
-
+:department_{department_name}
+    :rdf:type :Department .
 """
 
         outfile.write(ttl_entry)

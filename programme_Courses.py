@@ -29,12 +29,13 @@ with open(csv_file, newline='', encoding='utf-8') as infile, \
         course_type = row["Course Type"]
 
         ttl_entry = f"""
-programme_Courses:{programme_code}
-    ex:hasProgrammeCode "{programme_code}" ;
-    ex:hasStudyYear "{study_year}" ;
-    ex:hasAcademicYear "{academic_year}" ;
-    ex:hascourse "{course}" ;
-    ex:hasCourseType "{course_type}" .
+:programme_Course_{programme_code}
+    rdf:type :Programme_Course ;    
+    :programmeCode "{programme_code}" ;
+    :studyYear "{study_year}" ;
+    :academicYear "{academic_year}" ;
+    :Has_Course_Code :course_{course} ;
+    :courseType "{course_type}" .
 
 
 """

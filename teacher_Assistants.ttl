@@ -1,884 +1,2425 @@
 
-@prefix ex: <http://example.org/> .
-@prefix teacher_Assistants: <http://example.org/teacher_Assistants/> .
-
-
-teaching_Assistants:19781125-0031
-    ex:hasTeacherId "19781125-0031" ;
-    ex:hasTeacherName "TA 31" ;
-    ex:hasDepartmentName "D6" ;
-    ex:hasDivisionName "D6-0" .
-
-
-
-teaching_Assistants:19750906-0032
-    ex:hasTeacherId "19750906-0032" ;
-    ex:hasTeacherName "TA 32" ;
-    ex:hasDepartmentName "D3" ;
-    ex:hasDivisionName "D3-2" .
-
-
-
-teaching_Assistants:19750705-0033
-    ex:hasTeacherId "19750705-0033" ;
-    ex:hasTeacherName "TA 33" ;
-    ex:hasDepartmentName "D6" ;
-    ex:hasDivisionName "D6-1" .
-
-
-
-teaching_Assistants:19761024-0034
-    ex:hasTeacherId "19761024-0034" ;
-    ex:hasTeacherName "TA 34" ;
-    ex:hasDepartmentName "D5" ;
-    ex:hasDivisionName "D5-1" .
-
-
-
-teaching_Assistants:19780602-0035
-    ex:hasTeacherId "19780602-0035" ;
-    ex:hasTeacherName "TA 35" ;
-    ex:hasDepartmentName "D8" ;
-    ex:hasDivisionName "D8-2" .
-
-
-
-teaching_Assistants:19750331-0036
-    ex:hasTeacherId "19750331-0036" ;
-    ex:hasTeacherName "TA 36" ;
-    ex:hasDepartmentName "D3" ;
-    ex:hasDivisionName "D3-3" .
-
-
-
-teaching_Assistants:19750220-0037
-    ex:hasTeacherId "19750220-0037" ;
-    ex:hasTeacherName "TA 37" ;
-    ex:hasDepartmentName "D5" ;
-    ex:hasDivisionName "D5-3" .
-
-
-
-teaching_Assistants:19790702-0038
-    ex:hasTeacherId "19790702-0038" ;
-    ex:hasTeacherName "TA 38" ;
-    ex:hasDepartmentName "D3" ;
-    ex:hasDivisionName "D3-4" .
-
-
-
-teaching_Assistants:19751018-0039
-    ex:hasTeacherId "19751018-0039" ;
-    ex:hasTeacherName "TA 39" ;
-    ex:hasDepartmentName "D6" ;
-    ex:hasDivisionName "D6-4" .
-
-
-
-teaching_Assistants:19771013-0040
-    ex:hasTeacherId "19771013-0040" ;
-    ex:hasTeacherName "TA 40" ;
-    ex:hasDepartmentName "D2" ;
-    ex:hasDivisionName "D2-4" .
-
-
-
-teaching_Assistants:19790708-0041
-    ex:hasTeacherId "19790708-0041" ;
-    ex:hasTeacherName "TA 41" ;
-    ex:hasDepartmentName "D5" ;
-    ex:hasDivisionName "D5-2" .
-
-
-
-teaching_Assistants:19770713-0042
-    ex:hasTeacherId "19770713-0042" ;
-    ex:hasTeacherName "TA 42" ;
-    ex:hasDepartmentName "D6" ;
-    ex:hasDivisionName "D6-1" .
-
-
-
-teaching_Assistants:19750512-0043
-    ex:hasTeacherId "19750512-0043" ;
-    ex:hasTeacherName "TA 43" ;
-    ex:hasDepartmentName "D5" ;
-    ex:hasDivisionName "D5-0" .
-
-
-
-teaching_Assistants:19761020-0044
-    ex:hasTeacherId "19761020-0044" ;
-    ex:hasTeacherName "TA 44" ;
-    ex:hasDepartmentName "D6" ;
-    ex:hasDivisionName "D6-5" .
-
-
-
-teaching_Assistants:19790717-0045
-    ex:hasTeacherId "19790717-0045" ;
-    ex:hasTeacherName "TA 45" ;
-    ex:hasDepartmentName "D1" ;
-    ex:hasDivisionName "D1-2" .
-
-
-
-teaching_Assistants:19760524-0046
-    ex:hasTeacherId "19760524-0046" ;
-    ex:hasTeacherName "TA 46" ;
-    ex:hasDepartmentName "D4" ;
-    ex:hasDivisionName "D4-1" .
-
-
-
-teaching_Assistants:19780815-0047
-    ex:hasTeacherId "19780815-0047" ;
-    ex:hasTeacherName "TA 47" ;
-    ex:hasDepartmentName "D7" ;
-    ex:hasDivisionName "D7-2" .
-
-
-
-teaching_Assistants:19790618-0048
-    ex:hasTeacherId "19790618-0048" ;
-    ex:hasTeacherName "TA 48" ;
-    ex:hasDepartmentName "D2" ;
-    ex:hasDivisionName "D2-5" .
-
-
-
-teaching_Assistants:19790426-0049
-    ex:hasTeacherId "19790426-0049" ;
-    ex:hasTeacherName "TA 49" ;
-    ex:hasDepartmentName "D8" ;
-    ex:hasDivisionName "D8-3" .
-
-
-
-teaching_Assistants:19760108-0050
-    ex:hasTeacherId "19760108-0050" ;
-    ex:hasTeacherName "TA 50" ;
-    ex:hasDepartmentName "D1" ;
-    ex:hasDivisionName "D1-1" .
-
-
-
-teaching_Assistants:19750417-0051
-    ex:hasTeacherId "19750417-0051" ;
-    ex:hasTeacherName "TA 51" ;
-    ex:hasDepartmentName "D3" ;
-    ex:hasDivisionName "D3-1" .
-
-
-
-teaching_Assistants:19780317-0052
-    ex:hasTeacherId "19780317-0052" ;
-    ex:hasTeacherName "TA 52" ;
-    ex:hasDepartmentName "D5" ;
-    ex:hasDivisionName "D5-3" .
-
-
-
-teaching_Assistants:19781217-0053
-    ex:hasTeacherId "19781217-0053" ;
-    ex:hasTeacherName "TA 53" ;
-    ex:hasDepartmentName "D1" ;
-    ex:hasDivisionName "D1-3" .
-
-
-
-teaching_Assistants:19781130-0054
-    ex:hasTeacherId "19781130-0054" ;
-    ex:hasTeacherName "TA 54" ;
-    ex:hasDepartmentName "D6" ;
-    ex:hasDivisionName "D6-1" .
-
-
-
-teaching_Assistants:19761009-0055
-    ex:hasTeacherId "19761009-0055" ;
-    ex:hasTeacherName "TA 55" ;
-    ex:hasDepartmentName "D5" ;
-    ex:hasDivisionName "D5-2" .
-
-
-
-teaching_Assistants:19750122-0056
-    ex:hasTeacherId "19750122-0056" ;
-    ex:hasTeacherName "TA 56" ;
-    ex:hasDepartmentName "D3" ;
-    ex:hasDivisionName "D3-3" .
-
-
-
-teaching_Assistants:19780424-0057
-    ex:hasTeacherId "19780424-0057" ;
-    ex:hasTeacherName "TA 57" ;
-    ex:hasDepartmentName "D1" ;
-    ex:hasDivisionName "D1-4" .
-
-
-
-teaching_Assistants:19770224-0058
-    ex:hasTeacherId "19770224-0058" ;
-    ex:hasTeacherName "TA 58" ;
-    ex:hasDepartmentName "D4" ;
-    ex:hasDivisionName "D4-4" .
-
-
-
-teaching_Assistants:19750102-0059
-    ex:hasTeacherId "19750102-0059" ;
-    ex:hasTeacherName "TA 59" ;
-    ex:hasDepartmentName "D3" ;
-    ex:hasDivisionName "D3-0" .
-
-
-
-teaching_Assistants:19750722-0060
-    ex:hasTeacherId "19750722-0060" ;
-    ex:hasTeacherName "TA 60" ;
-    ex:hasDepartmentName "D4" ;
-    ex:hasDivisionName "D4-1" .
-
-
-
-teaching_Assistants:19930508-0061
-    ex:hasTeacherId "19930508-0061" ;
-    ex:hasTeacherName "TA 61" ;
-    ex:hasDepartmentName "D1" ;
-    ex:hasDivisionName "D1-4" .
-
-
-
-teaching_Assistants:19931118-0062
-    ex:hasTeacherId "19931118-0062" ;
-    ex:hasTeacherName "TA 62" ;
-    ex:hasDepartmentName "D1" ;
-    ex:hasDivisionName "D1-5" .
-
-
-
-teaching_Assistants:19900520-0063
-    ex:hasTeacherId "19900520-0063" ;
-    ex:hasTeacherName "TA 63" ;
-    ex:hasDepartmentName "D2" ;
-    ex:hasDivisionName "D2-1" .
-
-
-
-teaching_Assistants:19900124-0064
-    ex:hasTeacherId "19900124-0064" ;
-    ex:hasTeacherName "TA 64" ;
-    ex:hasDepartmentName "D7" ;
-    ex:hasDivisionName "D7-4" .
-
-
-
-teaching_Assistants:19920122-0065
-    ex:hasTeacherId "19920122-0065" ;
-    ex:hasTeacherName "TA 65" ;
-    ex:hasDepartmentName "D8" ;
-    ex:hasDivisionName "D8-4" .
-
-
-
-teaching_Assistants:19931203-0066
-    ex:hasTeacherId "19931203-0066" ;
-    ex:hasTeacherName "TA 66" ;
-    ex:hasDepartmentName "D2" ;
-    ex:hasDivisionName "D2-4" .
-
-
-
-teaching_Assistants:19910421-0067
-    ex:hasTeacherId "19910421-0067" ;
-    ex:hasTeacherName "TA 67" ;
-    ex:hasDepartmentName "D4" ;
-    ex:hasDivisionName "D4-3" .
-
-
-
-teaching_Assistants:19910514-0068
-    ex:hasTeacherId "19910514-0068" ;
-    ex:hasTeacherName "TA 68" ;
-    ex:hasDepartmentName "D7" ;
-    ex:hasDivisionName "D7-1" .
-
-
-
-teaching_Assistants:19911116-0069
-    ex:hasTeacherId "19911116-0069" ;
-    ex:hasTeacherName "TA 69" ;
-    ex:hasDepartmentName "D7" ;
-    ex:hasDivisionName "D7-2" .
-
-
-
-teaching_Assistants:19920828-0070
-    ex:hasTeacherId "19920828-0070" ;
-    ex:hasTeacherName "TA 70" ;
-    ex:hasDepartmentName "D7" ;
-    ex:hasDivisionName "D7-4" .
-
-
-
-teaching_Assistants:19901029-0071
-    ex:hasTeacherId "19901029-0071" ;
-    ex:hasTeacherName "TA 71" ;
-    ex:hasDepartmentName "D4" ;
-    ex:hasDivisionName "D4-2" .
-
-
-
-teaching_Assistants:19920206-0072
-    ex:hasTeacherId "19920206-0072" ;
-    ex:hasTeacherName "TA 72" ;
-    ex:hasDepartmentName "D5" ;
-    ex:hasDivisionName "D5-0" .
-
-
-
-teaching_Assistants:19920602-0073
-    ex:hasTeacherId "19920602-0073" ;
-    ex:hasTeacherName "TA 73" ;
-    ex:hasDepartmentName "D4" ;
-    ex:hasDivisionName "D4-5" .
-
-
-
-teaching_Assistants:19900201-0074
-    ex:hasTeacherId "19900201-0074" ;
-    ex:hasTeacherName "TA 74" ;
-    ex:hasDepartmentName "D2" ;
-    ex:hasDivisionName "D2-5" .
-
-
-
-teaching_Assistants:19920226-0075
-    ex:hasTeacherId "19920226-0075" ;
-    ex:hasTeacherName "TA 75" ;
-    ex:hasDepartmentName "D7" ;
-    ex:hasDivisionName "D7-3" .
-
-
-
-teaching_Assistants:19900619-0076
-    ex:hasTeacherId "19900619-0076" ;
-    ex:hasTeacherName "TA 76" ;
-    ex:hasDepartmentName "D4" ;
-    ex:hasDivisionName "D4-3" .
-
-
-
-teaching_Assistants:19910122-0077
-    ex:hasTeacherId "19910122-0077" ;
-    ex:hasTeacherName "TA 77" ;
-    ex:hasDepartmentName "D3" ;
-    ex:hasDivisionName "D3-0" .
-
-
-
-teaching_Assistants:19910820-0078
-    ex:hasTeacherId "19910820-0078" ;
-    ex:hasTeacherName "TA 78" ;
-    ex:hasDepartmentName "D6" ;
-    ex:hasDivisionName "D6-2" .
-
-
-
-teaching_Assistants:19931212-0079
-    ex:hasTeacherId "19931212-0079" ;
-    ex:hasTeacherName "TA 79" ;
-    ex:hasDepartmentName "D4" ;
-    ex:hasDivisionName "D4-2" .
-
-
-
-teaching_Assistants:19900321-0080
-    ex:hasTeacherId "19900321-0080" ;
-    ex:hasTeacherName "TA 80" ;
-    ex:hasDepartmentName "D4" ;
-    ex:hasDivisionName "D4-3" .
-
-
-
-teaching_Assistants:19910206-0081
-    ex:hasTeacherId "19910206-0081" ;
-    ex:hasTeacherName "TA 81" ;
-    ex:hasDepartmentName "D2" ;
-    ex:hasDivisionName "D2-1" .
-
-
-
-teaching_Assistants:19930829-0082
-    ex:hasTeacherId "19930829-0082" ;
-    ex:hasTeacherName "TA 82" ;
-    ex:hasDepartmentName "D3" ;
-    ex:hasDivisionName "D3-5" .
-
-
-
-teaching_Assistants:19900317-0083
-    ex:hasTeacherId "19900317-0083" ;
-    ex:hasTeacherName "TA 83" ;
-    ex:hasDepartmentName "D2" ;
-    ex:hasDivisionName "D2-5" .
-
-
-
-teaching_Assistants:19910214-0084
-    ex:hasTeacherId "19910214-0084" ;
-    ex:hasTeacherName "TA 84" ;
-    ex:hasDepartmentName "D6" ;
-    ex:hasDivisionName "D6-1" .
-
-
-
-teaching_Assistants:19901002-0085
-    ex:hasTeacherId "19901002-0085" ;
-    ex:hasTeacherName "TA 85" ;
-    ex:hasDepartmentName "D2" ;
-    ex:hasDivisionName "D2-0" .
-
-
-
-teaching_Assistants:19930228-0086
-    ex:hasTeacherId "19930228-0086" ;
-    ex:hasTeacherName "TA 86" ;
-    ex:hasDepartmentName "D8" ;
-    ex:hasDivisionName "D8-0" .
-
-
-
-teaching_Assistants:19901108-0087
-    ex:hasTeacherId "19901108-0087" ;
-    ex:hasTeacherName "TA 87" ;
-    ex:hasDepartmentName "D7" ;
-    ex:hasDivisionName "D7-4" .
-
-
-
-teaching_Assistants:19920826-0088
-    ex:hasTeacherId "19920826-0088" ;
-    ex:hasTeacherName "TA 88" ;
-    ex:hasDepartmentName "D8" ;
-    ex:hasDivisionName "D8-5" .
-
-
-
-teaching_Assistants:19900426-0089
-    ex:hasTeacherId "19900426-0089" ;
-    ex:hasTeacherName "TA 89" ;
-    ex:hasDepartmentName "D7" ;
-    ex:hasDivisionName "D7-0" .
-
-
-
-teaching_Assistants:19900902-0090
-    ex:hasTeacherId "19900902-0090" ;
-    ex:hasTeacherName "TA 90" ;
-    ex:hasDepartmentName "D5" ;
-    ex:hasDivisionName "D5-3" .
-
-
-
-teaching_Assistants:19911025-0091
-    ex:hasTeacherId "19911025-0091" ;
-    ex:hasTeacherName "TA 91" ;
-    ex:hasDepartmentName "D4" ;
-    ex:hasDivisionName "D4-3" .
-
-
-
-teaching_Assistants:19910817-0092
-    ex:hasTeacherId "19910817-0092" ;
-    ex:hasTeacherName "TA 92" ;
-    ex:hasDepartmentName "D3" ;
-    ex:hasDivisionName "D3-4" .
-
-
-
-teaching_Assistants:19920504-0093
-    ex:hasTeacherId "19920504-0093" ;
-    ex:hasTeacherName "TA 93" ;
-    ex:hasDepartmentName "D6" ;
-    ex:hasDivisionName "D6-2" .
-
-
-
-teaching_Assistants:19921201-0094
-    ex:hasTeacherId "19921201-0094" ;
-    ex:hasTeacherName "TA 94" ;
-    ex:hasDepartmentName "D8" ;
-    ex:hasDivisionName "D8-3" .
-
-
-
-teaching_Assistants:19900128-0095
-    ex:hasTeacherId "19900128-0095" ;
-    ex:hasTeacherName "TA 95" ;
-    ex:hasDepartmentName "D8" ;
-    ex:hasDivisionName "D8-5" .
-
-
-
-teaching_Assistants:19910327-0096
-    ex:hasTeacherId "19910327-0096" ;
-    ex:hasTeacherName "TA 96" ;
-    ex:hasDepartmentName "D8" ;
-    ex:hasDivisionName "D8-4" .
-
-
-
-teaching_Assistants:19921208-0097
-    ex:hasTeacherId "19921208-0097" ;
-    ex:hasTeacherName "TA 97" ;
-    ex:hasDepartmentName "D7" ;
-    ex:hasDivisionName "D7-4" .
-
-
-
-teaching_Assistants:19920217-0098
-    ex:hasTeacherId "19920217-0098" ;
-    ex:hasTeacherName "TA 98" ;
-    ex:hasDepartmentName "D7" ;
-    ex:hasDivisionName "D7-4" .
-
-
-
-teaching_Assistants:19931231-0099
-    ex:hasTeacherId "19931231-0099" ;
-    ex:hasTeacherName "TA 99" ;
-    ex:hasDepartmentName "D2" ;
-    ex:hasDivisionName "D2-5" .
-
-
-
-teaching_Assistants:19930709-0100
-    ex:hasTeacherId "19930709-0100" ;
-    ex:hasTeacherName "TA 100" ;
-    ex:hasDepartmentName "D1" ;
-    ex:hasDivisionName "D1-4" .
-
-
-
-teaching_Assistants:19921218-0101
-    ex:hasTeacherId "19921218-0101" ;
-    ex:hasTeacherName "TA 101" ;
-    ex:hasDepartmentName "D5" ;
-    ex:hasDivisionName "D5-2" .
-
-
-
-teaching_Assistants:19910404-0102
-    ex:hasTeacherId "19910404-0102" ;
-    ex:hasTeacherName "TA 102" ;
-    ex:hasDepartmentName "D1" ;
-    ex:hasDivisionName "D1-4" .
-
-
-
-teaching_Assistants:19910403-0103
-    ex:hasTeacherId "19910403-0103" ;
-    ex:hasTeacherName "TA 103" ;
-    ex:hasDepartmentName "D7" ;
-    ex:hasDivisionName "D7-2" .
-
-
-
-teaching_Assistants:19900119-0104
-    ex:hasTeacherId "19900119-0104" ;
-    ex:hasTeacherName "TA 104" ;
-    ex:hasDepartmentName "D6" ;
-    ex:hasDivisionName "D6-5" .
-
-
-
-teaching_Assistants:19900307-0105
-    ex:hasTeacherId "19900307-0105" ;
-    ex:hasTeacherName "TA 105" ;
-    ex:hasDepartmentName "D2" ;
-    ex:hasDivisionName "D2-3" .
-
-
-
-teaching_Assistants:19930414-0106
-    ex:hasTeacherId "19930414-0106" ;
-    ex:hasTeacherName "TA 106" ;
-    ex:hasDepartmentName "D7" ;
-    ex:hasDivisionName "D7-4" .
-
-
-
-teaching_Assistants:19920316-0107
-    ex:hasTeacherId "19920316-0107" ;
-    ex:hasTeacherName "TA 107" ;
-    ex:hasDepartmentName "D7" ;
-    ex:hasDivisionName "D7-4" .
-
-
-
-teaching_Assistants:19921123-0108
-    ex:hasTeacherId "19921123-0108" ;
-    ex:hasTeacherName "TA 108" ;
-    ex:hasDepartmentName "D2" ;
-    ex:hasDivisionName "D2-4" .
-
-
-
-teaching_Assistants:19920917-0109
-    ex:hasTeacherId "19920917-0109" ;
-    ex:hasTeacherName "TA 109" ;
-    ex:hasDepartmentName "D4" ;
-    ex:hasDivisionName "D4-5" .
-
-
-
-teaching_Assistants:19930906-0110
-    ex:hasTeacherId "19930906-0110" ;
-    ex:hasTeacherName "TA 110" ;
-    ex:hasDepartmentName "D3" ;
-    ex:hasDivisionName "D3-0" .
-
-
-
-teaching_Assistants:19901026-0111
-    ex:hasTeacherId "19901026-0111" ;
-    ex:hasTeacherName "TA 111" ;
-    ex:hasDepartmentName "D3" ;
-    ex:hasDivisionName "D3-5" .
-
-
-
-teaching_Assistants:19900430-0112
-    ex:hasTeacherId "19900430-0112" ;
-    ex:hasTeacherName "TA 112" ;
-    ex:hasDepartmentName "D6" ;
-    ex:hasDivisionName "D6-0" .
-
-
-
-teaching_Assistants:19900701-0113
-    ex:hasTeacherId "19900701-0113" ;
-    ex:hasTeacherName "TA 113" ;
-    ex:hasDepartmentName "D1" ;
-    ex:hasDivisionName "D1-0" .
-
-
-
-teaching_Assistants:19900902-0114
-    ex:hasTeacherId "19900902-0114" ;
-    ex:hasTeacherName "TA 114" ;
-    ex:hasDepartmentName "D6" ;
-    ex:hasDivisionName "D6-0" .
-
-
-
-teaching_Assistants:19920505-0115
-    ex:hasTeacherId "19920505-0115" ;
-    ex:hasTeacherName "TA 115" ;
-    ex:hasDepartmentName "D3" ;
-    ex:hasDivisionName "D3-3" .
-
-
-
-teaching_Assistants:19900818-0116
-    ex:hasTeacherId "19900818-0116" ;
-    ex:hasTeacherName "TA 116" ;
-    ex:hasDepartmentName "D4" ;
-    ex:hasDivisionName "D4-5" .
-
-
-
-teaching_Assistants:19930512-0117
-    ex:hasTeacherId "19930512-0117" ;
-    ex:hasTeacherName "TA 117" ;
-    ex:hasDepartmentName "D4" ;
-    ex:hasDivisionName "D4-2" .
-
-
-
-teaching_Assistants:19931226-0118
-    ex:hasTeacherId "19931226-0118" ;
-    ex:hasTeacherName "TA 118" ;
-    ex:hasDepartmentName "D8" ;
-    ex:hasDivisionName "D8-4" .
-
-
-
-teaching_Assistants:19901011-0119
-    ex:hasTeacherId "19901011-0119" ;
-    ex:hasTeacherName "TA 119" ;
-    ex:hasDepartmentName "D2" ;
-    ex:hasDivisionName "D2-1" .
-
-
-
-teaching_Assistants:19921127-0120
-    ex:hasTeacherId "19921127-0120" ;
-    ex:hasTeacherName "TA 120" ;
-    ex:hasDepartmentName "D4" ;
-    ex:hasDivisionName "D4-3" .
-
-
-
-teaching_Assistants:19920320-0121
-    ex:hasTeacherId "19920320-0121" ;
-    ex:hasTeacherName "TA 121" ;
-    ex:hasDepartmentName "D2" ;
-    ex:hasDivisionName "D2-2" .
-
-
-
-teaching_Assistants:19910822-0122
-    ex:hasTeacherId "19910822-0122" ;
-    ex:hasTeacherName "TA 122" ;
-    ex:hasDepartmentName "D5" ;
-    ex:hasDivisionName "D5-4" .
-
-
-
-teaching_Assistants:19900909-0123
-    ex:hasTeacherId "19900909-0123" ;
-    ex:hasTeacherName "TA 123" ;
-    ex:hasDepartmentName "D6" ;
-    ex:hasDivisionName "D6-0" .
-
-
-
-teaching_Assistants:19900616-0124
-    ex:hasTeacherId "19900616-0124" ;
-    ex:hasTeacherName "TA 124" ;
-    ex:hasDepartmentName "D6" ;
-    ex:hasDivisionName "D6-2" .
-
-
-
-teaching_Assistants:19901219-0125
-    ex:hasTeacherId "19901219-0125" ;
-    ex:hasTeacherName "TA 125" ;
-    ex:hasDepartmentName "D7" ;
-    ex:hasDivisionName "D7-1" .
-
-
-
-teaching_Assistants:19900723-0126
-    ex:hasTeacherId "19900723-0126" ;
-    ex:hasTeacherName "TA 126" ;
-    ex:hasDepartmentName "D1" ;
-    ex:hasDivisionName "D1-2" .
-
-
-
-teaching_Assistants:19930616-0127
-    ex:hasTeacherId "19930616-0127" ;
-    ex:hasTeacherName "TA 127" ;
-    ex:hasDepartmentName "D3" ;
-    ex:hasDivisionName "D3-1" .
-
-
-
-teaching_Assistants:19910927-0128
-    ex:hasTeacherId "19910927-0128" ;
-    ex:hasTeacherName "TA 128" ;
-    ex:hasDepartmentName "D7" ;
-    ex:hasDivisionName "D7-3" .
-
-
-
-teaching_Assistants:19921002-0129
-    ex:hasTeacherId "19921002-0129" ;
-    ex:hasTeacherName "TA 129" ;
-    ex:hasDepartmentName "D1" ;
-    ex:hasDivisionName "D1-1" .
-
-
-
-teaching_Assistants:19900801-0130
-    ex:hasTeacherId "19900801-0130" ;
-    ex:hasTeacherName "TA 130" ;
-    ex:hasDepartmentName "D2" ;
-    ex:hasDivisionName "D2-2" .
-
-
-
-teaching_Assistants:19910403-0131
-    ex:hasTeacherId "19910403-0131" ;
-    ex:hasTeacherName "TA 131" ;
-    ex:hasDepartmentName "D8" ;
-    ex:hasDivisionName "D8-4" .
-
-
-
-teaching_Assistants:19930326-0132
-    ex:hasTeacherId "19930326-0132" ;
-    ex:hasTeacherName "TA 132" ;
-    ex:hasDepartmentName "D4" ;
-    ex:hasDivisionName "D4-0" .
-
-
-
-teaching_Assistants:19910101-0133
-    ex:hasTeacherId "19910101-0133" ;
-    ex:hasTeacherName "TA 133" ;
-    ex:hasDepartmentName "D7" ;
-    ex:hasDivisionName "D7-3" .
-
-
-
-teaching_Assistants:19900511-0134
-    ex:hasTeacherId "19900511-0134" ;
-    ex:hasTeacherName "TA 134" ;
-    ex:hasDepartmentName "D6" ;
-    ex:hasDivisionName "D6-2" .
-
-
-
-teaching_Assistants:19930302-0135
-    ex:hasTeacherId "19930302-0135" ;
-    ex:hasTeacherName "TA 135" ;
-    ex:hasDepartmentName "D6" ;
-    ex:hasDivisionName "D6-2" .
-
-
-
-teaching_Assistants:19910921-0136
-    ex:hasTeacherId "19910921-0136" ;
-    ex:hasTeacherName "TA 136" ;
-    ex:hasDepartmentName "D3" ;
-    ex:hasDivisionName "D3-1" .
-
-
-
-teaching_Assistants:19930919-0137
-    ex:hasTeacherId "19930919-0137" ;
-    ex:hasTeacherName "TA 137" ;
-    ex:hasDepartmentName "D8" ;
-    ex:hasDivisionName "D8-2" .
-
-
-
-teaching_Assistants:19900701-0138
-    ex:hasTeacherId "19900701-0138" ;
-    ex:hasTeacherName "TA 138" ;
-    ex:hasDepartmentName "D5" ;
-    ex:hasDivisionName "D5-1" .
-
-
-
-teaching_Assistants:19930221-0139
-    ex:hasTeacherId "19930221-0139" ;
-    ex:hasTeacherName "TA 139" ;
-    ex:hasDepartmentName "D3" ;
-    ex:hasDivisionName "D3-5" .
-
-
-
-teaching_Assistants:19900211-0140
-    ex:hasTeacherId "19900211-0140" ;
-    ex:hasTeacherName "TA 140" ;
-    ex:hasDepartmentName "D5" ;
-    ex:hasDivisionName "D5-0" .
-
-
+@prefix : <http://www.semanticweb.org/frida/ontologies/2026/3/untitled-ontology-3/> .
+@prefix rdf: <http://www.w3.org/1999/02/22-rdf-syntax-ns#> .
+@prefix xsd: <http://www.w3.org/2001/XMLSchema#> .
+
+
+:teaching_Assistant_19781125-0031
+    rdf:type :Teaching_assistant ;
+    :teacherId "19781125-0031" ;
+    :teacherName "TA 31" ;
+    :Works_for :department_D6 ;
+    :Teacher_Belongs_To :division_D6-0;
+    :Might_be :student_19781125-0031 .
+
+:teacher_19781125-0031
+    rdf:type :Teacher ;
+    :teacherId "19781125-0031" ;
+    :teacherName "TA 31" ;
+    :Works_for :department_D6 ;
+    :Teacher_Belongs_To :division_D6-0 .
+
+:department_D6
+    rdf:type :Department .
+
+:division_D6-0
+    rdf:type :Division .
+        
+
+:teaching_Assistant_19750906-0032
+    rdf:type :Teaching_assistant ;
+    :teacherId "19750906-0032" ;
+    :teacherName "TA 32" ;
+    :Works_for :department_D3 ;
+    :Teacher_Belongs_To :division_D3-2;
+    :Might_be :student_19750906-0032 .
+
+:teacher_19750906-0032
+    rdf:type :Teacher ;
+    :teacherId "19750906-0032" ;
+    :teacherName "TA 32" ;
+    :Works_for :department_D3 ;
+    :Teacher_Belongs_To :division_D3-2 .
+
+:department_D3
+    rdf:type :Department .
+
+:division_D3-2
+    rdf:type :Division .
+        
+
+:teaching_Assistant_19750705-0033
+    rdf:type :Teaching_assistant ;
+    :teacherId "19750705-0033" ;
+    :teacherName "TA 33" ;
+    :Works_for :department_D6 ;
+    :Teacher_Belongs_To :division_D6-1;
+    :Might_be :student_19750705-0033 .
+
+:teacher_19750705-0033
+    rdf:type :Teacher ;
+    :teacherId "19750705-0033" ;
+    :teacherName "TA 33" ;
+    :Works_for :department_D6 ;
+    :Teacher_Belongs_To :division_D6-1 .
+
+:department_D6
+    rdf:type :Department .
+
+:division_D6-1
+    rdf:type :Division .
+        
+
+:teaching_Assistant_19761024-0034
+    rdf:type :Teaching_assistant ;
+    :teacherId "19761024-0034" ;
+    :teacherName "TA 34" ;
+    :Works_for :department_D5 ;
+    :Teacher_Belongs_To :division_D5-1;
+    :Might_be :student_19761024-0034 .
+
+:teacher_19761024-0034
+    rdf:type :Teacher ;
+    :teacherId "19761024-0034" ;
+    :teacherName "TA 34" ;
+    :Works_for :department_D5 ;
+    :Teacher_Belongs_To :division_D5-1 .
+
+:department_D5
+    rdf:type :Department .
+
+:division_D5-1
+    rdf:type :Division .
+        
+
+:teaching_Assistant_19780602-0035
+    rdf:type :Teaching_assistant ;
+    :teacherId "19780602-0035" ;
+    :teacherName "TA 35" ;
+    :Works_for :department_D8 ;
+    :Teacher_Belongs_To :division_D8-2;
+    :Might_be :student_19780602-0035 .
+
+:teacher_19780602-0035
+    rdf:type :Teacher ;
+    :teacherId "19780602-0035" ;
+    :teacherName "TA 35" ;
+    :Works_for :department_D8 ;
+    :Teacher_Belongs_To :division_D8-2 .
+
+:department_D8
+    rdf:type :Department .
+
+:division_D8-2
+    rdf:type :Division .
+        
+
+:teaching_Assistant_19750331-0036
+    rdf:type :Teaching_assistant ;
+    :teacherId "19750331-0036" ;
+    :teacherName "TA 36" ;
+    :Works_for :department_D3 ;
+    :Teacher_Belongs_To :division_D3-3;
+    :Might_be :student_19750331-0036 .
+
+:teacher_19750331-0036
+    rdf:type :Teacher ;
+    :teacherId "19750331-0036" ;
+    :teacherName "TA 36" ;
+    :Works_for :department_D3 ;
+    :Teacher_Belongs_To :division_D3-3 .
+
+:department_D3
+    rdf:type :Department .
+
+:division_D3-3
+    rdf:type :Division .
+        
+
+:teaching_Assistant_19750220-0037
+    rdf:type :Teaching_assistant ;
+    :teacherId "19750220-0037" ;
+    :teacherName "TA 37" ;
+    :Works_for :department_D5 ;
+    :Teacher_Belongs_To :division_D5-3;
+    :Might_be :student_19750220-0037 .
+
+:teacher_19750220-0037
+    rdf:type :Teacher ;
+    :teacherId "19750220-0037" ;
+    :teacherName "TA 37" ;
+    :Works_for :department_D5 ;
+    :Teacher_Belongs_To :division_D5-3 .
+
+:department_D5
+    rdf:type :Department .
+
+:division_D5-3
+    rdf:type :Division .
+        
+
+:teaching_Assistant_19790702-0038
+    rdf:type :Teaching_assistant ;
+    :teacherId "19790702-0038" ;
+    :teacherName "TA 38" ;
+    :Works_for :department_D3 ;
+    :Teacher_Belongs_To :division_D3-4;
+    :Might_be :student_19790702-0038 .
+
+:teacher_19790702-0038
+    rdf:type :Teacher ;
+    :teacherId "19790702-0038" ;
+    :teacherName "TA 38" ;
+    :Works_for :department_D3 ;
+    :Teacher_Belongs_To :division_D3-4 .
+
+:department_D3
+    rdf:type :Department .
+
+:division_D3-4
+    rdf:type :Division .
+        
+
+:teaching_Assistant_19751018-0039
+    rdf:type :Teaching_assistant ;
+    :teacherId "19751018-0039" ;
+    :teacherName "TA 39" ;
+    :Works_for :department_D6 ;
+    :Teacher_Belongs_To :division_D6-4;
+    :Might_be :student_19751018-0039 .
+
+:teacher_19751018-0039
+    rdf:type :Teacher ;
+    :teacherId "19751018-0039" ;
+    :teacherName "TA 39" ;
+    :Works_for :department_D6 ;
+    :Teacher_Belongs_To :division_D6-4 .
+
+:department_D6
+    rdf:type :Department .
+
+:division_D6-4
+    rdf:type :Division .
+        
+
+:teaching_Assistant_19771013-0040
+    rdf:type :Teaching_assistant ;
+    :teacherId "19771013-0040" ;
+    :teacherName "TA 40" ;
+    :Works_for :department_D2 ;
+    :Teacher_Belongs_To :division_D2-4;
+    :Might_be :student_19771013-0040 .
+
+:teacher_19771013-0040
+    rdf:type :Teacher ;
+    :teacherId "19771013-0040" ;
+    :teacherName "TA 40" ;
+    :Works_for :department_D2 ;
+    :Teacher_Belongs_To :division_D2-4 .
+
+:department_D2
+    rdf:type :Department .
+
+:division_D2-4
+    rdf:type :Division .
+        
+
+:teaching_Assistant_19790708-0041
+    rdf:type :Teaching_assistant ;
+    :teacherId "19790708-0041" ;
+    :teacherName "TA 41" ;
+    :Works_for :department_D5 ;
+    :Teacher_Belongs_To :division_D5-2;
+    :Might_be :student_19790708-0041 .
+
+:teacher_19790708-0041
+    rdf:type :Teacher ;
+    :teacherId "19790708-0041" ;
+    :teacherName "TA 41" ;
+    :Works_for :department_D5 ;
+    :Teacher_Belongs_To :division_D5-2 .
+
+:department_D5
+    rdf:type :Department .
+
+:division_D5-2
+    rdf:type :Division .
+        
+
+:teaching_Assistant_19770713-0042
+    rdf:type :Teaching_assistant ;
+    :teacherId "19770713-0042" ;
+    :teacherName "TA 42" ;
+    :Works_for :department_D6 ;
+    :Teacher_Belongs_To :division_D6-1;
+    :Might_be :student_19770713-0042 .
+
+:teacher_19770713-0042
+    rdf:type :Teacher ;
+    :teacherId "19770713-0042" ;
+    :teacherName "TA 42" ;
+    :Works_for :department_D6 ;
+    :Teacher_Belongs_To :division_D6-1 .
+
+:department_D6
+    rdf:type :Department .
+
+:division_D6-1
+    rdf:type :Division .
+        
+
+:teaching_Assistant_19750512-0043
+    rdf:type :Teaching_assistant ;
+    :teacherId "19750512-0043" ;
+    :teacherName "TA 43" ;
+    :Works_for :department_D5 ;
+    :Teacher_Belongs_To :division_D5-0;
+    :Might_be :student_19750512-0043 .
+
+:teacher_19750512-0043
+    rdf:type :Teacher ;
+    :teacherId "19750512-0043" ;
+    :teacherName "TA 43" ;
+    :Works_for :department_D5 ;
+    :Teacher_Belongs_To :division_D5-0 .
+
+:department_D5
+    rdf:type :Department .
+
+:division_D5-0
+    rdf:type :Division .
+        
+
+:teaching_Assistant_19761020-0044
+    rdf:type :Teaching_assistant ;
+    :teacherId "19761020-0044" ;
+    :teacherName "TA 44" ;
+    :Works_for :department_D6 ;
+    :Teacher_Belongs_To :division_D6-5;
+    :Might_be :student_19761020-0044 .
+
+:teacher_19761020-0044
+    rdf:type :Teacher ;
+    :teacherId "19761020-0044" ;
+    :teacherName "TA 44" ;
+    :Works_for :department_D6 ;
+    :Teacher_Belongs_To :division_D6-5 .
+
+:department_D6
+    rdf:type :Department .
+
+:division_D6-5
+    rdf:type :Division .
+        
+
+:teaching_Assistant_19790717-0045
+    rdf:type :Teaching_assistant ;
+    :teacherId "19790717-0045" ;
+    :teacherName "TA 45" ;
+    :Works_for :department_D1 ;
+    :Teacher_Belongs_To :division_D1-2;
+    :Might_be :student_19790717-0045 .
+
+:teacher_19790717-0045
+    rdf:type :Teacher ;
+    :teacherId "19790717-0045" ;
+    :teacherName "TA 45" ;
+    :Works_for :department_D1 ;
+    :Teacher_Belongs_To :division_D1-2 .
+
+:department_D1
+    rdf:type :Department .
+
+:division_D1-2
+    rdf:type :Division .
+        
+
+:teaching_Assistant_19760524-0046
+    rdf:type :Teaching_assistant ;
+    :teacherId "19760524-0046" ;
+    :teacherName "TA 46" ;
+    :Works_for :department_D4 ;
+    :Teacher_Belongs_To :division_D4-1;
+    :Might_be :student_19760524-0046 .
+
+:teacher_19760524-0046
+    rdf:type :Teacher ;
+    :teacherId "19760524-0046" ;
+    :teacherName "TA 46" ;
+    :Works_for :department_D4 ;
+    :Teacher_Belongs_To :division_D4-1 .
+
+:department_D4
+    rdf:type :Department .
+
+:division_D4-1
+    rdf:type :Division .
+        
+
+:teaching_Assistant_19780815-0047
+    rdf:type :Teaching_assistant ;
+    :teacherId "19780815-0047" ;
+    :teacherName "TA 47" ;
+    :Works_for :department_D7 ;
+    :Teacher_Belongs_To :division_D7-2;
+    :Might_be :student_19780815-0047 .
+
+:teacher_19780815-0047
+    rdf:type :Teacher ;
+    :teacherId "19780815-0047" ;
+    :teacherName "TA 47" ;
+    :Works_for :department_D7 ;
+    :Teacher_Belongs_To :division_D7-2 .
+
+:department_D7
+    rdf:type :Department .
+
+:division_D7-2
+    rdf:type :Division .
+        
+
+:teaching_Assistant_19790618-0048
+    rdf:type :Teaching_assistant ;
+    :teacherId "19790618-0048" ;
+    :teacherName "TA 48" ;
+    :Works_for :department_D2 ;
+    :Teacher_Belongs_To :division_D2-5;
+    :Might_be :student_19790618-0048 .
+
+:teacher_19790618-0048
+    rdf:type :Teacher ;
+    :teacherId "19790618-0048" ;
+    :teacherName "TA 48" ;
+    :Works_for :department_D2 ;
+    :Teacher_Belongs_To :division_D2-5 .
+
+:department_D2
+    rdf:type :Department .
+
+:division_D2-5
+    rdf:type :Division .
+        
+
+:teaching_Assistant_19790426-0049
+    rdf:type :Teaching_assistant ;
+    :teacherId "19790426-0049" ;
+    :teacherName "TA 49" ;
+    :Works_for :department_D8 ;
+    :Teacher_Belongs_To :division_D8-3;
+    :Might_be :student_19790426-0049 .
+
+:teacher_19790426-0049
+    rdf:type :Teacher ;
+    :teacherId "19790426-0049" ;
+    :teacherName "TA 49" ;
+    :Works_for :department_D8 ;
+    :Teacher_Belongs_To :division_D8-3 .
+
+:department_D8
+    rdf:type :Department .
+
+:division_D8-3
+    rdf:type :Division .
+        
+
+:teaching_Assistant_19760108-0050
+    rdf:type :Teaching_assistant ;
+    :teacherId "19760108-0050" ;
+    :teacherName "TA 50" ;
+    :Works_for :department_D1 ;
+    :Teacher_Belongs_To :division_D1-1;
+    :Might_be :student_19760108-0050 .
+
+:teacher_19760108-0050
+    rdf:type :Teacher ;
+    :teacherId "19760108-0050" ;
+    :teacherName "TA 50" ;
+    :Works_for :department_D1 ;
+    :Teacher_Belongs_To :division_D1-1 .
+
+:department_D1
+    rdf:type :Department .
+
+:division_D1-1
+    rdf:type :Division .
+        
+
+:teaching_Assistant_19750417-0051
+    rdf:type :Teaching_assistant ;
+    :teacherId "19750417-0051" ;
+    :teacherName "TA 51" ;
+    :Works_for :department_D3 ;
+    :Teacher_Belongs_To :division_D3-1;
+    :Might_be :student_19750417-0051 .
+
+:teacher_19750417-0051
+    rdf:type :Teacher ;
+    :teacherId "19750417-0051" ;
+    :teacherName "TA 51" ;
+    :Works_for :department_D3 ;
+    :Teacher_Belongs_To :division_D3-1 .
+
+:department_D3
+    rdf:type :Department .
+
+:division_D3-1
+    rdf:type :Division .
+        
+
+:teaching_Assistant_19780317-0052
+    rdf:type :Teaching_assistant ;
+    :teacherId "19780317-0052" ;
+    :teacherName "TA 52" ;
+    :Works_for :department_D5 ;
+    :Teacher_Belongs_To :division_D5-3;
+    :Might_be :student_19780317-0052 .
+
+:teacher_19780317-0052
+    rdf:type :Teacher ;
+    :teacherId "19780317-0052" ;
+    :teacherName "TA 52" ;
+    :Works_for :department_D5 ;
+    :Teacher_Belongs_To :division_D5-3 .
+
+:department_D5
+    rdf:type :Department .
+
+:division_D5-3
+    rdf:type :Division .
+        
+
+:teaching_Assistant_19781217-0053
+    rdf:type :Teaching_assistant ;
+    :teacherId "19781217-0053" ;
+    :teacherName "TA 53" ;
+    :Works_for :department_D1 ;
+    :Teacher_Belongs_To :division_D1-3;
+    :Might_be :student_19781217-0053 .
+
+:teacher_19781217-0053
+    rdf:type :Teacher ;
+    :teacherId "19781217-0053" ;
+    :teacherName "TA 53" ;
+    :Works_for :department_D1 ;
+    :Teacher_Belongs_To :division_D1-3 .
+
+:department_D1
+    rdf:type :Department .
+
+:division_D1-3
+    rdf:type :Division .
+        
+
+:teaching_Assistant_19781130-0054
+    rdf:type :Teaching_assistant ;
+    :teacherId "19781130-0054" ;
+    :teacherName "TA 54" ;
+    :Works_for :department_D6 ;
+    :Teacher_Belongs_To :division_D6-1;
+    :Might_be :student_19781130-0054 .
+
+:teacher_19781130-0054
+    rdf:type :Teacher ;
+    :teacherId "19781130-0054" ;
+    :teacherName "TA 54" ;
+    :Works_for :department_D6 ;
+    :Teacher_Belongs_To :division_D6-1 .
+
+:department_D6
+    rdf:type :Department .
+
+:division_D6-1
+    rdf:type :Division .
+        
+
+:teaching_Assistant_19761009-0055
+    rdf:type :Teaching_assistant ;
+    :teacherId "19761009-0055" ;
+    :teacherName "TA 55" ;
+    :Works_for :department_D5 ;
+    :Teacher_Belongs_To :division_D5-2;
+    :Might_be :student_19761009-0055 .
+
+:teacher_19761009-0055
+    rdf:type :Teacher ;
+    :teacherId "19761009-0055" ;
+    :teacherName "TA 55" ;
+    :Works_for :department_D5 ;
+    :Teacher_Belongs_To :division_D5-2 .
+
+:department_D5
+    rdf:type :Department .
+
+:division_D5-2
+    rdf:type :Division .
+        
+
+:teaching_Assistant_19750122-0056
+    rdf:type :Teaching_assistant ;
+    :teacherId "19750122-0056" ;
+    :teacherName "TA 56" ;
+    :Works_for :department_D3 ;
+    :Teacher_Belongs_To :division_D3-3;
+    :Might_be :student_19750122-0056 .
+
+:teacher_19750122-0056
+    rdf:type :Teacher ;
+    :teacherId "19750122-0056" ;
+    :teacherName "TA 56" ;
+    :Works_for :department_D3 ;
+    :Teacher_Belongs_To :division_D3-3 .
+
+:department_D3
+    rdf:type :Department .
+
+:division_D3-3
+    rdf:type :Division .
+        
+
+:teaching_Assistant_19780424-0057
+    rdf:type :Teaching_assistant ;
+    :teacherId "19780424-0057" ;
+    :teacherName "TA 57" ;
+    :Works_for :department_D1 ;
+    :Teacher_Belongs_To :division_D1-4;
+    :Might_be :student_19780424-0057 .
+
+:teacher_19780424-0057
+    rdf:type :Teacher ;
+    :teacherId "19780424-0057" ;
+    :teacherName "TA 57" ;
+    :Works_for :department_D1 ;
+    :Teacher_Belongs_To :division_D1-4 .
+
+:department_D1
+    rdf:type :Department .
+
+:division_D1-4
+    rdf:type :Division .
+        
+
+:teaching_Assistant_19770224-0058
+    rdf:type :Teaching_assistant ;
+    :teacherId "19770224-0058" ;
+    :teacherName "TA 58" ;
+    :Works_for :department_D4 ;
+    :Teacher_Belongs_To :division_D4-4;
+    :Might_be :student_19770224-0058 .
+
+:teacher_19770224-0058
+    rdf:type :Teacher ;
+    :teacherId "19770224-0058" ;
+    :teacherName "TA 58" ;
+    :Works_for :department_D4 ;
+    :Teacher_Belongs_To :division_D4-4 .
+
+:department_D4
+    rdf:type :Department .
+
+:division_D4-4
+    rdf:type :Division .
+        
+
+:teaching_Assistant_19750102-0059
+    rdf:type :Teaching_assistant ;
+    :teacherId "19750102-0059" ;
+    :teacherName "TA 59" ;
+    :Works_for :department_D3 ;
+    :Teacher_Belongs_To :division_D3-0;
+    :Might_be :student_19750102-0059 .
+
+:teacher_19750102-0059
+    rdf:type :Teacher ;
+    :teacherId "19750102-0059" ;
+    :teacherName "TA 59" ;
+    :Works_for :department_D3 ;
+    :Teacher_Belongs_To :division_D3-0 .
+
+:department_D3
+    rdf:type :Department .
+
+:division_D3-0
+    rdf:type :Division .
+        
+
+:teaching_Assistant_19750722-0060
+    rdf:type :Teaching_assistant ;
+    :teacherId "19750722-0060" ;
+    :teacherName "TA 60" ;
+    :Works_for :department_D4 ;
+    :Teacher_Belongs_To :division_D4-1;
+    :Might_be :student_19750722-0060 .
+
+:teacher_19750722-0060
+    rdf:type :Teacher ;
+    :teacherId "19750722-0060" ;
+    :teacherName "TA 60" ;
+    :Works_for :department_D4 ;
+    :Teacher_Belongs_To :division_D4-1 .
+
+:department_D4
+    rdf:type :Department .
+
+:division_D4-1
+    rdf:type :Division .
+        
+
+:teaching_Assistant_19930508-0061
+    rdf:type :Teaching_assistant ;
+    :teacherId "19930508-0061" ;
+    :teacherName "TA 61" ;
+    :Works_for :department_D1 ;
+    :Teacher_Belongs_To :division_D1-4;
+    :Might_be :student_19930508-0061 .
+
+:teacher_19930508-0061
+    rdf:type :Teacher ;
+    :teacherId "19930508-0061" ;
+    :teacherName "TA 61" ;
+    :Works_for :department_D1 ;
+    :Teacher_Belongs_To :division_D1-4 .
+
+:department_D1
+    rdf:type :Department .
+
+:division_D1-4
+    rdf:type :Division .
+        
+
+:teaching_Assistant_19931118-0062
+    rdf:type :Teaching_assistant ;
+    :teacherId "19931118-0062" ;
+    :teacherName "TA 62" ;
+    :Works_for :department_D1 ;
+    :Teacher_Belongs_To :division_D1-5;
+    :Might_be :student_19931118-0062 .
+
+:teacher_19931118-0062
+    rdf:type :Teacher ;
+    :teacherId "19931118-0062" ;
+    :teacherName "TA 62" ;
+    :Works_for :department_D1 ;
+    :Teacher_Belongs_To :division_D1-5 .
+
+:department_D1
+    rdf:type :Department .
+
+:division_D1-5
+    rdf:type :Division .
+        
+
+:teaching_Assistant_19900520-0063
+    rdf:type :Teaching_assistant ;
+    :teacherId "19900520-0063" ;
+    :teacherName "TA 63" ;
+    :Works_for :department_D2 ;
+    :Teacher_Belongs_To :division_D2-1;
+    :Might_be :student_19900520-0063 .
+
+:teacher_19900520-0063
+    rdf:type :Teacher ;
+    :teacherId "19900520-0063" ;
+    :teacherName "TA 63" ;
+    :Works_for :department_D2 ;
+    :Teacher_Belongs_To :division_D2-1 .
+
+:department_D2
+    rdf:type :Department .
+
+:division_D2-1
+    rdf:type :Division .
+        
+
+:teaching_Assistant_19900124-0064
+    rdf:type :Teaching_assistant ;
+    :teacherId "19900124-0064" ;
+    :teacherName "TA 64" ;
+    :Works_for :department_D7 ;
+    :Teacher_Belongs_To :division_D7-4;
+    :Might_be :student_19900124-0064 .
+
+:teacher_19900124-0064
+    rdf:type :Teacher ;
+    :teacherId "19900124-0064" ;
+    :teacherName "TA 64" ;
+    :Works_for :department_D7 ;
+    :Teacher_Belongs_To :division_D7-4 .
+
+:department_D7
+    rdf:type :Department .
+
+:division_D7-4
+    rdf:type :Division .
+        
+
+:teaching_Assistant_19920122-0065
+    rdf:type :Teaching_assistant ;
+    :teacherId "19920122-0065" ;
+    :teacherName "TA 65" ;
+    :Works_for :department_D8 ;
+    :Teacher_Belongs_To :division_D8-4;
+    :Might_be :student_19920122-0065 .
+
+:teacher_19920122-0065
+    rdf:type :Teacher ;
+    :teacherId "19920122-0065" ;
+    :teacherName "TA 65" ;
+    :Works_for :department_D8 ;
+    :Teacher_Belongs_To :division_D8-4 .
+
+:department_D8
+    rdf:type :Department .
+
+:division_D8-4
+    rdf:type :Division .
+        
+
+:teaching_Assistant_19931203-0066
+    rdf:type :Teaching_assistant ;
+    :teacherId "19931203-0066" ;
+    :teacherName "TA 66" ;
+    :Works_for :department_D2 ;
+    :Teacher_Belongs_To :division_D2-4;
+    :Might_be :student_19931203-0066 .
+
+:teacher_19931203-0066
+    rdf:type :Teacher ;
+    :teacherId "19931203-0066" ;
+    :teacherName "TA 66" ;
+    :Works_for :department_D2 ;
+    :Teacher_Belongs_To :division_D2-4 .
+
+:department_D2
+    rdf:type :Department .
+
+:division_D2-4
+    rdf:type :Division .
+        
+
+:teaching_Assistant_19910421-0067
+    rdf:type :Teaching_assistant ;
+    :teacherId "19910421-0067" ;
+    :teacherName "TA 67" ;
+    :Works_for :department_D4 ;
+    :Teacher_Belongs_To :division_D4-3;
+    :Might_be :student_19910421-0067 .
+
+:teacher_19910421-0067
+    rdf:type :Teacher ;
+    :teacherId "19910421-0067" ;
+    :teacherName "TA 67" ;
+    :Works_for :department_D4 ;
+    :Teacher_Belongs_To :division_D4-3 .
+
+:department_D4
+    rdf:type :Department .
+
+:division_D4-3
+    rdf:type :Division .
+        
+
+:teaching_Assistant_19910514-0068
+    rdf:type :Teaching_assistant ;
+    :teacherId "19910514-0068" ;
+    :teacherName "TA 68" ;
+    :Works_for :department_D7 ;
+    :Teacher_Belongs_To :division_D7-1;
+    :Might_be :student_19910514-0068 .
+
+:teacher_19910514-0068
+    rdf:type :Teacher ;
+    :teacherId "19910514-0068" ;
+    :teacherName "TA 68" ;
+    :Works_for :department_D7 ;
+    :Teacher_Belongs_To :division_D7-1 .
+
+:department_D7
+    rdf:type :Department .
+
+:division_D7-1
+    rdf:type :Division .
+        
+
+:teaching_Assistant_19911116-0069
+    rdf:type :Teaching_assistant ;
+    :teacherId "19911116-0069" ;
+    :teacherName "TA 69" ;
+    :Works_for :department_D7 ;
+    :Teacher_Belongs_To :division_D7-2;
+    :Might_be :student_19911116-0069 .
+
+:teacher_19911116-0069
+    rdf:type :Teacher ;
+    :teacherId "19911116-0069" ;
+    :teacherName "TA 69" ;
+    :Works_for :department_D7 ;
+    :Teacher_Belongs_To :division_D7-2 .
+
+:department_D7
+    rdf:type :Department .
+
+:division_D7-2
+    rdf:type :Division .
+        
+
+:teaching_Assistant_19920828-0070
+    rdf:type :Teaching_assistant ;
+    :teacherId "19920828-0070" ;
+    :teacherName "TA 70" ;
+    :Works_for :department_D7 ;
+    :Teacher_Belongs_To :division_D7-4;
+    :Might_be :student_19920828-0070 .
+
+:teacher_19920828-0070
+    rdf:type :Teacher ;
+    :teacherId "19920828-0070" ;
+    :teacherName "TA 70" ;
+    :Works_for :department_D7 ;
+    :Teacher_Belongs_To :division_D7-4 .
+
+:department_D7
+    rdf:type :Department .
+
+:division_D7-4
+    rdf:type :Division .
+        
+
+:teaching_Assistant_19901029-0071
+    rdf:type :Teaching_assistant ;
+    :teacherId "19901029-0071" ;
+    :teacherName "TA 71" ;
+    :Works_for :department_D4 ;
+    :Teacher_Belongs_To :division_D4-2;
+    :Might_be :student_19901029-0071 .
+
+:teacher_19901029-0071
+    rdf:type :Teacher ;
+    :teacherId "19901029-0071" ;
+    :teacherName "TA 71" ;
+    :Works_for :department_D4 ;
+    :Teacher_Belongs_To :division_D4-2 .
+
+:department_D4
+    rdf:type :Department .
+
+:division_D4-2
+    rdf:type :Division .
+        
+
+:teaching_Assistant_19920206-0072
+    rdf:type :Teaching_assistant ;
+    :teacherId "19920206-0072" ;
+    :teacherName "TA 72" ;
+    :Works_for :department_D5 ;
+    :Teacher_Belongs_To :division_D5-0;
+    :Might_be :student_19920206-0072 .
+
+:teacher_19920206-0072
+    rdf:type :Teacher ;
+    :teacherId "19920206-0072" ;
+    :teacherName "TA 72" ;
+    :Works_for :department_D5 ;
+    :Teacher_Belongs_To :division_D5-0 .
+
+:department_D5
+    rdf:type :Department .
+
+:division_D5-0
+    rdf:type :Division .
+        
+
+:teaching_Assistant_19920602-0073
+    rdf:type :Teaching_assistant ;
+    :teacherId "19920602-0073" ;
+    :teacherName "TA 73" ;
+    :Works_for :department_D4 ;
+    :Teacher_Belongs_To :division_D4-5;
+    :Might_be :student_19920602-0073 .
+
+:teacher_19920602-0073
+    rdf:type :Teacher ;
+    :teacherId "19920602-0073" ;
+    :teacherName "TA 73" ;
+    :Works_for :department_D4 ;
+    :Teacher_Belongs_To :division_D4-5 .
+
+:department_D4
+    rdf:type :Department .
+
+:division_D4-5
+    rdf:type :Division .
+        
+
+:teaching_Assistant_19900201-0074
+    rdf:type :Teaching_assistant ;
+    :teacherId "19900201-0074" ;
+    :teacherName "TA 74" ;
+    :Works_for :department_D2 ;
+    :Teacher_Belongs_To :division_D2-5;
+    :Might_be :student_19900201-0074 .
+
+:teacher_19900201-0074
+    rdf:type :Teacher ;
+    :teacherId "19900201-0074" ;
+    :teacherName "TA 74" ;
+    :Works_for :department_D2 ;
+    :Teacher_Belongs_To :division_D2-5 .
+
+:department_D2
+    rdf:type :Department .
+
+:division_D2-5
+    rdf:type :Division .
+        
+
+:teaching_Assistant_19920226-0075
+    rdf:type :Teaching_assistant ;
+    :teacherId "19920226-0075" ;
+    :teacherName "TA 75" ;
+    :Works_for :department_D7 ;
+    :Teacher_Belongs_To :division_D7-3;
+    :Might_be :student_19920226-0075 .
+
+:teacher_19920226-0075
+    rdf:type :Teacher ;
+    :teacherId "19920226-0075" ;
+    :teacherName "TA 75" ;
+    :Works_for :department_D7 ;
+    :Teacher_Belongs_To :division_D7-3 .
+
+:department_D7
+    rdf:type :Department .
+
+:division_D7-3
+    rdf:type :Division .
+        
+
+:teaching_Assistant_19900619-0076
+    rdf:type :Teaching_assistant ;
+    :teacherId "19900619-0076" ;
+    :teacherName "TA 76" ;
+    :Works_for :department_D4 ;
+    :Teacher_Belongs_To :division_D4-3;
+    :Might_be :student_19900619-0076 .
+
+:teacher_19900619-0076
+    rdf:type :Teacher ;
+    :teacherId "19900619-0076" ;
+    :teacherName "TA 76" ;
+    :Works_for :department_D4 ;
+    :Teacher_Belongs_To :division_D4-3 .
+
+:department_D4
+    rdf:type :Department .
+
+:division_D4-3
+    rdf:type :Division .
+        
+
+:teaching_Assistant_19910122-0077
+    rdf:type :Teaching_assistant ;
+    :teacherId "19910122-0077" ;
+    :teacherName "TA 77" ;
+    :Works_for :department_D3 ;
+    :Teacher_Belongs_To :division_D3-0;
+    :Might_be :student_19910122-0077 .
+
+:teacher_19910122-0077
+    rdf:type :Teacher ;
+    :teacherId "19910122-0077" ;
+    :teacherName "TA 77" ;
+    :Works_for :department_D3 ;
+    :Teacher_Belongs_To :division_D3-0 .
+
+:department_D3
+    rdf:type :Department .
+
+:division_D3-0
+    rdf:type :Division .
+        
+
+:teaching_Assistant_19910820-0078
+    rdf:type :Teaching_assistant ;
+    :teacherId "19910820-0078" ;
+    :teacherName "TA 78" ;
+    :Works_for :department_D6 ;
+    :Teacher_Belongs_To :division_D6-2;
+    :Might_be :student_19910820-0078 .
+
+:teacher_19910820-0078
+    rdf:type :Teacher ;
+    :teacherId "19910820-0078" ;
+    :teacherName "TA 78" ;
+    :Works_for :department_D6 ;
+    :Teacher_Belongs_To :division_D6-2 .
+
+:department_D6
+    rdf:type :Department .
+
+:division_D6-2
+    rdf:type :Division .
+        
+
+:teaching_Assistant_19931212-0079
+    rdf:type :Teaching_assistant ;
+    :teacherId "19931212-0079" ;
+    :teacherName "TA 79" ;
+    :Works_for :department_D4 ;
+    :Teacher_Belongs_To :division_D4-2;
+    :Might_be :student_19931212-0079 .
+
+:teacher_19931212-0079
+    rdf:type :Teacher ;
+    :teacherId "19931212-0079" ;
+    :teacherName "TA 79" ;
+    :Works_for :department_D4 ;
+    :Teacher_Belongs_To :division_D4-2 .
+
+:department_D4
+    rdf:type :Department .
+
+:division_D4-2
+    rdf:type :Division .
+        
+
+:teaching_Assistant_19900321-0080
+    rdf:type :Teaching_assistant ;
+    :teacherId "19900321-0080" ;
+    :teacherName "TA 80" ;
+    :Works_for :department_D4 ;
+    :Teacher_Belongs_To :division_D4-3;
+    :Might_be :student_19900321-0080 .
+
+:teacher_19900321-0080
+    rdf:type :Teacher ;
+    :teacherId "19900321-0080" ;
+    :teacherName "TA 80" ;
+    :Works_for :department_D4 ;
+    :Teacher_Belongs_To :division_D4-3 .
+
+:department_D4
+    rdf:type :Department .
+
+:division_D4-3
+    rdf:type :Division .
+        
+
+:teaching_Assistant_19910206-0081
+    rdf:type :Teaching_assistant ;
+    :teacherId "19910206-0081" ;
+    :teacherName "TA 81" ;
+    :Works_for :department_D2 ;
+    :Teacher_Belongs_To :division_D2-1;
+    :Might_be :student_19910206-0081 .
+
+:teacher_19910206-0081
+    rdf:type :Teacher ;
+    :teacherId "19910206-0081" ;
+    :teacherName "TA 81" ;
+    :Works_for :department_D2 ;
+    :Teacher_Belongs_To :division_D2-1 .
+
+:department_D2
+    rdf:type :Department .
+
+:division_D2-1
+    rdf:type :Division .
+        
+
+:teaching_Assistant_19930829-0082
+    rdf:type :Teaching_assistant ;
+    :teacherId "19930829-0082" ;
+    :teacherName "TA 82" ;
+    :Works_for :department_D3 ;
+    :Teacher_Belongs_To :division_D3-5;
+    :Might_be :student_19930829-0082 .
+
+:teacher_19930829-0082
+    rdf:type :Teacher ;
+    :teacherId "19930829-0082" ;
+    :teacherName "TA 82" ;
+    :Works_for :department_D3 ;
+    :Teacher_Belongs_To :division_D3-5 .
+
+:department_D3
+    rdf:type :Department .
+
+:division_D3-5
+    rdf:type :Division .
+        
+
+:teaching_Assistant_19900317-0083
+    rdf:type :Teaching_assistant ;
+    :teacherId "19900317-0083" ;
+    :teacherName "TA 83" ;
+    :Works_for :department_D2 ;
+    :Teacher_Belongs_To :division_D2-5;
+    :Might_be :student_19900317-0083 .
+
+:teacher_19900317-0083
+    rdf:type :Teacher ;
+    :teacherId "19900317-0083" ;
+    :teacherName "TA 83" ;
+    :Works_for :department_D2 ;
+    :Teacher_Belongs_To :division_D2-5 .
+
+:department_D2
+    rdf:type :Department .
+
+:division_D2-5
+    rdf:type :Division .
+        
+
+:teaching_Assistant_19910214-0084
+    rdf:type :Teaching_assistant ;
+    :teacherId "19910214-0084" ;
+    :teacherName "TA 84" ;
+    :Works_for :department_D6 ;
+    :Teacher_Belongs_To :division_D6-1;
+    :Might_be :student_19910214-0084 .
+
+:teacher_19910214-0084
+    rdf:type :Teacher ;
+    :teacherId "19910214-0084" ;
+    :teacherName "TA 84" ;
+    :Works_for :department_D6 ;
+    :Teacher_Belongs_To :division_D6-1 .
+
+:department_D6
+    rdf:type :Department .
+
+:division_D6-1
+    rdf:type :Division .
+        
+
+:teaching_Assistant_19901002-0085
+    rdf:type :Teaching_assistant ;
+    :teacherId "19901002-0085" ;
+    :teacherName "TA 85" ;
+    :Works_for :department_D2 ;
+    :Teacher_Belongs_To :division_D2-0;
+    :Might_be :student_19901002-0085 .
+
+:teacher_19901002-0085
+    rdf:type :Teacher ;
+    :teacherId "19901002-0085" ;
+    :teacherName "TA 85" ;
+    :Works_for :department_D2 ;
+    :Teacher_Belongs_To :division_D2-0 .
+
+:department_D2
+    rdf:type :Department .
+
+:division_D2-0
+    rdf:type :Division .
+        
+
+:teaching_Assistant_19930228-0086
+    rdf:type :Teaching_assistant ;
+    :teacherId "19930228-0086" ;
+    :teacherName "TA 86" ;
+    :Works_for :department_D8 ;
+    :Teacher_Belongs_To :division_D8-0;
+    :Might_be :student_19930228-0086 .
+
+:teacher_19930228-0086
+    rdf:type :Teacher ;
+    :teacherId "19930228-0086" ;
+    :teacherName "TA 86" ;
+    :Works_for :department_D8 ;
+    :Teacher_Belongs_To :division_D8-0 .
+
+:department_D8
+    rdf:type :Department .
+
+:division_D8-0
+    rdf:type :Division .
+        
+
+:teaching_Assistant_19901108-0087
+    rdf:type :Teaching_assistant ;
+    :teacherId "19901108-0087" ;
+    :teacherName "TA 87" ;
+    :Works_for :department_D7 ;
+    :Teacher_Belongs_To :division_D7-4;
+    :Might_be :student_19901108-0087 .
+
+:teacher_19901108-0087
+    rdf:type :Teacher ;
+    :teacherId "19901108-0087" ;
+    :teacherName "TA 87" ;
+    :Works_for :department_D7 ;
+    :Teacher_Belongs_To :division_D7-4 .
+
+:department_D7
+    rdf:type :Department .
+
+:division_D7-4
+    rdf:type :Division .
+        
+
+:teaching_Assistant_19920826-0088
+    rdf:type :Teaching_assistant ;
+    :teacherId "19920826-0088" ;
+    :teacherName "TA 88" ;
+    :Works_for :department_D8 ;
+    :Teacher_Belongs_To :division_D8-5;
+    :Might_be :student_19920826-0088 .
+
+:teacher_19920826-0088
+    rdf:type :Teacher ;
+    :teacherId "19920826-0088" ;
+    :teacherName "TA 88" ;
+    :Works_for :department_D8 ;
+    :Teacher_Belongs_To :division_D8-5 .
+
+:department_D8
+    rdf:type :Department .
+
+:division_D8-5
+    rdf:type :Division .
+        
+
+:teaching_Assistant_19900426-0089
+    rdf:type :Teaching_assistant ;
+    :teacherId "19900426-0089" ;
+    :teacherName "TA 89" ;
+    :Works_for :department_D7 ;
+    :Teacher_Belongs_To :division_D7-0;
+    :Might_be :student_19900426-0089 .
+
+:teacher_19900426-0089
+    rdf:type :Teacher ;
+    :teacherId "19900426-0089" ;
+    :teacherName "TA 89" ;
+    :Works_for :department_D7 ;
+    :Teacher_Belongs_To :division_D7-0 .
+
+:department_D7
+    rdf:type :Department .
+
+:division_D7-0
+    rdf:type :Division .
+        
+
+:teaching_Assistant_19900902-0090
+    rdf:type :Teaching_assistant ;
+    :teacherId "19900902-0090" ;
+    :teacherName "TA 90" ;
+    :Works_for :department_D5 ;
+    :Teacher_Belongs_To :division_D5-3;
+    :Might_be :student_19900902-0090 .
+
+:teacher_19900902-0090
+    rdf:type :Teacher ;
+    :teacherId "19900902-0090" ;
+    :teacherName "TA 90" ;
+    :Works_for :department_D5 ;
+    :Teacher_Belongs_To :division_D5-3 .
+
+:department_D5
+    rdf:type :Department .
+
+:division_D5-3
+    rdf:type :Division .
+        
+
+:teaching_Assistant_19911025-0091
+    rdf:type :Teaching_assistant ;
+    :teacherId "19911025-0091" ;
+    :teacherName "TA 91" ;
+    :Works_for :department_D4 ;
+    :Teacher_Belongs_To :division_D4-3;
+    :Might_be :student_19911025-0091 .
+
+:teacher_19911025-0091
+    rdf:type :Teacher ;
+    :teacherId "19911025-0091" ;
+    :teacherName "TA 91" ;
+    :Works_for :department_D4 ;
+    :Teacher_Belongs_To :division_D4-3 .
+
+:department_D4
+    rdf:type :Department .
+
+:division_D4-3
+    rdf:type :Division .
+        
+
+:teaching_Assistant_19910817-0092
+    rdf:type :Teaching_assistant ;
+    :teacherId "19910817-0092" ;
+    :teacherName "TA 92" ;
+    :Works_for :department_D3 ;
+    :Teacher_Belongs_To :division_D3-4;
+    :Might_be :student_19910817-0092 .
+
+:teacher_19910817-0092
+    rdf:type :Teacher ;
+    :teacherId "19910817-0092" ;
+    :teacherName "TA 92" ;
+    :Works_for :department_D3 ;
+    :Teacher_Belongs_To :division_D3-4 .
+
+:department_D3
+    rdf:type :Department .
+
+:division_D3-4
+    rdf:type :Division .
+        
+
+:teaching_Assistant_19920504-0093
+    rdf:type :Teaching_assistant ;
+    :teacherId "19920504-0093" ;
+    :teacherName "TA 93" ;
+    :Works_for :department_D6 ;
+    :Teacher_Belongs_To :division_D6-2;
+    :Might_be :student_19920504-0093 .
+
+:teacher_19920504-0093
+    rdf:type :Teacher ;
+    :teacherId "19920504-0093" ;
+    :teacherName "TA 93" ;
+    :Works_for :department_D6 ;
+    :Teacher_Belongs_To :division_D6-2 .
+
+:department_D6
+    rdf:type :Department .
+
+:division_D6-2
+    rdf:type :Division .
+        
+
+:teaching_Assistant_19921201-0094
+    rdf:type :Teaching_assistant ;
+    :teacherId "19921201-0094" ;
+    :teacherName "TA 94" ;
+    :Works_for :department_D8 ;
+    :Teacher_Belongs_To :division_D8-3;
+    :Might_be :student_19921201-0094 .
+
+:teacher_19921201-0094
+    rdf:type :Teacher ;
+    :teacherId "19921201-0094" ;
+    :teacherName "TA 94" ;
+    :Works_for :department_D8 ;
+    :Teacher_Belongs_To :division_D8-3 .
+
+:department_D8
+    rdf:type :Department .
+
+:division_D8-3
+    rdf:type :Division .
+        
+
+:teaching_Assistant_19900128-0095
+    rdf:type :Teaching_assistant ;
+    :teacherId "19900128-0095" ;
+    :teacherName "TA 95" ;
+    :Works_for :department_D8 ;
+    :Teacher_Belongs_To :division_D8-5;
+    :Might_be :student_19900128-0095 .
+
+:teacher_19900128-0095
+    rdf:type :Teacher ;
+    :teacherId "19900128-0095" ;
+    :teacherName "TA 95" ;
+    :Works_for :department_D8 ;
+    :Teacher_Belongs_To :division_D8-5 .
+
+:department_D8
+    rdf:type :Department .
+
+:division_D8-5
+    rdf:type :Division .
+        
+
+:teaching_Assistant_19910327-0096
+    rdf:type :Teaching_assistant ;
+    :teacherId "19910327-0096" ;
+    :teacherName "TA 96" ;
+    :Works_for :department_D8 ;
+    :Teacher_Belongs_To :division_D8-4;
+    :Might_be :student_19910327-0096 .
+
+:teacher_19910327-0096
+    rdf:type :Teacher ;
+    :teacherId "19910327-0096" ;
+    :teacherName "TA 96" ;
+    :Works_for :department_D8 ;
+    :Teacher_Belongs_To :division_D8-4 .
+
+:department_D8
+    rdf:type :Department .
+
+:division_D8-4
+    rdf:type :Division .
+        
+
+:teaching_Assistant_19921208-0097
+    rdf:type :Teaching_assistant ;
+    :teacherId "19921208-0097" ;
+    :teacherName "TA 97" ;
+    :Works_for :department_D7 ;
+    :Teacher_Belongs_To :division_D7-4;
+    :Might_be :student_19921208-0097 .
+
+:teacher_19921208-0097
+    rdf:type :Teacher ;
+    :teacherId "19921208-0097" ;
+    :teacherName "TA 97" ;
+    :Works_for :department_D7 ;
+    :Teacher_Belongs_To :division_D7-4 .
+
+:department_D7
+    rdf:type :Department .
+
+:division_D7-4
+    rdf:type :Division .
+        
+
+:teaching_Assistant_19920217-0098
+    rdf:type :Teaching_assistant ;
+    :teacherId "19920217-0098" ;
+    :teacherName "TA 98" ;
+    :Works_for :department_D7 ;
+    :Teacher_Belongs_To :division_D7-4;
+    :Might_be :student_19920217-0098 .
+
+:teacher_19920217-0098
+    rdf:type :Teacher ;
+    :teacherId "19920217-0098" ;
+    :teacherName "TA 98" ;
+    :Works_for :department_D7 ;
+    :Teacher_Belongs_To :division_D7-4 .
+
+:department_D7
+    rdf:type :Department .
+
+:division_D7-4
+    rdf:type :Division .
+        
+
+:teaching_Assistant_19931231-0099
+    rdf:type :Teaching_assistant ;
+    :teacherId "19931231-0099" ;
+    :teacherName "TA 99" ;
+    :Works_for :department_D2 ;
+    :Teacher_Belongs_To :division_D2-5;
+    :Might_be :student_19931231-0099 .
+
+:teacher_19931231-0099
+    rdf:type :Teacher ;
+    :teacherId "19931231-0099" ;
+    :teacherName "TA 99" ;
+    :Works_for :department_D2 ;
+    :Teacher_Belongs_To :division_D2-5 .
+
+:department_D2
+    rdf:type :Department .
+
+:division_D2-5
+    rdf:type :Division .
+        
+
+:teaching_Assistant_19930709-0100
+    rdf:type :Teaching_assistant ;
+    :teacherId "19930709-0100" ;
+    :teacherName "TA 100" ;
+    :Works_for :department_D1 ;
+    :Teacher_Belongs_To :division_D1-4;
+    :Might_be :student_19930709-0100 .
+
+:teacher_19930709-0100
+    rdf:type :Teacher ;
+    :teacherId "19930709-0100" ;
+    :teacherName "TA 100" ;
+    :Works_for :department_D1 ;
+    :Teacher_Belongs_To :division_D1-4 .
+
+:department_D1
+    rdf:type :Department .
+
+:division_D1-4
+    rdf:type :Division .
+        
+
+:teaching_Assistant_19921218-0101
+    rdf:type :Teaching_assistant ;
+    :teacherId "19921218-0101" ;
+    :teacherName "TA 101" ;
+    :Works_for :department_D5 ;
+    :Teacher_Belongs_To :division_D5-2;
+    :Might_be :student_19921218-0101 .
+
+:teacher_19921218-0101
+    rdf:type :Teacher ;
+    :teacherId "19921218-0101" ;
+    :teacherName "TA 101" ;
+    :Works_for :department_D5 ;
+    :Teacher_Belongs_To :division_D5-2 .
+
+:department_D5
+    rdf:type :Department .
+
+:division_D5-2
+    rdf:type :Division .
+        
+
+:teaching_Assistant_19910404-0102
+    rdf:type :Teaching_assistant ;
+    :teacherId "19910404-0102" ;
+    :teacherName "TA 102" ;
+    :Works_for :department_D1 ;
+    :Teacher_Belongs_To :division_D1-4;
+    :Might_be :student_19910404-0102 .
+
+:teacher_19910404-0102
+    rdf:type :Teacher ;
+    :teacherId "19910404-0102" ;
+    :teacherName "TA 102" ;
+    :Works_for :department_D1 ;
+    :Teacher_Belongs_To :division_D1-4 .
+
+:department_D1
+    rdf:type :Department .
+
+:division_D1-4
+    rdf:type :Division .
+        
+
+:teaching_Assistant_19910403-0103
+    rdf:type :Teaching_assistant ;
+    :teacherId "19910403-0103" ;
+    :teacherName "TA 103" ;
+    :Works_for :department_D7 ;
+    :Teacher_Belongs_To :division_D7-2;
+    :Might_be :student_19910403-0103 .
+
+:teacher_19910403-0103
+    rdf:type :Teacher ;
+    :teacherId "19910403-0103" ;
+    :teacherName "TA 103" ;
+    :Works_for :department_D7 ;
+    :Teacher_Belongs_To :division_D7-2 .
+
+:department_D7
+    rdf:type :Department .
+
+:division_D7-2
+    rdf:type :Division .
+        
+
+:teaching_Assistant_19900119-0104
+    rdf:type :Teaching_assistant ;
+    :teacherId "19900119-0104" ;
+    :teacherName "TA 104" ;
+    :Works_for :department_D6 ;
+    :Teacher_Belongs_To :division_D6-5;
+    :Might_be :student_19900119-0104 .
+
+:teacher_19900119-0104
+    rdf:type :Teacher ;
+    :teacherId "19900119-0104" ;
+    :teacherName "TA 104" ;
+    :Works_for :department_D6 ;
+    :Teacher_Belongs_To :division_D6-5 .
+
+:department_D6
+    rdf:type :Department .
+
+:division_D6-5
+    rdf:type :Division .
+        
+
+:teaching_Assistant_19900307-0105
+    rdf:type :Teaching_assistant ;
+    :teacherId "19900307-0105" ;
+    :teacherName "TA 105" ;
+    :Works_for :department_D2 ;
+    :Teacher_Belongs_To :division_D2-3;
+    :Might_be :student_19900307-0105 .
+
+:teacher_19900307-0105
+    rdf:type :Teacher ;
+    :teacherId "19900307-0105" ;
+    :teacherName "TA 105" ;
+    :Works_for :department_D2 ;
+    :Teacher_Belongs_To :division_D2-3 .
+
+:department_D2
+    rdf:type :Department .
+
+:division_D2-3
+    rdf:type :Division .
+        
+
+:teaching_Assistant_19930414-0106
+    rdf:type :Teaching_assistant ;
+    :teacherId "19930414-0106" ;
+    :teacherName "TA 106" ;
+    :Works_for :department_D7 ;
+    :Teacher_Belongs_To :division_D7-4;
+    :Might_be :student_19930414-0106 .
+
+:teacher_19930414-0106
+    rdf:type :Teacher ;
+    :teacherId "19930414-0106" ;
+    :teacherName "TA 106" ;
+    :Works_for :department_D7 ;
+    :Teacher_Belongs_To :division_D7-4 .
+
+:department_D7
+    rdf:type :Department .
+
+:division_D7-4
+    rdf:type :Division .
+        
+
+:teaching_Assistant_19920316-0107
+    rdf:type :Teaching_assistant ;
+    :teacherId "19920316-0107" ;
+    :teacherName "TA 107" ;
+    :Works_for :department_D7 ;
+    :Teacher_Belongs_To :division_D7-4;
+    :Might_be :student_19920316-0107 .
+
+:teacher_19920316-0107
+    rdf:type :Teacher ;
+    :teacherId "19920316-0107" ;
+    :teacherName "TA 107" ;
+    :Works_for :department_D7 ;
+    :Teacher_Belongs_To :division_D7-4 .
+
+:department_D7
+    rdf:type :Department .
+
+:division_D7-4
+    rdf:type :Division .
+        
+
+:teaching_Assistant_19921123-0108
+    rdf:type :Teaching_assistant ;
+    :teacherId "19921123-0108" ;
+    :teacherName "TA 108" ;
+    :Works_for :department_D2 ;
+    :Teacher_Belongs_To :division_D2-4;
+    :Might_be :student_19921123-0108 .
+
+:teacher_19921123-0108
+    rdf:type :Teacher ;
+    :teacherId "19921123-0108" ;
+    :teacherName "TA 108" ;
+    :Works_for :department_D2 ;
+    :Teacher_Belongs_To :division_D2-4 .
+
+:department_D2
+    rdf:type :Department .
+
+:division_D2-4
+    rdf:type :Division .
+        
+
+:teaching_Assistant_19920917-0109
+    rdf:type :Teaching_assistant ;
+    :teacherId "19920917-0109" ;
+    :teacherName "TA 109" ;
+    :Works_for :department_D4 ;
+    :Teacher_Belongs_To :division_D4-5;
+    :Might_be :student_19920917-0109 .
+
+:teacher_19920917-0109
+    rdf:type :Teacher ;
+    :teacherId "19920917-0109" ;
+    :teacherName "TA 109" ;
+    :Works_for :department_D4 ;
+    :Teacher_Belongs_To :division_D4-5 .
+
+:department_D4
+    rdf:type :Department .
+
+:division_D4-5
+    rdf:type :Division .
+        
+
+:teaching_Assistant_19930906-0110
+    rdf:type :Teaching_assistant ;
+    :teacherId "19930906-0110" ;
+    :teacherName "TA 110" ;
+    :Works_for :department_D3 ;
+    :Teacher_Belongs_To :division_D3-0;
+    :Might_be :student_19930906-0110 .
+
+:teacher_19930906-0110
+    rdf:type :Teacher ;
+    :teacherId "19930906-0110" ;
+    :teacherName "TA 110" ;
+    :Works_for :department_D3 ;
+    :Teacher_Belongs_To :division_D3-0 .
+
+:department_D3
+    rdf:type :Department .
+
+:division_D3-0
+    rdf:type :Division .
+        
+
+:teaching_Assistant_19901026-0111
+    rdf:type :Teaching_assistant ;
+    :teacherId "19901026-0111" ;
+    :teacherName "TA 111" ;
+    :Works_for :department_D3 ;
+    :Teacher_Belongs_To :division_D3-5;
+    :Might_be :student_19901026-0111 .
+
+:teacher_19901026-0111
+    rdf:type :Teacher ;
+    :teacherId "19901026-0111" ;
+    :teacherName "TA 111" ;
+    :Works_for :department_D3 ;
+    :Teacher_Belongs_To :division_D3-5 .
+
+:department_D3
+    rdf:type :Department .
+
+:division_D3-5
+    rdf:type :Division .
+        
+
+:teaching_Assistant_19900430-0112
+    rdf:type :Teaching_assistant ;
+    :teacherId "19900430-0112" ;
+    :teacherName "TA 112" ;
+    :Works_for :department_D6 ;
+    :Teacher_Belongs_To :division_D6-0;
+    :Might_be :student_19900430-0112 .
+
+:teacher_19900430-0112
+    rdf:type :Teacher ;
+    :teacherId "19900430-0112" ;
+    :teacherName "TA 112" ;
+    :Works_for :department_D6 ;
+    :Teacher_Belongs_To :division_D6-0 .
+
+:department_D6
+    rdf:type :Department .
+
+:division_D6-0
+    rdf:type :Division .
+        
+
+:teaching_Assistant_19900701-0113
+    rdf:type :Teaching_assistant ;
+    :teacherId "19900701-0113" ;
+    :teacherName "TA 113" ;
+    :Works_for :department_D1 ;
+    :Teacher_Belongs_To :division_D1-0;
+    :Might_be :student_19900701-0113 .
+
+:teacher_19900701-0113
+    rdf:type :Teacher ;
+    :teacherId "19900701-0113" ;
+    :teacherName "TA 113" ;
+    :Works_for :department_D1 ;
+    :Teacher_Belongs_To :division_D1-0 .
+
+:department_D1
+    rdf:type :Department .
+
+:division_D1-0
+    rdf:type :Division .
+        
+
+:teaching_Assistant_19900902-0114
+    rdf:type :Teaching_assistant ;
+    :teacherId "19900902-0114" ;
+    :teacherName "TA 114" ;
+    :Works_for :department_D6 ;
+    :Teacher_Belongs_To :division_D6-0;
+    :Might_be :student_19900902-0114 .
+
+:teacher_19900902-0114
+    rdf:type :Teacher ;
+    :teacherId "19900902-0114" ;
+    :teacherName "TA 114" ;
+    :Works_for :department_D6 ;
+    :Teacher_Belongs_To :division_D6-0 .
+
+:department_D6
+    rdf:type :Department .
+
+:division_D6-0
+    rdf:type :Division .
+        
+
+:teaching_Assistant_19920505-0115
+    rdf:type :Teaching_assistant ;
+    :teacherId "19920505-0115" ;
+    :teacherName "TA 115" ;
+    :Works_for :department_D3 ;
+    :Teacher_Belongs_To :division_D3-3;
+    :Might_be :student_19920505-0115 .
+
+:teacher_19920505-0115
+    rdf:type :Teacher ;
+    :teacherId "19920505-0115" ;
+    :teacherName "TA 115" ;
+    :Works_for :department_D3 ;
+    :Teacher_Belongs_To :division_D3-3 .
+
+:department_D3
+    rdf:type :Department .
+
+:division_D3-3
+    rdf:type :Division .
+        
+
+:teaching_Assistant_19900818-0116
+    rdf:type :Teaching_assistant ;
+    :teacherId "19900818-0116" ;
+    :teacherName "TA 116" ;
+    :Works_for :department_D4 ;
+    :Teacher_Belongs_To :division_D4-5;
+    :Might_be :student_19900818-0116 .
+
+:teacher_19900818-0116
+    rdf:type :Teacher ;
+    :teacherId "19900818-0116" ;
+    :teacherName "TA 116" ;
+    :Works_for :department_D4 ;
+    :Teacher_Belongs_To :division_D4-5 .
+
+:department_D4
+    rdf:type :Department .
+
+:division_D4-5
+    rdf:type :Division .
+        
+
+:teaching_Assistant_19930512-0117
+    rdf:type :Teaching_assistant ;
+    :teacherId "19930512-0117" ;
+    :teacherName "TA 117" ;
+    :Works_for :department_D4 ;
+    :Teacher_Belongs_To :division_D4-2;
+    :Might_be :student_19930512-0117 .
+
+:teacher_19930512-0117
+    rdf:type :Teacher ;
+    :teacherId "19930512-0117" ;
+    :teacherName "TA 117" ;
+    :Works_for :department_D4 ;
+    :Teacher_Belongs_To :division_D4-2 .
+
+:department_D4
+    rdf:type :Department .
+
+:division_D4-2
+    rdf:type :Division .
+        
+
+:teaching_Assistant_19931226-0118
+    rdf:type :Teaching_assistant ;
+    :teacherId "19931226-0118" ;
+    :teacherName "TA 118" ;
+    :Works_for :department_D8 ;
+    :Teacher_Belongs_To :division_D8-4;
+    :Might_be :student_19931226-0118 .
+
+:teacher_19931226-0118
+    rdf:type :Teacher ;
+    :teacherId "19931226-0118" ;
+    :teacherName "TA 118" ;
+    :Works_for :department_D8 ;
+    :Teacher_Belongs_To :division_D8-4 .
+
+:department_D8
+    rdf:type :Department .
+
+:division_D8-4
+    rdf:type :Division .
+        
+
+:teaching_Assistant_19901011-0119
+    rdf:type :Teaching_assistant ;
+    :teacherId "19901011-0119" ;
+    :teacherName "TA 119" ;
+    :Works_for :department_D2 ;
+    :Teacher_Belongs_To :division_D2-1;
+    :Might_be :student_19901011-0119 .
+
+:teacher_19901011-0119
+    rdf:type :Teacher ;
+    :teacherId "19901011-0119" ;
+    :teacherName "TA 119" ;
+    :Works_for :department_D2 ;
+    :Teacher_Belongs_To :division_D2-1 .
+
+:department_D2
+    rdf:type :Department .
+
+:division_D2-1
+    rdf:type :Division .
+        
+
+:teaching_Assistant_19921127-0120
+    rdf:type :Teaching_assistant ;
+    :teacherId "19921127-0120" ;
+    :teacherName "TA 120" ;
+    :Works_for :department_D4 ;
+    :Teacher_Belongs_To :division_D4-3;
+    :Might_be :student_19921127-0120 .
+
+:teacher_19921127-0120
+    rdf:type :Teacher ;
+    :teacherId "19921127-0120" ;
+    :teacherName "TA 120" ;
+    :Works_for :department_D4 ;
+    :Teacher_Belongs_To :division_D4-3 .
+
+:department_D4
+    rdf:type :Department .
+
+:division_D4-3
+    rdf:type :Division .
+        
+
+:teaching_Assistant_19920320-0121
+    rdf:type :Teaching_assistant ;
+    :teacherId "19920320-0121" ;
+    :teacherName "TA 121" ;
+    :Works_for :department_D2 ;
+    :Teacher_Belongs_To :division_D2-2;
+    :Might_be :student_19920320-0121 .
+
+:teacher_19920320-0121
+    rdf:type :Teacher ;
+    :teacherId "19920320-0121" ;
+    :teacherName "TA 121" ;
+    :Works_for :department_D2 ;
+    :Teacher_Belongs_To :division_D2-2 .
+
+:department_D2
+    rdf:type :Department .
+
+:division_D2-2
+    rdf:type :Division .
+        
+
+:teaching_Assistant_19910822-0122
+    rdf:type :Teaching_assistant ;
+    :teacherId "19910822-0122" ;
+    :teacherName "TA 122" ;
+    :Works_for :department_D5 ;
+    :Teacher_Belongs_To :division_D5-4;
+    :Might_be :student_19910822-0122 .
+
+:teacher_19910822-0122
+    rdf:type :Teacher ;
+    :teacherId "19910822-0122" ;
+    :teacherName "TA 122" ;
+    :Works_for :department_D5 ;
+    :Teacher_Belongs_To :division_D5-4 .
+
+:department_D5
+    rdf:type :Department .
+
+:division_D5-4
+    rdf:type :Division .
+        
+
+:teaching_Assistant_19900909-0123
+    rdf:type :Teaching_assistant ;
+    :teacherId "19900909-0123" ;
+    :teacherName "TA 123" ;
+    :Works_for :department_D6 ;
+    :Teacher_Belongs_To :division_D6-0;
+    :Might_be :student_19900909-0123 .
+
+:teacher_19900909-0123
+    rdf:type :Teacher ;
+    :teacherId "19900909-0123" ;
+    :teacherName "TA 123" ;
+    :Works_for :department_D6 ;
+    :Teacher_Belongs_To :division_D6-0 .
+
+:department_D6
+    rdf:type :Department .
+
+:division_D6-0
+    rdf:type :Division .
+        
+
+:teaching_Assistant_19900616-0124
+    rdf:type :Teaching_assistant ;
+    :teacherId "19900616-0124" ;
+    :teacherName "TA 124" ;
+    :Works_for :department_D6 ;
+    :Teacher_Belongs_To :division_D6-2;
+    :Might_be :student_19900616-0124 .
+
+:teacher_19900616-0124
+    rdf:type :Teacher ;
+    :teacherId "19900616-0124" ;
+    :teacherName "TA 124" ;
+    :Works_for :department_D6 ;
+    :Teacher_Belongs_To :division_D6-2 .
+
+:department_D6
+    rdf:type :Department .
+
+:division_D6-2
+    rdf:type :Division .
+        
+
+:teaching_Assistant_19901219-0125
+    rdf:type :Teaching_assistant ;
+    :teacherId "19901219-0125" ;
+    :teacherName "TA 125" ;
+    :Works_for :department_D7 ;
+    :Teacher_Belongs_To :division_D7-1;
+    :Might_be :student_19901219-0125 .
+
+:teacher_19901219-0125
+    rdf:type :Teacher ;
+    :teacherId "19901219-0125" ;
+    :teacherName "TA 125" ;
+    :Works_for :department_D7 ;
+    :Teacher_Belongs_To :division_D7-1 .
+
+:department_D7
+    rdf:type :Department .
+
+:division_D7-1
+    rdf:type :Division .
+        
+
+:teaching_Assistant_19900723-0126
+    rdf:type :Teaching_assistant ;
+    :teacherId "19900723-0126" ;
+    :teacherName "TA 126" ;
+    :Works_for :department_D1 ;
+    :Teacher_Belongs_To :division_D1-2;
+    :Might_be :student_19900723-0126 .
+
+:teacher_19900723-0126
+    rdf:type :Teacher ;
+    :teacherId "19900723-0126" ;
+    :teacherName "TA 126" ;
+    :Works_for :department_D1 ;
+    :Teacher_Belongs_To :division_D1-2 .
+
+:department_D1
+    rdf:type :Department .
+
+:division_D1-2
+    rdf:type :Division .
+        
+
+:teaching_Assistant_19930616-0127
+    rdf:type :Teaching_assistant ;
+    :teacherId "19930616-0127" ;
+    :teacherName "TA 127" ;
+    :Works_for :department_D3 ;
+    :Teacher_Belongs_To :division_D3-1;
+    :Might_be :student_19930616-0127 .
+
+:teacher_19930616-0127
+    rdf:type :Teacher ;
+    :teacherId "19930616-0127" ;
+    :teacherName "TA 127" ;
+    :Works_for :department_D3 ;
+    :Teacher_Belongs_To :division_D3-1 .
+
+:department_D3
+    rdf:type :Department .
+
+:division_D3-1
+    rdf:type :Division .
+        
+
+:teaching_Assistant_19910927-0128
+    rdf:type :Teaching_assistant ;
+    :teacherId "19910927-0128" ;
+    :teacherName "TA 128" ;
+    :Works_for :department_D7 ;
+    :Teacher_Belongs_To :division_D7-3;
+    :Might_be :student_19910927-0128 .
+
+:teacher_19910927-0128
+    rdf:type :Teacher ;
+    :teacherId "19910927-0128" ;
+    :teacherName "TA 128" ;
+    :Works_for :department_D7 ;
+    :Teacher_Belongs_To :division_D7-3 .
+
+:department_D7
+    rdf:type :Department .
+
+:division_D7-3
+    rdf:type :Division .
+        
+
+:teaching_Assistant_19921002-0129
+    rdf:type :Teaching_assistant ;
+    :teacherId "19921002-0129" ;
+    :teacherName "TA 129" ;
+    :Works_for :department_D1 ;
+    :Teacher_Belongs_To :division_D1-1;
+    :Might_be :student_19921002-0129 .
+
+:teacher_19921002-0129
+    rdf:type :Teacher ;
+    :teacherId "19921002-0129" ;
+    :teacherName "TA 129" ;
+    :Works_for :department_D1 ;
+    :Teacher_Belongs_To :division_D1-1 .
+
+:department_D1
+    rdf:type :Department .
+
+:division_D1-1
+    rdf:type :Division .
+        
+
+:teaching_Assistant_19900801-0130
+    rdf:type :Teaching_assistant ;
+    :teacherId "19900801-0130" ;
+    :teacherName "TA 130" ;
+    :Works_for :department_D2 ;
+    :Teacher_Belongs_To :division_D2-2;
+    :Might_be :student_19900801-0130 .
+
+:teacher_19900801-0130
+    rdf:type :Teacher ;
+    :teacherId "19900801-0130" ;
+    :teacherName "TA 130" ;
+    :Works_for :department_D2 ;
+    :Teacher_Belongs_To :division_D2-2 .
+
+:department_D2
+    rdf:type :Department .
+
+:division_D2-2
+    rdf:type :Division .
+        
+
+:teaching_Assistant_19910403-0131
+    rdf:type :Teaching_assistant ;
+    :teacherId "19910403-0131" ;
+    :teacherName "TA 131" ;
+    :Works_for :department_D8 ;
+    :Teacher_Belongs_To :division_D8-4;
+    :Might_be :student_19910403-0131 .
+
+:teacher_19910403-0131
+    rdf:type :Teacher ;
+    :teacherId "19910403-0131" ;
+    :teacherName "TA 131" ;
+    :Works_for :department_D8 ;
+    :Teacher_Belongs_To :division_D8-4 .
+
+:department_D8
+    rdf:type :Department .
+
+:division_D8-4
+    rdf:type :Division .
+        
+
+:teaching_Assistant_19930326-0132
+    rdf:type :Teaching_assistant ;
+    :teacherId "19930326-0132" ;
+    :teacherName "TA 132" ;
+    :Works_for :department_D4 ;
+    :Teacher_Belongs_To :division_D4-0;
+    :Might_be :student_19930326-0132 .
+
+:teacher_19930326-0132
+    rdf:type :Teacher ;
+    :teacherId "19930326-0132" ;
+    :teacherName "TA 132" ;
+    :Works_for :department_D4 ;
+    :Teacher_Belongs_To :division_D4-0 .
+
+:department_D4
+    rdf:type :Department .
+
+:division_D4-0
+    rdf:type :Division .
+        
+
+:teaching_Assistant_19910101-0133
+    rdf:type :Teaching_assistant ;
+    :teacherId "19910101-0133" ;
+    :teacherName "TA 133" ;
+    :Works_for :department_D7 ;
+    :Teacher_Belongs_To :division_D7-3;
+    :Might_be :student_19910101-0133 .
+
+:teacher_19910101-0133
+    rdf:type :Teacher ;
+    :teacherId "19910101-0133" ;
+    :teacherName "TA 133" ;
+    :Works_for :department_D7 ;
+    :Teacher_Belongs_To :division_D7-3 .
+
+:department_D7
+    rdf:type :Department .
+
+:division_D7-3
+    rdf:type :Division .
+        
+
+:teaching_Assistant_19900511-0134
+    rdf:type :Teaching_assistant ;
+    :teacherId "19900511-0134" ;
+    :teacherName "TA 134" ;
+    :Works_for :department_D6 ;
+    :Teacher_Belongs_To :division_D6-2;
+    :Might_be :student_19900511-0134 .
+
+:teacher_19900511-0134
+    rdf:type :Teacher ;
+    :teacherId "19900511-0134" ;
+    :teacherName "TA 134" ;
+    :Works_for :department_D6 ;
+    :Teacher_Belongs_To :division_D6-2 .
+
+:department_D6
+    rdf:type :Department .
+
+:division_D6-2
+    rdf:type :Division .
+        
+
+:teaching_Assistant_19930302-0135
+    rdf:type :Teaching_assistant ;
+    :teacherId "19930302-0135" ;
+    :teacherName "TA 135" ;
+    :Works_for :department_D6 ;
+    :Teacher_Belongs_To :division_D6-2;
+    :Might_be :student_19930302-0135 .
+
+:teacher_19930302-0135
+    rdf:type :Teacher ;
+    :teacherId "19930302-0135" ;
+    :teacherName "TA 135" ;
+    :Works_for :department_D6 ;
+    :Teacher_Belongs_To :division_D6-2 .
+
+:department_D6
+    rdf:type :Department .
+
+:division_D6-2
+    rdf:type :Division .
+        
+
+:teaching_Assistant_19910921-0136
+    rdf:type :Teaching_assistant ;
+    :teacherId "19910921-0136" ;
+    :teacherName "TA 136" ;
+    :Works_for :department_D3 ;
+    :Teacher_Belongs_To :division_D3-1;
+    :Might_be :student_19910921-0136 .
+
+:teacher_19910921-0136
+    rdf:type :Teacher ;
+    :teacherId "19910921-0136" ;
+    :teacherName "TA 136" ;
+    :Works_for :department_D3 ;
+    :Teacher_Belongs_To :division_D3-1 .
+
+:department_D3
+    rdf:type :Department .
+
+:division_D3-1
+    rdf:type :Division .
+        
+
+:teaching_Assistant_19930919-0137
+    rdf:type :Teaching_assistant ;
+    :teacherId "19930919-0137" ;
+    :teacherName "TA 137" ;
+    :Works_for :department_D8 ;
+    :Teacher_Belongs_To :division_D8-2;
+    :Might_be :student_19930919-0137 .
+
+:teacher_19930919-0137
+    rdf:type :Teacher ;
+    :teacherId "19930919-0137" ;
+    :teacherName "TA 137" ;
+    :Works_for :department_D8 ;
+    :Teacher_Belongs_To :division_D8-2 .
+
+:department_D8
+    rdf:type :Department .
+
+:division_D8-2
+    rdf:type :Division .
+        
+
+:teaching_Assistant_19900701-0138
+    rdf:type :Teaching_assistant ;
+    :teacherId "19900701-0138" ;
+    :teacherName "TA 138" ;
+    :Works_for :department_D5 ;
+    :Teacher_Belongs_To :division_D5-1;
+    :Might_be :student_19900701-0138 .
+
+:teacher_19900701-0138
+    rdf:type :Teacher ;
+    :teacherId "19900701-0138" ;
+    :teacherName "TA 138" ;
+    :Works_for :department_D5 ;
+    :Teacher_Belongs_To :division_D5-1 .
+
+:department_D5
+    rdf:type :Department .
+
+:division_D5-1
+    rdf:type :Division .
+        
+
+:teaching_Assistant_19930221-0139
+    rdf:type :Teaching_assistant ;
+    :teacherId "19930221-0139" ;
+    :teacherName "TA 139" ;
+    :Works_for :department_D3 ;
+    :Teacher_Belongs_To :division_D3-5;
+    :Might_be :student_19930221-0139 .
+
+:teacher_19930221-0139
+    rdf:type :Teacher ;
+    :teacherId "19930221-0139" ;
+    :teacherName "TA 139" ;
+    :Works_for :department_D3 ;
+    :Teacher_Belongs_To :division_D3-5 .
+
+:department_D3
+    rdf:type :Department .
+
+:division_D3-5
+    rdf:type :Division .
+        
+
+:teaching_Assistant_19900211-0140
+    rdf:type :Teaching_assistant ;
+    :teacherId "19900211-0140" ;
+    :teacherName "TA 140" ;
+    :Works_for :department_D5 ;
+    :Teacher_Belongs_To :division_D5-0;
+    :Might_be :student_19900211-0140 .
+
+:teacher_19900211-0140
+    rdf:type :Teacher ;
+    :teacherId "19900211-0140" ;
+    :teacherName "TA 140" ;
+    :Works_for :department_D5 ;
+    :Teacher_Belongs_To :division_D5-0 .
+
+:department_D5
+    rdf:type :Department .
+
+:division_D5-0
+    rdf:type :Division .
+        
