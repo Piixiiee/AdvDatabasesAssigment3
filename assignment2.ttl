@@ -12,19 +12,19 @@
 #    Object Properties
 #################################################################
 
-###  http://www.semanticweb.org/frida/ontologies/2026/3/untitled-ontology-3#Belongs_To_Department
+###  http://www.semanticweb.org/frida/ontologies/2026/3/untitled-ontology-3/Belongs_To_Department
 :Belongs_To_Department rdf:type owl:ObjectProperty ;
                        rdfs:domain :Course ;
                        rdfs:range :Department .
 
 
-###  http://www.semanticweb.org/frida/ontologies/2026/3/untitled-ontology-3#Hours_Has_Course_Code
+###  http://www.semanticweb.org/frida/ontologies/2026/3/untitled-ontology-3/Hours_Has_Course_Code
 :Hours_Has_Course_Code rdf:type owl:ObjectProperty ;
                        rdfs:domain :Hours ;
                        rdfs:range :Course .
 
 
-###  http://www.semanticweb.org/frida/ontologies/2026/3/untitled-ontology-3#Owned_By_Programme
+###  http://www.semanticweb.org/frida/ontologies/2026/3/untitled-ontology-3/Owned_By_Programme
 :Owned_By_Programme rdf:type owl:ObjectProperty ;
                     rdfs:domain :Course ;
                     rdfs:range :Programme .

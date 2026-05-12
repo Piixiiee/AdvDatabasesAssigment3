@@ -4,212 +4,212 @@
 @prefix xsd: <http://www.w3.org/2001/XMLSchema#> .
 
 
-:programme_10001
+:programme_P-01
     rdf:type :Programme ;
     :programmeCode "10001" ;
     :programmeName "P-01" ;
     :departmentName "D1" ;
-    :hasDirector :senior_teacher_19620522-0023 .
+    :Has_Director :senior_teacher_19620522-0023 .
 
 :department_D1
     :rdf:type :Department .
 
-:programme_10011
+:programme_P-11
     rdf:type :Programme ;
     :programmeCode "10011" ;
     :programmeName "P-11" ;
     :departmentName "D2" ;
-    :hasDirector :senior_teacher_19620424-0026 .
+    :Has_Director :senior_teacher_19620424-0026 .
 
 :department_D2
     :rdf:type :Department .
 
-:programme_10012
+:programme_P-12
     rdf:type :Programme ;
     :programmeCode "10012" ;
     :programmeName "P-12" ;
     :departmentName "D2" ;
-    :hasDirector :senior_teacher_19610623-0005 .
+    :Has_Director :senior_teacher_19610623-0005 .
 
 :department_D2
     :rdf:type :Department .
 
-:programme_10013
+:programme_P-13
     rdf:type :Programme ;
     :programmeCode "10013" ;
     :programmeName "P-13" ;
     :departmentName "D2" ;
-    :hasDirector :senior_teacher_19690408-0009 .
+    :Has_Director :senior_teacher_19690408-0009 .
 
 :department_D2
     :rdf:type :Department .
 
-:programme_10014
+:programme_P-14
     rdf:type :Programme ;
     :programmeCode "10014" ;
     :programmeName "P-14" ;
     :departmentName "D2" ;
-    :hasDirector :senior_teacher_19560812-0016 .
+    :Has_Director :senior_teacher_19560812-0016 .
 
 :department_D2
     :rdf:type :Department .
 
-:programme_10021
+:programme_P-21
     rdf:type :Programme ;
     :programmeCode "10021" ;
     :programmeName "P-21" ;
     :departmentName "D3" ;
-    :hasDirector :senior_teacher_19570615-0011 .
+    :Has_Director :senior_teacher_19570615-0011 .
 
 :department_D3
     :rdf:type :Department .
 
-:programme_10031
+:programme_P-31
     rdf:type :Programme ;
     :programmeCode "10031" ;
     :programmeName "P-31" ;
     :departmentName "D4" ;
-    :hasDirector :senior_teacher_19650303-0019 .
+    :Has_Director :senior_teacher_19650303-0019 .
 
 :department_D4
     :rdf:type :Department .
 
-:programme_10032
+:programme_P-32
     rdf:type :Programme ;
     :programmeCode "10032" ;
     :programmeName "P-32" ;
     :departmentName "D4" ;
-    :hasDirector :senior_teacher_19570826-0012 .
+    :Has_Director :senior_teacher_19570826-0012 .
 
 :department_D4
     :rdf:type :Department .
 
-:programme_10033
+:programme_P-33
     rdf:type :Programme ;
     :programmeCode "10033" ;
     :programmeName "P-33" ;
     :departmentName "D4" ;
-    :hasDirector :senior_teacher_19570828-0008 .
+    :Has_Director :senior_teacher_19570828-0008 .
 
 :department_D4
     :rdf:type :Department .
 
-:programme_10034
+:programme_P-34
     rdf:type :Programme ;
     :programmeCode "10034" ;
     :programmeName "P-34" ;
     :departmentName "D4" ;
-    :hasDirector :senior_teacher_19610918-0027 .
+    :Has_Director :senior_teacher_19610918-0027 .
 
 :department_D4
     :rdf:type :Department .
 
-:programme_10041
+:programme_P-41
     rdf:type :Programme ;
     :programmeCode "10041" ;
     :programmeName "P-41" ;
     :departmentName "D5" ;
-    :hasDirector :senior_teacher_19580218-0007 .
+    :Has_Director :senior_teacher_19580218-0007 .
 
 :department_D5
     :rdf:type :Department .
 
-:programme_10042
+:programme_P-42
     rdf:type :Programme ;
     :programmeCode "10042" ;
     :programmeName "P-42" ;
     :departmentName "D5" ;
-    :hasDirector :senior_teacher_19620831-0024 .
+    :Has_Director :senior_teacher_19620831-0024 .
 
 :department_D5
     :rdf:type :Department .
 
-:programme_10051
+:programme_P-51
     rdf:type :Programme ;
     :programmeCode "10051" ;
     :programmeName "P-51" ;
     :departmentName "D6" ;
-    :hasDirector :senior_teacher_19580515-0017 .
+    :Has_Director :senior_teacher_19580515-0017 .
 
 :department_D6
     :rdf:type :Department .
 
-:programme_10052
+:programme_P-52
     rdf:type :Programme ;
     :programmeCode "10052" ;
     :programmeName "P-52" ;
     :departmentName "D6" ;
-    :hasDirector :senior_teacher_19611219-0014 .
+    :Has_Director :senior_teacher_19611219-0014 .
 
 :department_D6
     :rdf:type :Department .
 
-:programme_10053
+:programme_P-53
     rdf:type :Programme ;
     :programmeCode "10053" ;
     :programmeName "P-53" ;
     :departmentName "D6" ;
-    :hasDirector :senior_teacher_19600905-0003 .
+    :Has_Director :senior_teacher_19600905-0003 .
 
 :department_D6
     :rdf:type :Department .
 
-:programme_10054
+:programme_P-54
     rdf:type :Programme ;
     :programmeCode "10054" ;
     :programmeName "P-54" ;
     :departmentName "D6" ;
-    :hasDirector :senior_teacher_19630126-0001 .
+    :Has_Director :senior_teacher_19630126-0001 .
 
 :department_D6
     :rdf:type :Department .
 
-:programme_10061
+:programme_P-61
     rdf:type :Programme ;
     :programmeCode "10061" ;
     :programmeName "P-61" ;
     :departmentName "D7" ;
-    :hasDirector :senior_teacher_19680712-0028 .
+    :Has_Director :senior_teacher_19680712-0028 .
 
 :department_D7
     :rdf:type :Department .
 
-:programme_10071
+:programme_P-71
     rdf:type :Programme ;
     :programmeCode "10071" ;
     :programmeName "P-71" ;
     :departmentName "D8" ;
-    :hasDirector :senior_teacher_19610620-0006 .
+    :Has_Director :senior_teacher_19610620-0006 .
 
 :department_D8
     :rdf:type :Department .
 
-:programme_10072
+:programme_P-72
     rdf:type :Programme ;
     :programmeCode "10072" ;
     :programmeName "P-72" ;
     :departmentName "D8" ;
-    :hasDirector :senior_teacher_19660630-0020 .
+    :Has_Director :senior_teacher_19660630-0020 .
 
 :department_D8
     :rdf:type :Department .
 
-:programme_10073
+:programme_P-73
     rdf:type :Programme ;
     :programmeCode "10073" ;
     :programmeName "P-73" ;
     :departmentName "D8" ;
-    :hasDirector :senior_teacher_19600814-0002 .
+    :Has_Director :senior_teacher_19600814-0002 .
 
 :department_D8
     :rdf:type :Department .
 
-:programme_10074
+:programme_P-74
     rdf:type :Programme ;
     :programmeCode "10074" ;
     :programmeName "P-74" ;
     :departmentName "D8" ;
-    :hasDirector :senior_teacher_19601021-0018 .
+    :Has_Director :senior_teacher_19601021-0018 .
 
 :department_D8
     :rdf:type :Department .

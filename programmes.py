@@ -1,3 +1,4 @@
+#Assignment 3 - Group 20 Frida Sundelin & Jennifer Hallberg
 import csv
 
 # Input CSV file
@@ -29,12 +30,12 @@ with open(csv_file, newline='', encoding='utf-8') as infile, \
         director = row["Director"]
 
         ttl_entry = f"""
-:programme_{programme_code}
+:programme_{programme_name}
     rdf:type :Programme ;
     :programmeCode "{programme_code}" ;
     :programmeName "{programme_name}" ;
     :departmentName "{department_name}" ;
-    :hasDirector :senior_teacher_{director} .
+    :Has_Director :senior_teacher_{director} .
 
 :department_{department_name}
     :rdf:type :Department .

@@ -1,3 +1,4 @@
+#Assignment 3 - Group 20 Frida Sundelin & Jennifer Hallberg
 import csv
 
 # Input CSV file
