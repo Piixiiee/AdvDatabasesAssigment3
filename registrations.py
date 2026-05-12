@@ -29,6 +29,7 @@ with open(csv_file, newline='', encoding='utf-8') as infile, \
 
         ttl_entry = f"""
 :registrations_{student_id}
+    rdf:type :Registration ;
     :Is_reg :student_{student_id} ;
     :Registered_to :course_instance_{course_instance} ;
     :status "{status}" ;
