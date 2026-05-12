@@ -1,0 +1,375 @@
+@prefix : <http://www.semanticweb.org/frida/ontologies/2026/3/untitled-ontology-3/> .
+@prefix owl: <http://www.w3.org/2002/07/owl#> .
+@prefix rdf: <http://www.w3.org/1999/02/22-rdf-syntax-ns#> .
+@prefix xml: <http://www.w3.org/XML/1998/namespace> .
+@prefix xsd: <http://www.w3.org/2001/XMLSchema#> .
+@prefix rdfs: <http://www.w3.org/2000/01/rdf-schema#> .
+@base <http://www.semanticweb.org/frida/ontologies/2026/3/untitled-ontology-3/> .
+
+<http://www.semanticweb.org/frida/ontologies/2026/3/untitled-ontology-3> rdf:type owl:Ontology .
+
+#################################################################
+#    Object Properties
+#################################################################
+
+###  http://www.semanticweb.org/frida/ontologies/2026/3/untitled-ontology-3#Belongs_To_Department
+:Belongs_To_Department rdf:type owl:ObjectProperty ;
+                       rdfs:domain :Course ;
+                       rdfs:range :Department .
+
+
+###  http://www.semanticweb.org/frida/ontologies/2026/3/untitled-ontology-3#Hours_Has_Course_Code
+:Hours_Has_Course_Code rdf:type owl:ObjectProperty ;
+                       rdfs:domain :Hours ;
+                       rdfs:range :Course .
+
+
+###  http://www.semanticweb.org/frida/ontologies/2026/3/untitled-ontology-3#Owned_By_Programme
+:Owned_By_Programme rdf:type owl:ObjectProperty ;
+                    rdfs:domain :Course ;
+                    rdfs:range :Programme .
+
+
+###  http://www.semanticweb.org/frida/ontologies/2026/3/untitled-ontology-3/Courses_Belongs_to
+:Courses_Belongs_to rdf:type owl:ObjectProperty ;
+                    rdfs:domain :Course ;
+                    rdfs:range :Division .
+
+
+###  http://www.semanticweb.org/frida/ontologies/2026/3/untitled-ontology-3/Enrolled_in
+:Enrolled_in rdf:type owl:ObjectProperty ;
+             rdfs:domain :Student ;
+             rdfs:range :Programme .
+
+
+###  http://www.semanticweb.org/frida/ontologies/2026/3/untitled-ontology-3/Examined_By
+:Examined_By rdf:type owl:ObjectProperty ;
+             rdfs:domain :Course_Instance ;
+             rdfs:range :Senior_Teacher .
+
+
+###  http://www.semanticweb.org/frida/ontologies/2026/3/untitled-ontology-3/Has_Course_Code
+:Has_Course_Code rdf:type owl:ObjectProperty ;
+                 rdfs:domain :Programme_Course ;
+                 rdfs:range :Course .
+
+
+###  http://www.semanticweb.org/frida/ontologies/2026/3/untitled-ontology-3/Has_Director
+:Has_Director rdf:type owl:ObjectProperty ;
+              rdfs:domain :Programme ;
+              rdfs:range :Senior_Teacher .
+
+
+###  http://www.semanticweb.org/frida/ontologies/2026/3/untitled-ontology-3/Has_a
+:Has_a rdf:type owl:ObjectProperty ;
+       rdfs:domain :Course ;
+       rdfs:range :Course_Instance .
+
+
+###  http://www.semanticweb.org/frida/ontologies/2026/3/untitled-ontology-3/Has_course
+:Has_course rdf:type owl:ObjectProperty ;
+            rdfs:domain :Programme ;
+            rdfs:range :Programme_Course .
+
+
+###  http://www.semanticweb.org/frida/ontologies/2026/3/untitled-ontology-3/Hours_Has_Instance
+:Hours_Has_Instance rdf:type owl:ObjectProperty ;
+                    rdfs:domain :Hours ;
+                    rdfs:range :Course_Instance .
+
+
+###  http://www.semanticweb.org/frida/ontologies/2026/3/untitled-ontology-3/Hours_Has_Teacher
+:Hours_Has_Teacher rdf:type owl:ObjectProperty ;
+                   rdfs:domain :Hours ;
+                   rdfs:range :Teacher .
+
+
+###  http://www.semanticweb.org/frida/ontologies/2026/3/untitled-ontology-3/Is_reg
+:Is_reg rdf:type owl:ObjectProperty ;
+        rdfs:domain :Student ;
+        rdfs:range :Registrations .
+
+
+###  http://www.semanticweb.org/frida/ontologies/2026/3/untitled-ontology-3/Might_be
+:Might_be rdf:type owl:ObjectProperty ;
+          rdfs:domain :Teaching_assistant ;
+          rdfs:range :Student .
+
+
+###  http://www.semanticweb.org/frida/ontologies/2026/3/untitled-ontology-3/Owned_by
+:Owned_by rdf:type owl:ObjectProperty ;
+          rdfs:domain :Programme ;
+          rdfs:range :Department .
+
+
+###  http://www.semanticweb.org/frida/ontologies/2026/3/untitled-ontology-3/Owns
+:Owns rdf:type owl:ObjectProperty ;
+      rdfs:domain :Programme ;
+      rdfs:range :Course .
+
+
+###  http://www.semanticweb.org/frida/ontologies/2026/3/untitled-ontology-3/Registered_to
+:Registered_to rdf:type owl:ObjectProperty ;
+               rdfs:domain :Registrations ;
+               rdfs:range :Course_Instance .
+
+
+###  http://www.semanticweb.org/frida/ontologies/2026/3/untitled-ontology-3/Teacher_Belongs_To
+:Teacher_Belongs_To rdf:type owl:ObjectProperty ;
+                    rdfs:domain :Teacher ;
+                    rdfs:range :Division .
+
+
+###  http://www.semanticweb.org/frida/ontologies/2026/3/untitled-ontology-3/Works_for
+:Works_for rdf:type owl:ObjectProperty ;
+           rdfs:domain :Teacher ;
+           rdfs:range :Department .
+
+
+#################################################################
+#    Data properties
+#################################################################
+
+###  http://www.semanticweb.org/frida/ontologies/2026/3/untitled-ontology-3/academicYear
+:academicYear rdf:type owl:DatatypeProperty ;
+              rdfs:domain :Programme_Course ;
+              rdfs:range xsd:dateTime .
+
+
+###  http://www.semanticweb.org/frida/ontologies/2026/3/untitled-ontology-3/admissionYear
+:admissionYear rdf:type owl:DatatypeProperty ;
+               rdfs:domain :Student ;
+               rdfs:range xsd:dateTime .
+
+
+###  http://www.semanticweb.org/frida/ontologies/2026/3/untitled-ontology-3/assignedHours
+:assignedHours rdf:type owl:DatatypeProperty ;
+               rdfs:domain :Hours ;
+               rdfs:range xsd:nonNegativeInteger .
+
+
+###  http://www.semanticweb.org/frida/ontologies/2026/3/untitled-ontology-3/assistantHours
+:assistantHours rdf:type owl:DatatypeProperty ;
+                rdfs:domain :Course_Instance ;
+                rdfs:range xsd:nonNegativeInteger .
+
+
+###  http://www.semanticweb.org/frida/ontologies/2026/3/untitled-ontology-3/ciCourse
+:ciCourse rdf:type owl:DatatypeProperty ;
+          rdfs:domain :Course_Instance ;
+          rdfs:range xsd:string .
+
+
+###  http://www.semanticweb.org/frida/ontologies/2026/3/untitled-ontology-3/courseCode
+:courseCode rdf:type owl:DatatypeProperty ;
+            rdfs:domain :Course ;
+            rdfs:range xsd:string .
+
+
+###  http://www.semanticweb.org/frida/ontologies/2026/3/untitled-ontology-3/courseName
+:courseName rdf:type owl:DatatypeProperty ;
+            rdfs:domain :Course ;
+            rdfs:range xsd:string .
+
+
+###  http://www.semanticweb.org/frida/ontologies/2026/3/untitled-ontology-3/courseType
+:courseType rdf:type owl:DatatypeProperty ;
+            rdfs:domain :Programme_Course ;
+            rdfs:range [ rdf:type rdfs:Datatype ;
+                         owl:oneOf [ rdf:type rdf:List ;
+                                     rdf:first "compulsory" ;
+                                     rdf:rest [ rdf:type rdf:List ;
+                                                rdf:first "compulsory-elective" ;
+                                                rdf:rest [ rdf:type rdf:List ;
+                                                           rdf:first "elective" ;
+                                                           rdf:rest rdf:nil
+                                                         ]
+                                              ]
+                                   ]
+                       ] .
+
+
+###  http://www.semanticweb.org/frida/ontologies/2026/3/untitled-ontology-3/credits
+:credits rdf:type owl:DatatypeProperty ;
+         rdfs:domain :Course ;
+         rdfs:range xsd:decimal .
+
+
+###  http://www.semanticweb.org/frida/ontologies/2026/3/untitled-ontology-3/grade
+:grade rdf:type owl:DatatypeProperty ;
+       rdfs:domain :Registrations ;
+       rdfs:range [ rdf:type rdfs:Datatype ;
+                    owl:oneOf [ rdf:type rdf:List ;
+                                rdf:first 3 ;
+                                rdf:rest [ rdf:type rdf:List ;
+                                           rdf:first 4 ;
+                                           rdf:rest [ rdf:type rdf:List ;
+                                                      rdf:first 5 ;
+                                                      rdf:rest rdf:nil
+                                                    ]
+                                         ]
+                              ]
+                  ] .
+
+
+###  http://www.semanticweb.org/frida/ontologies/2026/3/untitled-ontology-3/graduated
+:graduated rdf:type owl:DatatypeProperty ;
+           rdfs:domain :Student ;
+           rdfs:range xsd:boolean .
+
+
+###  http://www.semanticweb.org/frida/ontologies/2026/3/untitled-ontology-3/level
+:level rdf:type owl:DatatypeProperty ;
+       rdfs:domain :Course ;
+       rdfs:range [ rdf:type rdfs:Datatype ;
+                    owl:oneOf [ rdf:type rdf:List ;
+                                rdf:first "first cycle" ;
+                                rdf:rest [ rdf:type rdf:List ;
+                                           rdf:first "second cycle" ;
+                                           rdf:rest rdf:nil
+                                         ]
+                              ]
+                  ] .
+
+
+###  http://www.semanticweb.org/frida/ontologies/2026/3/untitled-ontology-3/planningNumStudents
+:planningNumStudents rdf:type owl:DatatypeProperty ;
+                     rdfs:domain :Course_Instance ;
+                     rdfs:range xsd:nonNegativeInteger .
+
+
+###  http://www.semanticweb.org/frida/ontologies/2026/3/untitled-ontology-3/programmeCode
+:programmeCode rdf:type owl:DatatypeProperty ;
+               rdfs:domain :Programme ;
+               rdfs:range xsd:string .
+
+
+###  http://www.semanticweb.org/frida/ontologies/2026/3/untitled-ontology-3/programmeName
+:programmeName rdf:type owl:DatatypeProperty ;
+               rdfs:domain :Programme ;
+               rdfs:range xsd:string .
+
+
+###  http://www.semanticweb.org/frida/ontologies/2026/3/untitled-ontology-3/reportedHours
+:reportedHours rdf:type owl:DatatypeProperty ;
+               rdfs:domain :Hours ;
+               rdfs:range xsd:nonNegativeInteger .
+
+
+###  http://www.semanticweb.org/frida/ontologies/2026/3/untitled-ontology-3/seniorHours
+:seniorHours rdf:type owl:DatatypeProperty ;
+             rdfs:domain :Course_Instance ;
+             rdfs:range xsd:nonNegativeInteger .
+
+
+###  http://www.semanticweb.org/frida/ontologies/2026/3/untitled-ontology-3/status
+:status rdf:type owl:DatatypeProperty ;
+        rdfs:domain :Registrations ;
+        rdfs:range [ rdf:type rdfs:Datatype ;
+                     owl:oneOf [ rdf:type rdf:List ;
+                                 rdf:first "completed" ;
+                                 rdf:rest [ rdf:type rdf:List ;
+                                            rdf:first "not started" ;
+                                            rdf:rest [ rdf:type rdf:List ;
+                                                       rdf:first "registred" ;
+                                                       rdf:rest [ rdf:type rdf:List ;
+                                                                  rdf:first "withdrawn" ;
+                                                                  rdf:rest rdf:nil
+                                                                ]
+                                                     ]
+                                          ]
+                               ]
+                   ] .
+
+
+###  http://www.semanticweb.org/frida/ontologies/2026/3/untitled-ontology-3/studentId
+:studentId rdf:type owl:DatatypeProperty ;
+           rdfs:domain :Student ;
+           rdfs:range xsd:string .
+
+
+###  http://www.semanticweb.org/frida/ontologies/2026/3/untitled-ontology-3/studentName
+:studentName rdf:type owl:DatatypeProperty ;
+             rdfs:domain :Student ;
+             rdfs:range xsd:string .
+
+
+###  http://www.semanticweb.org/frida/ontologies/2026/3/untitled-ontology-3/studentProgramme
+:studentProgramme rdf:type owl:DatatypeProperty ;
+                  rdfs:domain :Student ;
+                  rdfs:range xsd:string .
+
+
+###  http://www.semanticweb.org/frida/ontologies/2026/3/untitled-ontology-3/studyYear
+:studyYear rdf:type owl:DatatypeProperty ;
+           rdfs:domain :Programme_Course ;
+           rdfs:range xsd:dateTime .
+
+
+###  http://www.semanticweb.org/frida/ontologies/2026/3/untitled-ontology-3/teacherId
+:teacherId rdf:type owl:DatatypeProperty ;
+           rdfs:domain :Teacher ;
+           rdfs:range xsd:string .
+
+
+###  http://www.semanticweb.org/frida/ontologies/2026/3/untitled-ontology-3/teacherName
+:teacherName rdf:type owl:DatatypeProperty ;
+             rdfs:domain :Teacher ;
+             rdfs:range xsd:string .
+
+
+#################################################################
+#    Classes
+#################################################################
+
+###  http://www.semanticweb.org/frida/ontologies/2026/3/untitled-ontology-3/Course
+:Course rdf:type owl:Class .
+
+
+###  http://www.semanticweb.org/frida/ontologies/2026/3/untitled-ontology-3/Course_Instance
+:Course_Instance rdf:type owl:Class .
+
+
+###  http://www.semanticweb.org/frida/ontologies/2026/3/untitled-ontology-3/Department
+:Department rdf:type owl:Class .
+
+
+###  http://www.semanticweb.org/frida/ontologies/2026/3/untitled-ontology-3/Division
+:Division rdf:type owl:Class .
+
+
+###  http://www.semanticweb.org/frida/ontologies/2026/3/untitled-ontology-3/Hours
+:Hours rdf:type owl:Class .
+
+
+###  http://www.semanticweb.org/frida/ontologies/2026/3/untitled-ontology-3/Programme
+:Programme rdf:type owl:Class .
+
+
+###  http://www.semanticweb.org/frida/ontologies/2026/3/untitled-ontology-3/Programme_Course
+:Programme_Course rdf:type owl:Class .
+
+
+###  http://www.semanticweb.org/frida/ontologies/2026/3/untitled-ontology-3/Registrations
+:Registrations rdf:type owl:Class .
+
+
+###  http://www.semanticweb.org/frida/ontologies/2026/3/untitled-ontology-3/Senior_Teacher
+:Senior_Teacher rdf:type owl:Class ;
+                rdfs:subClassOf :Teacher .
+
+
+###  http://www.semanticweb.org/frida/ontologies/2026/3/untitled-ontology-3/Student
+:Student rdf:type owl:Class .
+
+
+###  http://www.semanticweb.org/frida/ontologies/2026/3/untitled-ontology-3/Teacher
+:Teacher rdf:type owl:Class .
+
+
+###  http://www.semanticweb.org/frida/ontologies/2026/3/untitled-ontology-3/Teaching_assistant
+:Teaching_assistant rdf:type owl:Class ;
+                    rdfs:subClassOf :Teacher .
+
+
+###  Generated by the OWL API (version 4.5.29.2024-05-13T12:11:03Z) https://github.com/owlcs/owlapi
